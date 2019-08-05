@@ -5,7 +5,7 @@
     >
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Stefane Fermigier</div>
-        <div class="text-green-700 leading-tight">Fullstack entrepreneur</div>
+        <div class="text-brand-700 leading-tight">Fullstack entrepreneur</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image
@@ -243,12 +243,12 @@
                 type="email"
                 name="email"
                 placeholder="Your email address"
-                class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10"
+                class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-brand-600 z-10"
                 required
               />
               <button
                 data-element="submit"
-                class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0"
+                class="flex-2 w-40 uppercase bg-brand-500 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-brand-600 focus:bg-brand-600 z-10 w-full sm:w-auto mt-4 sm:mt-0"
               >
                 <span>Subscribe</span>
               </button>

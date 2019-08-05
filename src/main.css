@@ -4,6 +4,50 @@
 
 @tailwind utilities;
 
+/* Custos perso */
+p a {
+  @apply text-brand-800 font-bold;
+}
+
+p a {
+  @apply bg-yellow-100;
+  transition: background-color 0.5s;
+}
+
+p a:hover {
+  @apply bg-brand-100;
+  transition: background-color 0.5s;
+}
+
+.content h1 {
+  @apply text-4xl font-bold mb-6;
+}
+
+.content h2 {
+  @apply text-2xl font-bold mb-6;
+}
+
+.content h3 {
+  @apply text-xl italic mb-6;
+}
+
+.content ul {
+  @apply text-lg;
+}
+
+.content ul li {
+  @apply checkmark mb-6;
+}
+
+
+/*nav .active {*/
+/*  font-weight: bold;*/
+/*  @apply border-black border-b;*/
+/*}*/
+
+
+/* Themes*/
+
 .theme-light {
   --bg-background-primary: white;
   --bg-background-secondary: #f7fafc;
@@ -54,21 +98,10 @@
     color: #cbd5e0;
 }
 
+/* Other */
+
 .content-wrapper {
   transition: background-color .25s;
-}
-
-a {
-  @apply text-green-700 font-bold;
-}
-
-a:hover {
-  @apply text-green-800;
-}
-
-nav .active {
-  font-weight: bold;
-  @apply border-black border-b;
 }
 
 .container-inner {

@@ -9,14 +9,17 @@ const purgecss = require("@fullhuman/postcss-purgecss");
 
 const postcssPlugins = [tailwind()];
 
-if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
+if (process.env.NODE_ENV === "production") {
+  postcssPlugins.push(purgecss());
+}
 
 module.exports = {
-  siteName: "Gridsome Portfolio Starter",
+  siteName: "Stefane Fermigier, tech entrepreneur",
   siteDescription:
-    "A simple portfolio theme for Gridsome powered by Tailwind CSS v1.0",
-  siteUrl: "https://gridsome-portfolio-starter.netlify.com",
+    "xxx",
+  siteUrl: "https://fermigier.com",
   plugins: [
+    // Blog
     {
       use: "@gridsome/source-filesystem",
       options: {
@@ -39,6 +42,16 @@ module.exports = {
         },
       },
     },
+
+    // Content for pages
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "blocks/*.md",
+        typeName: "Block",
+      },
+    },
+
     {
       use: "gridsome-plugin-rss",
       options: {
@@ -68,6 +81,7 @@ module.exports = {
       },
     },
   ],
+
   transformers: {
     remark: {
       externalLinksTarget: "_blank",
@@ -75,6 +89,7 @@ module.exports = {
       anchorClassName: "icon icon-link",
     },
   },
+
   css: {
     loaderOptions: {
       postcss: {
