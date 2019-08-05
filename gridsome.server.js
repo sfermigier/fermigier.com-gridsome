@@ -59,7 +59,7 @@ module.exports = function(api, options) {
     const output = {
       dir: "./static",
       name: "search.json",
-      ...options.output
+      ...options.output,
     };
 
     const outputPath = path.resolve(process.cwd(), output.dir);

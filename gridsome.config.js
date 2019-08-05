@@ -26,18 +26,18 @@ module.exports = {
           tags: {
             typeName: "Tag",
             route: "tag/:id",
-            create: true
-          }
+            create: true,
+          },
         },
         remark: {
           plugins: [
             [
               "gridsome-plugin-remark-shiki",
-              { theme: "Material-Theme-Palenight", skipInline: true }
-            ]
-          ]
-        }
-      }
+              { theme: "Material-Theme-Palenight", skipInline: true },
+            ],
+          ],
+        },
+      },
     },
     {
       use: "gridsome-plugin-rss",
@@ -46,40 +46,40 @@ module.exports = {
         feedOptions: {
           title: "Gridsome Portfolio Starter Blog",
           feed_url: "https://gridsome-portfolio-starter.netlify.com/rss.xml",
-          site_url: "https://gridsome-portfolio-starter.netlify.com/"
+          site_url: "https://gridsome-portfolio-starter.netlify.com/",
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
           url: "https://gridsome-portfolio-starter.netlify.com" + node.path,
           author: "Andre Madarang",
-          date: node.date
+          date: node.date,
         }),
         output: {
           dir: "./static",
-          name: "rss.xml"
-        }
-      }
+          name: "rss.xml",
+        },
+      },
     },
     {
       use: "@gridsome/plugin-sitemap",
       options: {
-        cacheTime: 600000 // default
-      }
-    }
+        cacheTime: 600000, // default
+      },
+    },
   ],
   transformers: {
     remark: {
       externalLinksTarget: "_blank",
       externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      anchorClassName: "icon icon-link"
-    }
+      anchorClassName: "icon icon-link",
+    },
   },
   css: {
     loaderOptions: {
       postcss: {
-        plugins: postcssPlugins
-      }
-    }
-  }
+        plugins: postcssPlugins,
+      },
+    },
+  },
 };
