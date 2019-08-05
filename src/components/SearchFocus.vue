@@ -12,7 +12,7 @@ export default {
   },
   beforeDestroy() {
     window.removeEventListener("keyup", this.handler);
-  }
+  },
 };
 </script>
 

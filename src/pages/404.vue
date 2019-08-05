@@ -10,7 +10,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Page Not Found"
-  }
+    title: "Page Not Found",
+  },
 };
 </script>

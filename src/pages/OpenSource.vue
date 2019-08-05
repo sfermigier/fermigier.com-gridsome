@@ -56,7 +56,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Open Source Projects"
-  }
+    title: "Open Source Projects",
+  },
 };
 </script>

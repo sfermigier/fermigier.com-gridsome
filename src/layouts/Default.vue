@@ -172,7 +172,7 @@ export default {
     };
   },
   created() {
-    Bus.$on("update-theme", (theme) => {
+    Bus.$on("update-theme", theme => {
       this.theme = theme;
       localStorage.setItem("theme", theme);
     });
@@ -182,7 +182,7 @@ export default {
     toggle() {
       this.isOpen = !this.isOpen;
     },
-  }
+  },
 };
 </script>
 

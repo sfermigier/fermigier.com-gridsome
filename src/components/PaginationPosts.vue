@@ -3,7 +3,7 @@
     <g-link
       :to="previousPage"
       :class="{
-        'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showPreviousPage
+        'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showPreviousPage,
       }"
       >&larr; Prev</g-link
     >
@@ -11,7 +11,7 @@
     <g-link
       :to="nextPage"
       :class="{
-        'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showNextPage
+        'text-gray-400 hover:text-gray-400 cursor-not-allowed': !showNextPage,
       }"
       >Next &rarr;</g-link
     >
@@ -37,7 +37,7 @@ export default {
       return this.totalPages > this.currentPage
         ? `${this.base}/${this.currentPage + 1}`
         : `${this.base}/${this.currentPage}`;
-    }
-  }
+    },
+  },
 };
 </script>

@@ -92,7 +92,7 @@ import SearchFocus from "./SearchFocus";
 
 export default {
   components: {
-    SearchFocus
+    SearchFocus,
   },
   created() {
     axios(this.$static.metaData.pathPrefix + "/search.json")
@@ -118,8 +118,8 @@ export default {
         distance: 500,
         maxPatternLength: 32,
         minMatchCharLength: 1,
-        keys: ["title", "summary"]
-      }
+        keys: ["title", "summary"],
+      },
     };
   },
   methods: {
@@ -150,7 +150,7 @@ export default {
     },
     scrollIntoView() {
       this.$refs.results.children[this.highlightedIndex].scrollIntoView({
-        block: "nearest"
+        block: "nearest",
       });
     },
     gotoLink() {
@@ -162,8 +162,8 @@ export default {
       if (e.key === "/") {
         this.$refs.search.focus();
       }
-    }
-  }
+    },
+  },
 };
 </script>
 

@@ -77,11 +77,11 @@ import PaginationPosts from "../components/PaginationPosts";
 export default {
   metaInfo() {
     return {
-      title: "Tag: " + this.$page.tag.title
+      title: "Tag: " + this.$page.tag.title,
     };
   },
   components: {
-    PaginationPosts
-  }
+    PaginationPosts,
+  },
 };
 </script>

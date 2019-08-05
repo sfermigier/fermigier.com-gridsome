@@ -46,14 +46,15 @@ export default {
   props: {
     theme: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   methods: {
     toggleTheme() {
-      const newTheme = (this.theme === "theme-light") ? "theme-dark" : "theme-light";
+      const newTheme =
+        this.theme === "theme-light" ? "theme-dark" : "theme-light";
       Bus.$emit("update-theme", newTheme);
-    }
-  }
+    },
+  },
 };
 </script>

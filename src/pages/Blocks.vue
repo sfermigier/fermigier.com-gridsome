@@ -13,7 +13,7 @@
           }}</g-link>
         </h2>
 
-        <div class="text-lg mb-4" v-html="block.node.content"/>
+        <div class="text-lg mb-4" v-html="block.node.content" />
       </div>
       <!-- end post -->
     </div>
@@ -42,7 +42,7 @@ query Blocks ($page: Int) {
 <script>
 export default {
   metaInfo: {
-    title: "Blocks"
+    title: "Blocks",
   },
 };
 </script>
