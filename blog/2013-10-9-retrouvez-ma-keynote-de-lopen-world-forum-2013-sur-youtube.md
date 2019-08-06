@@ -6,7 +6,7 @@ summary: ""
 tags: ['GTLL', 'Open World Forum']
 ---
 
-J'étais sur scène jeudi dernier pour présenter les "grands défis du logiciel libre" pour le [GTLL de Systematic](http://gt-logiciel-libre.org/):
+J'étais sur scène jeudi dernier pour présenter les "grands défis du logiciel libre" pour le GTLL de Systematic:
 
 - After PC
 - Qualité logicielle
