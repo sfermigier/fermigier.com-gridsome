@@ -3,7 +3,7 @@ title: "JSR 170 (Java Content Repository) and Zope 3 ECM"
 date: 2005-06-25
 path: blog/2005/6/jsr-170-java-content-repository-zope-3-ecm
 summary: "I&#39;m at the Z3ECM sprint in EuroPython 2005 and I&#39;ve spent yesterday trying to play with the JCR (Java Content Repository aka JSR-170) trying to understand how easy it would be to how a Zope content management system into a JCR (short answer: not easy - despite of claims of interoperability, JCR is a 100% Java technology)."
-tags: ['Python', 'Zope', 'CPS', 'Java', 'Apache']
+tags: ['Python', 'Zope', 'CPS', 'SQL', 'Java', 'Apache']
 ---
 
 I&#39;m at the Z3ECM sprint in EuroPython 2005 and I&#39;ve spent yesterday trying

@@ -148,6 +148,9 @@
         />
       </svg>
     </div>
+
+    <!-- Matomo -->
+    <img src="https://stats.abilian.com/matomo.php?idsite=7&amp;rec=1" style="border:0" alt="" />
   </div>
 </template>
 

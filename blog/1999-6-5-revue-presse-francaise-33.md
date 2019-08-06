@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-06-05
 path: blog/1999/6/revue-presse-francaise-33
 summary: "Le magazine 60 millions de consommateurs de juin consacre 3 pages à la suite StarOffice de l'éditeur allemand Star Division."
-tags: ['Apache', 'Linux', 'GNU', 'AFUL']
+tags: ['Apache', 'Linux', 'GNU', 'Unix', 'AFUL']
 ---
 
 <P>Le magazine <B>60 millions de consommateurs</B> de juin

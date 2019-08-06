@@ -95,10 +95,10 @@ export default {
           label: "Writings",
           link: "/writing/",
         },
-        {
-          label: "About",
-          link: "/about/",
-        },
+        // {
+        //   label: "About",
+        //   link: "/about/",
+        // },
         {
           label: "Blog",
           link: "/blog/",

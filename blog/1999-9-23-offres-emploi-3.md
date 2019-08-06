@@ -3,7 +3,7 @@ title: "Offres d'emploi"
 date: 1999-09-23
 path: blog/1999/9/offres-emploi-3
 summary: "1) Le site linuxbusiness.com, qui recense, au niveau mondial, les utilisations de Linux en entreprise, les études de marché, les professionnels des logiciels libres, etc., recrute un webmaster (responsable éditorial) sous forme d'un salarié à temps partiel."
-tags: ['Python', 'Java', 'Apache', 'Linux']
+tags: ['Python', 'Java', 'Apache', 'Linux', 'Unix']
 ---
 
 <P>1) Le site <A HREF="http://www.linuxbusiness.com/">linuxbusiness.com</A>,

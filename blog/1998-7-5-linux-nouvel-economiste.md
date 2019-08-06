@@ -3,7 +3,7 @@ title: "Linux dans le Nouvel Economiste"
 date: 1998-07-05
 path: blog/1998/7/linux-nouvel-economiste
 summary: "Après La Tribune, c'est le très sérieux Nouvel Economiste qui se penche sur les mystères du logiciel libre."
-tags: ['Linux']
+tags: ['Linux', 'Microsoft']
 ---
 
 <P>

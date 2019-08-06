@@ -3,7 +3,7 @@ title: "Compte-rendu du premier congres de la FFII"
 date: 1999-06-14
 path: blog/1999/6/compte-rendu-premier-congres-ffii
 summary: "La FFII a tenu son congrès annuel dans une école en banlieue de Cologne."
-tags: ['Linux', 'Brevets']
+tags: ['Linux', 'Unix', 'Brevets', 'Microsoft']
 ---
 
 <P>La <A HREF="http://www.ffii.org/">FFII</A> a tenu son congrès annuel dans

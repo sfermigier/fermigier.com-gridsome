@@ -3,7 +3,7 @@ title: "Tour de Nuxeo, Stage 1 - Why manage content?"
 date: 2011-07-04
 path: blog/2011/7/why-manage-content
 summary: "This is stage 1 of the 2011 \"Tour de Nuxeo\"."
-tags: ['Nuxeo', 'Java']
+tags: ['Nuxeo', 'Java', 'Unix']
 ---
 
 <img style="float: right; margin-left: 5px;" src="/images/6a010536291c30970b01543376aa03970c-800wi.png" alt="Photo credit: hada55 on Flickr"/>

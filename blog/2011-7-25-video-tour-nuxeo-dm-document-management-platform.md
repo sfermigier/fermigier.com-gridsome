@@ -17,43 +17,43 @@ The Tour de France 2011 is already over (congratulations to Cadel Evans, Mark Ca
 
 <h2>Introduction</h2>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/mgpteLDEy3g" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/mgpteLDEy3g" frameborder="0" allowfullscreen></iframe>
 
 <br/></p>
 
 <h2>Basic concepts</h2>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/adn9jnA1Qp0" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/adn9jnA1Qp0" frameborder="0" allowfullscreen></iframe>
 
 <br/></p>
 
 <h2>Working with content</h2>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/kxFWWkB40pk" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/kxFWWkB40pk" frameborder="0" allowfullscreen></iframe>
 
 <br/></p>
 
 <h2>Workflow</h2>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/9AW_9IGqqwA" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/9AW_9IGqqwA" frameborder="0" allowfullscreen></iframe>
 
 <br/></p>
 
 <h2>Publishing</h2>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/7VMlzadlncg" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/7VMlzadlncg" frameborder="0" allowfullscreen></iframe>
 
 <br/></p>
 
 <h2>Administration</h2>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/iV1ashpHKnU" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/iV1ashpHKnU" frameborder="0" allowfullscreen></iframe>
 
 <br/></p>
 
 <h2>Extending</h2>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/tK63vaxons0" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/tK63vaxons0" frameborder="0" allowfullscreen></iframe>
 
 <br/></p>
 

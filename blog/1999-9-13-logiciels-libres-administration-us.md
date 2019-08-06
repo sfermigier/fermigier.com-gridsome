@@ -3,7 +3,7 @@ title: "Logiciels libres dans l'administration US"
 date: 1999-09-13
 path: blog/1999/9/logiciels-libres-administration-us
 summary: "Je signale un article du Federal Times (publication à destination du personnel civil du gouvernement US, mais sans caractère officiel) qui indique que l'Administration US va créer au sein du National Security Coucil un organisme pour capitaliser les résultats d'expériences d'utilisation de logiciels libres (dont Linux), faites dans certaines agences gouvernementales désignées à cet effet."
-tags: ['Linux']
+tags: ['Linux', 'Microsoft']
 ---
 
 <P>Je signale un article du Federal Times (publication à destination

@@ -3,7 +3,7 @@ title: "Revue de presse: 01"
 date: 1999-05-20
 path: blog/1999/5/revue-presse-01
 summary: "Dans 01 Informatique du 14 Mai (numero 1543) un article sur Linux en page 43: \"Linux une plateforme presque comme les autres\"."
-tags: ['Linux']
+tags: ['Linux', 'Microsoft']
 ---
 
 <P>Dans <B>01 Informatique</B> du 14 Mai (numero 1543) un article sur Linux en

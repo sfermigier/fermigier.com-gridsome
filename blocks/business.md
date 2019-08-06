@@ -10,7 +10,7 @@ title: Business
 
 * [Nuxeo](https://www.nuxeo.com/): I've founded Nuxeo in 2000,
   and have been its CEO from 2000 to 2008, then its executive chairman until 2012.
-  
+  I sold my shares in 2017.
 
 ## Businesses I have invested in
 
@@ -24,4 +24,3 @@ title: Business
 
 * [Mandriva](https://fr.wikipedia.org/wiki/Mandriva): I was an early
   investor in Mandriva (néé Linux Mandrake).
-  

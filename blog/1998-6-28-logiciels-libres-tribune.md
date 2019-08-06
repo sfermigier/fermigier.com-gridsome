@@ -3,7 +3,7 @@ title: "Logiciels libres dans la tribune"
 date: 1998-06-28
 path: blog/1998/6/logiciels-libres-tribune
 summary: "Le quotidien économique la tribune publiait le 26/06 un article (d'une banalité affligeante) intitulé L'alternative \"logiciels libres\": La forteresse Microsoft est-elle inébranlable."
-tags: ['Apache']
+tags: ['Apache', 'Microsoft']
 ---
 
 <P>

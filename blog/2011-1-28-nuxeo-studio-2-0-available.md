@@ -20,13 +20,13 @@ Since Nuxeo Studio is a graphical tool, we thought it would be useful to produce
 
 <ul>
 
-<li><p><a href="http://www.youtube.com/watch?v=CQ2tk-cfxGk">3 minutes introduction</a></p>
+<li><p><a href="https://www.youtube.com/watch?v=CQ2tk-cfxGk">3 minutes introduction</a></p>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/cSgN4gTsxjk" frameborder="0" allowfullscreen></iframe></p></li>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/cSgN4gTsxjk" frameborder="0" allowfullscreen></iframe></p></li>
 
-<li><p><a href="http://www.youtube.com/watch?v=B_ebqAp_owk">7 minutes use case</a></p>
+<li><p><a href="https://www.youtube.com/watch?v=B_ebqAp_owk">7 minutes use case</a></p>
 
-<p><iframe width="425" height="349" src="http://www.youtube.com/embed/B_ebqAp_owk" frameborder="0" allowfullscreen></iframe></p></li>
+<p><iframe width="425" height="349" src="https://www.youtube.com/embed/B_ebqAp_owk" frameborder="0" allowfullscreen></iframe></p></li>
 
 </ul>
 

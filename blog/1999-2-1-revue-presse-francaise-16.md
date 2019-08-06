@@ -3,7 +3,7 @@ title: "Revue de presse française"
 date: 1999-02-01
 path: blog/1999/2/revue-presse-francaise-16
 summary: "Le mensuel PC Expert de février, n°81, 33 F, parle de Linux à plusieurs reprises: a - une publicité pleine page de MA qui lance \"Sautez le pas."
-tags: ['Python', 'Linux', 'Red Hat', 'GNOME']
+tags: ['Python', 'Linux', 'Red Hat', 'GNOME', 'Microsoft']
 ---
 
 <P>Le mensuel <B>PC Expert</B> de février, n°81, 33 F, parle de Linux à

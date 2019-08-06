@@ -3,7 +3,7 @@ title: "Nouveaux benchs Linux / NT"
 date: 1999-06-30
 path: blog/1999/6/nouveaux-benchs-linux-nt
 summary: "On se souvient des tests complètement fantaisistes de Mindcraft (société financée par Microsoft) qui il y a deux mois concluaient que NT était de 2.5 a 3.7 fois plus performant que Linux."
-tags: ['Apache', 'Linux']
+tags: ['Apache', 'Linux', 'Microsoft']
 ---
 
 <P>

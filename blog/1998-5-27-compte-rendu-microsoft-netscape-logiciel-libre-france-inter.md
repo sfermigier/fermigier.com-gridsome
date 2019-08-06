@@ -3,7 +3,7 @@ title: "Compte-rendu : Microsoft, Netscape et Logiciel Libre sur France-Inter."
 date: 1998-05-27
 path: blog/1998/5/compte-rendu-microsoft-netscape-logiciel-libre-france-inter
 summary: "Un représentant de Microsoft-France, le directeur de Netscape-France, quelques journalistes, mais aussi et surtout Roberto Di Cosmo en pourfendeur de Microsoft et en défenseur des Logiciels Libres: un casting alléchant."
-tags: ['Apache', 'Linux', 'GNU']
+tags: ['Apache', 'Linux', 'GNU', 'Unix', 'Microsoft']
 ---
 
 <P>

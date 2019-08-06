@@ -3,7 +3,7 @@ title: "Revue de presse française: PC Expert et .net"
 date: 1998-08-29
 path: blog/1998/8/revue-presse-francaise-pc-expert-net
 summary: "Le mensuel PC Expert de septembre (n°76, 29 F) parle de Linux à trois reprises: Dans la rubrique Courrier, un lecteur, qui signe monsieur Darche [merci monsieur Darche, si vous me lisez."
-tags: ['Java', 'Apache', 'Linux', 'Debian', 'Red Hat', 'KDE', 'AFUL']
+tags: ['Java', 'Apache', 'Linux', 'Debian', 'Red Hat', 'KDE', 'Unix', 'AFUL', 'Microsoft']
 ---
 
 <UL>

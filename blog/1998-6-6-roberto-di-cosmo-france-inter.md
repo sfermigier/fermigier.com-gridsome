@@ -3,7 +3,7 @@ title: "Roberto Di Cosmo sur France-Inter"
 date: 1998-06-06
 path: blog/1998/6/roberto-di-cosmo-france-inter
 summary: "Roberto Di Cosmo, l'auteur du génial essai Piège dans le cyberespace, parlait ce matin (6 mai 98) sur France-Inter."
-tags: ['Linux']
+tags: ['Linux', 'Microsoft']
 ---
 
 <P>Roberto Di Cosmo, l'auteur du génial essai

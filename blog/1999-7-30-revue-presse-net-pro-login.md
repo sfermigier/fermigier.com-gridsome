@@ -3,7 +3,7 @@ title: "Revue de presse: .Net Pro et Login:"
 date: 1999-07-30
 path: blog/1999/7/revue-presse-net-pro-login
 summary: "Dans le numéro de juillet-août de .Net pro, un article intitulé ``Liberté pour les logiciels'' (j'aurais préféré ``Liberté pour les utilisateurs'' mais c'est surrement moins vendeur)."
-tags: ['Apache', 'Linux', 'GNU', 'Mandrake', 'Mozilla']
+tags: ['Apache', 'Linux', 'GNU', 'Mandrake', 'Unix', 'Mozilla']
 ---
 
 <P>Dans le numéro de juillet-août de <B>.Net pro</B>, un article intitulé

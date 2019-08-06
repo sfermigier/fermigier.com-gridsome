@@ -3,7 +3,7 @@ title: "Articles récents en anglais"
 date: 1998-04-26
 path: blog/1998/4/articles-recents-anglais
 summary: "Quelques articles récents sur les logiciels libres, en anglais: Andreessen plugs Linux, News.com, April 24, 1998."
-tags: ['Linux', 'Open Source']
+tags: ['Linux', 'Open Source', 'Microsoft']
 ---
 
 <P>

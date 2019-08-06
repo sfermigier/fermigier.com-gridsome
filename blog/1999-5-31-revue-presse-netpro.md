@@ -3,7 +3,7 @@ title: "Revue de presse: .netpro"
 date: 1999-05-31
 path: blog/1999/5/revue-presse-netpro
 summary: "J'ai récemment acheté et lu la revue .netpro, parlant de l'Internet pour les professionnels, en kiosque, 38F avec CD-Rom (no 12, juin 1999)."
-tags: ['Apache', 'Linux']
+tags: ['Apache', 'Linux', 'Microsoft']
 ---
 
 <P>J'ai récemment acheté et lu la revue <B>.netpro</B>, parlant de

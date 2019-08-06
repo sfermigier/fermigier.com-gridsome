@@ -3,7 +3,7 @@ title: "Prosélytisme Linux: problèmes et solutions"
 date: 1998-04-26
 path: blog/1998/4/proselytisme-linux-problemes-solutions
 summary: "Le dernier numéro de la Linux Gazette contient un article qui présente le principal problème que l'on rencontre lorsqu'on essaye de convertir quelqu'un qui ne connait pas le monde UNIX à Linux: le découragement face à la masse d'informations nouvelles à apprendre."
-tags: ['Linux', 'GNU']
+tags: ['Linux', 'GNU', 'Unix']
 ---
 
 <P>Le dernier numéro de la <EM>Linux Gazette</EM> contient un article

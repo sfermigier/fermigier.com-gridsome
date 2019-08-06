@@ -3,7 +3,7 @@ title: "Nouvelles brèves mais importantes"
 date: 1998-07-15
 path: blog/1998/7/nouvelles-breves-mais-importantes
 summary: "Une excellente interview de Linus Torvalds."
-tags: ['Linux', 'KDE']
+tags: ['Linux', 'KDE', 'Unix']
 ---
 
 <UL>

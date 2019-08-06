@@ -3,7 +3,7 @@ title: "Revue de presse"
 date: 1999-02-13
 path: blog/1999/2/revue-presse-12
 summary: "Linux Magazine France n°3, \"Le magazine en français 100% Linux\", daté du 15 février 1999, 20 F, est sorti."
-tags: ['Linux', 'AFUL']
+tags: ['Linux', 'AFUL', 'Microsoft']
 ---
 
 <P>

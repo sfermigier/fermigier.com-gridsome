@@ -3,7 +3,7 @@ title: "Lectures en anglais"
 date: 1998-05-28
 path: blog/1998/5/lectures-anglais
 summary: "Red Hat Linux 5.1 Offers Improved Performance, TechWeb, 27 mai 1998."
-tags: ['Linux', 'Red Hat', 'Mozilla']
+tags: ['Linux', 'Red Hat', 'Unix', 'Mozilla']
 ---
 
 <UL>

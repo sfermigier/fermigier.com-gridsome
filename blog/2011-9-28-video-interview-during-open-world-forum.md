@@ -12,7 +12,7 @@ Here me answer questions about our open source business model, about open source
 
 Here is the video on YouTube:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/YSOuaI8MFVA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YSOuaI8MFVA" frameborder="0" allowfullscreen></iframe>
 
 
 

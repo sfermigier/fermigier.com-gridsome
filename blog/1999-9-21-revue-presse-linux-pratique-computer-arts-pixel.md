@@ -3,7 +3,7 @@ title: "Revue de presse: Linux Pratique, Computer Arts, Pixel..."
 date: 1999-09-21
 path: blog/1999/9/revue-presse-linux-pratique-computer-arts-pixel
 summary: "Le numéro 2 de Linux Pratique est sorti en kiosque."
-tags: ['Apache', 'Linux', 'Debian', 'Red Hat']
+tags: ['Apache', 'Linux', 'Debian', 'Red Hat', 'Unix']
 ---
 
 <P>Le numéro 2 de <B>Linux Pratique</B> est sorti en kiosque. Il est disponible

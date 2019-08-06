@@ -3,7 +3,7 @@ title: "Revue de presse: Login:, RTL"
 date: 1999-06-09
 path: blog/1999/6/revue-presse-login-rtl
 summary: "Le mensuel Login: de juin (ex-Dream, dont le logo est aussi sur la couverture), n°63, 39 F, est paru."
-tags: ['Linux']
+tags: ['Linux', 'Unix']
 ---
 
 <P>Le mensuel <B>Login:</B> de juin (ex-Dream, dont le logo est aussi sur la

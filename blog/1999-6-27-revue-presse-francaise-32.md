@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-06-27
 path: blog/1999/6/revue-presse-francaise-32
 summary: "01 Informatique No 1549 \"Les OS propriétaires à l'ombre de Linux."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux', 'Mandrake', 'Unix']
 ---
 
 <P><B>01 Informatique</B> No 1549</P>

@@ -3,7 +3,7 @@ title: "Le point sur l'article du Point"
 date: 1998-08-19
 path: blog/1998/8/point-article-point
 summary: "L'hebdomadaire \"Le Point\" (n°1352 du 15 août, 20 F) consacre, dans sa rubrique \"Portrait\" de sa section \"Economie\", deux pages à Linus Torvalds, \"Linus Torvalds, l'anti-Bill Gates\"."
-tags: ['Linux', 'Red Hat']
+tags: ['Linux', 'Red Hat', 'Microsoft']
 ---
 
 <P>

@@ -3,7 +3,7 @@ title: "Les infomanagers aussi préfèrent Linux"
 date: 1998-06-25
 path: blog/1998/6/infomanagers-aussi-preferent-linux
 summary: "Selon une étude récente de Datapro (portant sur 829 personnes sondées), le système Linux est celui qui donne la plus grande satisfaction générale, devant Solaris et HP-UX."
-tags: ['Java', 'Linux']
+tags: ['Java', 'Linux', 'Unix', 'Solaris']
 ---
 
 <P>

@@ -3,7 +3,7 @@ title: "Revue de presse: Langages et Systemes"
 date: 1999-04-13
 path: blog/1999/4/revue-presse-langages-systemes
 summary: "Je viens d'acheter le hors série N.11 d'Info PC: Languages &amp; Systemes."
-tags: ['Python', 'Apache', 'Linux', 'GNOME']
+tags: ['Python', 'Apache', 'Linux', 'GNOME', 'Unix']
 ---
 
 <P>Je viens d'acheter le hors série N.11 d'Info PC: <B>Languages &amp;

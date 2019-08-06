@@ -3,7 +3,7 @@ title: "Des logiciels libres gratuits pour tous"
 date: 1998-01-01
 path: blog/1998/1/logiciels-libres-gratuits-tous
 summary: "Article de Bernard Lang dans le Monde diplomatique de janvier."
-tags: ['Linux']
+tags: ['Linux', 'Microsoft']
 ---
 
 <P>

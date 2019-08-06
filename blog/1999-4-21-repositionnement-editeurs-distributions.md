@@ -3,7 +3,7 @@ title: "Repositionnement des editeurs de distributions"
 date: 1999-04-21
 path: blog/1999/4/repositionnement-editeurs-distributions
 summary: "Plusieurs annonces récentes laissent attendre un repositionnement notable des principaux acteurs du marché Linux."
-tags: ['Linux', 'Debian', 'Mandrake', 'Red Hat', 'GNOME', 'KDE']
+tags: ['Linux', 'Debian', 'Mandrake', 'Red Hat', 'GNOME', 'KDE', 'Unix', 'Microsoft']
 ---
 
 <P>Plusieurs annonces récentes laissent attendre un repositionnement

@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-03-01
 path: blog/1999/3/revue-presse-francaise-17
 summary: "Bruno Paul nous a communiqué un compte-rendu détaillé du dossier sur les logiciels libres paru la semaine dernière dans Décision Micro &amp; Réseaux."
-tags: ['Linux', 'KDE', 'AFUL']
+tags: ['Linux', 'KDE', 'Unix', 'Solaris', 'AFUL']
 ---
 
 <P>

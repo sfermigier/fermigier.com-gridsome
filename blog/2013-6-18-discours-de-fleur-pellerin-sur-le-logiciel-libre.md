@@ -8,7 +8,7 @@ tags: ['Mozilla']
 
 Le 13 juin dernier, Fleur Pellerin était invitée à l'inauguration des nouveaux bureaux de Mozilla à Paris, et y a prononcé le discours, très remarqué, suivant :
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/V-IThhbyCiM" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/V-IThhbyCiM" frameborder="0" allowfullscreen></iframe>
 
 Que vous pouvez également télécharger directement ([fichier .m4v, taille: 84Mo](/static/videos/Fleur-Pellerin-Mozilla-France.m4v)).
 

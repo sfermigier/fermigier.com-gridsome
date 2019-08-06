@@ -16,7 +16,7 @@
 
 <page-query>
 query Block {
-  block (path: "/blocks/business") {
+  block (path: "/blocks/about") {
     title
     content
   }

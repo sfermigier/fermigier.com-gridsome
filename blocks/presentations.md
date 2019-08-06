@@ -1,11 +1,16 @@
 ---
-Title: Presentations
+title: Presentations (conferences, lectures, etc.)
 ---
 
 I enjoy giving talks on subjects that matter to me.
 
 Here's a (partial) list of the talks and lectures I have given over the last ten years.
 
+## 2019
+
+### May
+
+* "Why and how to open source you software (when you're not a software company)". Private seminar.
 
 ## 2017
 
@@ -19,7 +24,7 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### March
 
-* "Résultats de l'enquête Big Data / IA auprès des pôles de compétitivité" [[Speakerdeck](https://speakerdeck.com/sfermigier/ia-aupres-des-poles-de-competitivite)]
+* "Résultats de l'enquête Big Data / IA auprès des pôles de compétitivité". [[Speakerdeck](https://speakerdeck.com/sfermigier/ia-aupres-des-poles-de-competitivite)]
 
 ## 2015
 
@@ -31,7 +36,11 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### December
 
-* "15 ans de politiques publiques du logiciel libre en France" [[SlideShare](https://www.slideshare.net/sfermigier/15-anspolitiquelogiciellibre)]
+* "15 ans de politiques publiques du logiciel libre en France". Séminaire privé. [[SlideShare](https://www.slideshare.net/sfermigier/15-anspolitiquelogiciellibre)]
+
+### May
+
+* "Les MOOC comme plateforme Web 2.0", présentation lors d'un colloque à l'[Académie des Technologies](https://www.academie-technologies.fr/blog/posts/formation-en-ligne-flot-s-mooc-s-seance-du-14-mai-2014).
 
 ## 2013
 
@@ -213,13 +222,13 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### June
 
-*   "CPS: Past, Present, Future", Europython 2003, Goteborg, Sweden.
+* "CPS: Past, Present, Future", Europython 2003, Goteborg, Sweden.
 
 ## 2002
 
 ### September
 
-*   "Zope et Nuxeo CPS: le triomphe du Web « plug and play »", Lecture at ISIMA engineering school, Clermont-Ferrand, France.
+* "Zope et Nuxeo CPS: le triomphe du Web « plug and play »", Lecture at ISIMA engineering school, Clermont-Ferrand, France.
 
 ### July
 

@@ -6,7 +6,7 @@ summary: "Le Groupe Thématique Logiciel Libre vient de publier un \"livret bleu
 tags: ['Brevets']
 ---
 
-Le Groupe Thématique Logiciel Libre vient de publier un "livret bleu" sur les fondamentaux juridiques du logiciel libre. J'ai participé à son élaboration, et j'en ai notamment rédigé la préface, que voici:
+Le [Groupe Thématique Logiciel Libre](http://www.systematic-paris-region.org/fr/logiciel-libre) vient de publier un "livret bleu" sur les fondamentaux juridiques du logiciel libre. J'ai participé à son élaboration, et j'en ai notamment rédigé la préface, que voici:
 
 > Par logiciel libre – et open source, l’insistance sur la
 distinction ne faisant parfois qu’opacifier le débat – on
@@ -82,4 +82,4 @@ autres avantages qu’on leur connaît – innovation accélérée, interopérab
 indéniable en termes de simplification juridique pour les
 entreprises – et donc de maîtrise du risque.
 
-Le document complet (PDF, 40 pages) est [téléchargeable ici](https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf).
+Le document complet (PDF, 40 pages) est [téléchargeable ici](http://systematic-paris-region.org/sites/default/files/content/page/attachments/LivretBleu_Juridique_GT-LogicielLibre_Systematic_Mai2016_web.pdf).

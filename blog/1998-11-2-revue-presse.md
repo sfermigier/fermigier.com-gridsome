@@ -3,7 +3,7 @@ title: "Revue de presse"
 date: 1998-11-02
 path: blog/1998/11/revue-presse
 summary: "Dans Libération aujourd'hui, une pleine page sur Linux avec deux articles: Linux cogne aux fenêtres de Microsoft (chapeau: ``Ce système d'exploitation gratuit séduit de plus en plus d'entreprises, menaçant ainsi la suprématie de Windows'') et L'Education nationale encourage le rebelle."
-tags: ['Linux', 'Mandrake', 'KDE', 'AFUL']
+tags: ['Linux', 'Mandrake', 'KDE', 'Unix', 'AFUL', 'Microsoft']
 ---
 
 <P>

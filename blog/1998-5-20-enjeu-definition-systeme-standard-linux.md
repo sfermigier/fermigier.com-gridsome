@@ -3,7 +3,7 @@ title: "Un enjeu: la définition d'un Système Standard pour Linux"
 date: 1998-05-20
 path: blog/1998/5/enjeu-definition-systeme-standard-linux
 summary: "Sept ans après l'apparition du premier embryon du noyau Linux, son succès est tel qu'on le retrouve maintenant dans de multiples distributions: Slackware (en perte de vitesse semble-t-il), Debian GNU/Linux, RedHat Linux, Caldera Open Linux, Turbo Linux, SuSE, pour ne citer que les plus connues."
-tags: ['Linux', 'GNU', 'Debian', 'Red Hat', 'GNOME', 'KDE', 'Open Source']
+tags: ['Linux', 'GNU', 'Debian', 'Red Hat', 'GNOME', 'KDE', 'Unix', 'Open Source']
 ---
 
 <P>

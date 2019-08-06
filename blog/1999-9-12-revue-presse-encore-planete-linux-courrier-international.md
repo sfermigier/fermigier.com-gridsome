@@ -3,7 +3,7 @@ title: "Revue de presse encore: Planete Linux, Courrier International"
 date: 1999-09-12
 path: blog/1999/9/revue-presse-encore-planete-linux-courrier-international
 summary: "Le nouveau magazine \"Planète Linux\" est sorti : c'est en fait le nouveau titre de \"Freelog Hors Série\", dont les 2 premiers numéros étaient consacrés à Linux."
-tags: ['Linux', 'AFUL']
+tags: ['Linux', 'AFUL', 'Microsoft']
 ---
 
 <P>Le nouveau magazine "<B>Planète Linux</B>" est sorti : c'est en fait le nouveau

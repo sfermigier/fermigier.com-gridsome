@@ -3,7 +3,7 @@ title: "La SPA se retourne contre Microsoft"
 date: 1998-06-26
 path: blog/1998/6/spa-se-retourne-contre-microsoft
 summary: "La SPA (Software Publisher Association, qui regroupe 1200 éditeurs de logiciels) vient de publier une étude de 40 pages directement ciblée contre l'un des siens: Microsoft."
-tags: ['Misc']
+tags: ['Microsoft']
 ---
 
 <P>

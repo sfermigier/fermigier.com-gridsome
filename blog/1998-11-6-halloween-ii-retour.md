@@ -3,7 +3,7 @@ title: "Halloween II, le retour"
 date: 1998-11-06
 path: blog/1998/11/halloween-ii-retour
 summary: "Un deuxième mémorandum interne à Microsoft (dont l'autentiticité a été confirmée) vient d'être publié par Eric Raymond."
-tags: ['Linux', 'Brevets']
+tags: ['Linux', 'Unix', 'Brevets', 'Microsoft']
 ---
 
 <P>

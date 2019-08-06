@@ -3,7 +3,7 @@ title: "Revue de presse: SVM Achat et S&amp;V Junior"
 date: 1999-08-17
 path: blog/1999/8/revue-presse-svm-achat-amp;v-junior
 summary: "Le magazine SVM Achat d'août-septembre, n°6, 15 F, traite de Linux."
-tags: ['Linux', 'Debian', 'Mandrake', 'Red Hat', 'GNOME', 'AFUL']
+tags: ['Linux', 'Debian', 'Mandrake', 'Red Hat', 'GNOME', 'Unix', 'AFUL']
 ---
 
 <P>Le magazine <B>SVM Achat</B> d'août-septembre, n°6, 15 F, traite de Linux.</P>

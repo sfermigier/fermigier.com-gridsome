@@ -3,7 +3,7 @@ title: "Un nouveau constructeur adopte Linux"
 date: 1998-07-07
 path: blog/1998/7/nouveau-constructeur-adopte-linux
 summary: "L'intégrateur californien Micro Unix propose maintenant des stations Linux à base de processeur PowerPC G3."
-tags: ['Linux', 'Red Hat', 'KDE']
+tags: ['Linux', 'Red Hat', 'KDE', 'Unix']
 ---
 
 <P>
