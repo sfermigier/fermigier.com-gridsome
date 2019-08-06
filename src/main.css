@@ -5,16 +5,16 @@
 @tailwind utilities;
 
 /* Custos perso */
-p a {
+.content a {
   @apply text-brand-800 font-bold;
 }
 
-p a {
-  @apply bg-yellow-100;
+.content a {
+  @apply bg-yellow-200;
   transition: background-color 0.5s;
 }
 
-p a:hover {
+.content a:hover {
   @apply bg-brand-100;
   transition: background-color 0.5s;
 }
@@ -24,19 +24,24 @@ p a:hover {
 }
 
 .content h2 {
-  @apply text-2xl font-bold mb-6;
+  @apply text-2xl font-bold mb-4 mt-6;
 }
 
 .content h3 {
-  @apply text-xl italic mb-6;
+  @apply text-xl italic font-bold mb-4;
+}
+
+.content p {
+  @apply mb-4;
 }
 
 .content ul {
-  @apply text-lg;
+  @apply text-lg pl-8;
+  list-style-type: disc;
 }
 
 .content ul li {
-  @apply checkmark mb-6;
+  @apply mb-6;
 }
 
 

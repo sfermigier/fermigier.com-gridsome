@@ -22,11 +22,3 @@ query Block {
   }
 }
 </page-query>
-
-<script>
-export default {
-  metaInfo: {
-    title: "Business",
-  },
-};
-</script>

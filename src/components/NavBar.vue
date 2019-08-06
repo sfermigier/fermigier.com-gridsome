@@ -85,6 +85,14 @@ export default {
           link: "/open-source/",
         },
         {
+          label: "Presentations",
+          link: "/presentations/",
+        },
+        {
+          label: "Writings",
+          link: "/writing/",
+        },
+        {
           label: "About",
           link: "/about/",
         },

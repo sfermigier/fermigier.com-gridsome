@@ -1,14 +1,75 @@
 ---
-slug: presentations
+Title: Presentations
 ---
-
-# Presentations
 
 I enjoy giving talks on subjects that matter to me.
 
-![](/images/speaking-fermigier.png)
-
 Here's a (partial) list of the talks and lectures I have given over the last ten years.
+
+
+## 2017
+
+### December
+
+* "Python quality engineering - A tour of best practices". Presented during the Paris Open Source Summit 2017. [[Speakerdeck](https://speakerdeck.com/sfermigier/python-quality-engineering-a-tour-of-best-practices)]
+
+* "Business analytics with Python-based tools". Presented during the Paris Open Source Summit 2017. [[Speakerdeck](https://speakerdeck.com/sfermigier/business-analytics-with-python-based-tools)]
+
+* "Some Historical Perspectives on the Open Cloud", presented at the Open Cloud Foundation Launch Meeting - 14 Dec 2017. [[Speakerdeck](https://speakerdeck.com/sfermigier/some-historical-perspectives-on-the-open-cloud)]
+
+### March
+
+* "Résultats de l'enquête Big Data / IA auprès des pôles de compétitivité" [[Speakerdeck](https://speakerdeck.com/sfermigier/ia-aupres-des-poles-de-competitivite)]
+
+## 2015
+
+### November
+
+* "Présentation de la plateforme et des solutions Abilian pour la collaboration". Présenté lors du Paris Open Source Summit 2015. [[SlideShare](https://www.slideshare.net/sfermigier/pitch-abilian-paris-open-source-summit-2015)] 
+
+## 2014
+
+### December
+
+* "15 ans de politiques publiques du logiciel libre en France" [[SlideShare](https://www.slideshare.net/sfermigier/15-anspolitiquelogiciellibre)]
+
+## 2013
+
+### December
+
+* "Présentation Abilian SICS-PC - plateforme métier pour les acteurs de l'innovation et de la compétitivité". [[SlideShare](https://www.slideshare.net/sfermigier/presentation-abilian-sicspc-plateforme)]
+
+### July
+
+* "L’Open Source Professionnel un business model d’éditeur open source" [[SlideShare](https://www.slideshare.net/sfermigier/lopen-source-professionnel-un-business-model-open-source)]
+
+* "Créer une communauté open source: pourquoi? comment?" [[SlideShare](https://www.slideshare.net/sfermigier/communaute-opensourcejdev2013)]
+
+### June
+
+* "Roadmap du GTLL 2013-2020" [[SlideShare](https://www.slideshare.net/sfermigier/roadmap-du-gt-logiciel-libre)]
+
+### May
+
+* "Abilian - Plateforme open source pour applications “Entreprise 2.0”" [[SlideShare](https://www.slideshare.net/sfermigier/pitch-abilian-mai-2013)]
+
+* "Le MOOC by Abilian - Et si votre MOOC était un réseau social?" [[SlideShare](https://www.slideshare.net/sfermigier/le-mooc-powered)]
+
+### February
+
+* "Pourquoi le big data open source?" [[SlideShare](https://www.slideshare.net/sfermigier/pourquoi-le-big-data-open-source)]
+
+* "Les écosystèmes du logiciel libre" [[SlideShare](https://www.slideshare.net/sfermigier/ecosystemes-logiciel-libre)]
+
+## 2012
+
+### April
+
+* "Four Python pains" [[SlideShare](https://www.slideshare.net/sfermigier/four-python-pains)]
+
+### March
+
+* "Open Innovation in Action: Lessons learned about social collaboration from 30 years of open source" [[SlideShare](https://www.slideshare.net/sfermigier/open-innovation-in-action)]
 
 ## 2011
 
@@ -167,4 +228,3 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 ### January
 
 *   "Zope et programmation Internet par composants", Séminaire QSL au Loria, Nancy, France.
-© Simon Baynes 2013 - 2019 Version 1.1.5.31363

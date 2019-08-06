@@ -1,8 +1,8 @@
 ---
-slug: business
+title: Business
 ---
 
-## Businesses I have founded
+## Companies I have founded
 
 * [Abilian](https://www.abilian.com/): I've founded Abilian in 2012.
   Abilian is a company dedicated to the development of enterprise

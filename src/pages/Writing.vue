@@ -16,7 +16,7 @@
 
 <page-query>
 query Block {
-  block (path: "/blocks/open-source") {
+  block (path: "/blocks/writing") {
     title
     content
   }
