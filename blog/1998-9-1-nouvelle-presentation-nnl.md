@@ -1,9 +1,9 @@
 ---
 title: "Nouvelle présentation des NNL"
 date: 1998-09-01
-path: 1998/9/nouvelle-presentation-nnl
+path: blog/1998/9/nouvelle-presentation-nnl
 summary: "Comme vous pouvez le constater, j'ai revu légèrement la présentation des Nouvelles Neuves de Linux, afin de réduire le temps de chargement des messages."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>

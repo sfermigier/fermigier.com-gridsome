@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse"
 date: 1999-02-26
-path: 1999/2/revue-presse-13
+path: blog/1999/2/revue-presse-13
 summary: "Le numéro 371 de Décision Micro &amp; Réseau de cette semaine contient un dossier de 6 pages consacré aux logiciels libres."
-tags: ['Linux', 'KDE']
+tags: ['Apache', 'Linux', 'KDE']
 ---
 
 <P>Le numéro 371 de <B>Décision Micro &amp; Réseau</B> de cette semaine

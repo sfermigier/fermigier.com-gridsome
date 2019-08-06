@@ -1,9 +1,9 @@
 ---
 title: "Logiciels libres: une tendance lourde selon Merril Lynch"
 date: 1999-01-08
-path: 1999/1/logiciels-libres-tendance-lourde-selon-merril-lynch
+path: blog/1999/1/logiciels-libres-tendance-lourde-selon-merril-lynch
 summary: "Selon l'analyste américain Merill Lynch, le bug de l'an 2000 ouvre la porte au network computing et au logiciel libre: When all the smoke around the year 2000 has finally cleared away, the survey suggests there will be a shift away from the Windows- based client server environment."
-tags: ['Linux', 'Java']
+tags: ['Java', 'Linux']
 ---
 
 <P>

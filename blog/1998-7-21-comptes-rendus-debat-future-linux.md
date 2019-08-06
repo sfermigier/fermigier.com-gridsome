@@ -1,7 +1,7 @@
 ---
 title: "Comptes-rendus du débat \"the Future of Linux\""
 date: 1998-07-21
-path: 1998/7/comptes-rendus-debat-future-linux
+path: blog/1998/7/comptes-rendus-debat-future-linux
 summary: "Plusieurs comptes-rendus du débat \"the Future of Linux\" organisé le 14 juillet par le SVLUG (Silicon Valley Linux User Group) sont maintenant disponibles sur cette page."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Trois questions sur le projets Lothar"
 date: 1999-04-28
-path: 1999/4/trois-questions-projets-lothar
+path: blog/1999/4/trois-questions-projets-lothar
 summary: "Trois question àGaël Duval sur le projet Lothar: Quel est le but du projet Lothar."
 tags: ['Linux', 'Mandrake']
 ---

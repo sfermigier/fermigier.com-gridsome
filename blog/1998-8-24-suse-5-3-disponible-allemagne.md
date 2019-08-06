@@ -1,9 +1,9 @@
 ---
 title: "La SuSE 5.3 est disponible en Allemagne"
 date: 1998-08-24
-path: 1998/8/suse-5-3-disponible-allemagne
+path: blog/1998/8/suse-5-3-disponible-allemagne
 summary: "Quelques nouvelles d'Allemagne..."
-tags: ['Linux', 'KDE']
+tags: ['Eclipse', 'Linux', 'KDE']
 ---
 
 <P>

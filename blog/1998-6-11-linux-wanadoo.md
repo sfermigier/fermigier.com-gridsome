@@ -1,7 +1,7 @@
 ---
 title: "Linux sur Wanadoo"
 date: 1998-06-11
-path: 1998/6/linux-wanadoo
+path: blog/1998/6/linux-wanadoo
 summary: "Lu sur la rubrique micro de Wanadoo: «Un système d'exploitation qui plante moins d'une fois par an."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "La Mozilla Foundation abandonne le développement de \"Mozilla Suite\""
 date: 2005-03-14
-path: 2005/3/mozilla-foundation-abandonne-developpement-mozilla-suite
+path: blog/2005/3/mozilla-foundation-abandonne-developpement-mozilla-suite
 summary: "Tristan Nitot explique pourquoi il n'y aura pas de Mozilla 1.8."
 tags: ['Misc']
 ---

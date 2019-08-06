@@ -1,7 +1,7 @@
 ---
 title: "Une question écrite d'un député au sujet des logiciels libres"
 date: 1998-09-10
-path: 1998/9/question-ecrite-depute-sujet-logiciels-libres
+path: blog/1998/9/question-ecrite-depute-sujet-logiciels-libres
 summary: "Le 9 juillet 1998, le député du Rhône André Gerin posait la question suivante au ministre de l'éducation nationale, de la recherche et de la technologie: Monsieur André GERIN attire l'attention de monsieur le ministre de l'éducation nationale sur le projet de mettre à la disposition des établissements scolaires les nouvelles techniques de l'information et en particulier de permettre l'accès à Internet."
 tags: ['Linux', 'AFUL']
 ---

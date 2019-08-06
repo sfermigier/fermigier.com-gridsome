@@ -1,7 +1,7 @@
 ---
 title: "Intel et Netscape investissent dans Red Hat"
 date: 1998-09-29
-path: 1998/9/intel-netscape-investissent-red-hat
+path: blog/1998/9/intel-netscape-investissent-red-hat
 summary: "De nombreux articles récents couvrent et commentent la décision d'Intel et de Netscape d'investir dans Red Hat, et prédisent la fin de l'alliance objective d'Intel et de Microsoft (baptisée couramment ``Wintel''): Linux - now Intel stabs Microsoft in the front, the Register, 27 sept 1998."
 tags: ['Linux', 'Red Hat']
 ---

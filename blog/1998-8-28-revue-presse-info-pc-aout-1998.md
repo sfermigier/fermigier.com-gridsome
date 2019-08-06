@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse: Info PC, Août 1998"
 date: 1998-08-28
-path: 1998/8/revue-presse-info-pc-aout-1998
+path: blog/1998/8/revue-presse-info-pc-aout-1998
 summary: "Le mensuel Info PC d'août 98, 35 F, m'avait échappé."
-tags: ['Linux', 'Debian', 'Java', 'Red Hat']
+tags: ['Linux', 'Debian', 'Red Hat']
 ---
 
 <P>

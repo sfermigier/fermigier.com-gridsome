@@ -1,7 +1,7 @@
 ---
 title: "Roadmap update for Nuxeo 5.2 aka \"Chicago\""
 date: 2008-06-23
-path: 2008/6/roadmap-update-nuxeo-5-2-aka-chicago
+path: blog/2008/6/roadmap-update-nuxeo-5-2-aka-chicago
 summary: "We have just published a slide deck explaining our roadmap for the next major release of the Nuxeo platform, currently labelled as &#8220;5.2&#8221; and codenamed &#8220;Chicago&#8221;."
 tags: ['Nuxeo']
 ---

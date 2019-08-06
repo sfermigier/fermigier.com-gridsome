@@ -1,9 +1,9 @@
 ---
 title: "Annonces de logiciels"
 date: 1999-05-27
-path: 1999/5/annonces-logiciels-1
+path: blog/1999/5/annonces-logiciels-1
 summary: "StarOffice 5.1 pour Linux est sortie."
-tags: ['Linux', 'KDE']
+tags: ['Linux', 'GNOME', 'KDE']
 ---
 
 <P>StarOffice 5.1 pour Linux est sortie. Elle est téléchargeable sur

@@ -1,9 +1,9 @@
 ---
 title: "Laptop stats at the Zope sprint in Europython"
 date: 2005-06-26
-path: 2005/6/laptop-stats-zope-sprint-europython
+path: blog/2005/6/laptop-stats-zope-sprint-europython
 summary: "Here are some stats about the laptops used by the Zope sprinters in Europython: 13 Apple notebooks (all of them 15'' Titanium btw) 5 Dell notebooks 1 IBM X40 subnotebook 1 ASUS S5 subnotebook (mine :) ) 2 no-name notebooks (MITAC) All the non-Apple notebooks seem to be running some variant of Linux (no Windows in sight)."
-tags: ['Linux', 'Zope']
+tags: ['Zope', 'Linux']
 ---
 
 Here are some stats about the laptops used by the Zope sprinters in Europython:

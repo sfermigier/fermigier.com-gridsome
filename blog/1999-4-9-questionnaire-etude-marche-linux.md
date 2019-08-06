@@ -1,7 +1,7 @@
 ---
 title: "Questionnaire pour une étude de marché sur Linux"
 date: 1999-04-09
-path: 1999/4/questionnaire-etude-marche-linux
+path: blog/1999/4/questionnaire-etude-marche-linux
 summary: "\"Virginie Nejman nous écrit: Je suis actuellement etudiante en derniere annee d'Ecole d'Ingenieur, et je realise une etude de marché sur Linux."
 tags: ['Linux']
 ---

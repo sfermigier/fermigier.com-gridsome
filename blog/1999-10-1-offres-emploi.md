@@ -1,9 +1,9 @@
 ---
 title: "Offres d'emploi"
 date: 1999-10-01
-path: 1999/10/offres-emploi
+path: blog/1999/10/offres-emploi
 summary: "Les éditions O'Reilly France cherchent à recruter un assistant éditorial en charge de l'informatique."
-tags: ['Linux']
+tags: ['Apache', 'Linux']
 ---
 
 <P>Les éditions O'Reilly France cherchent à recruter un

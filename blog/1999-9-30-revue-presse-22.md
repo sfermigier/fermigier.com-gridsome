@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse"
 date: 1999-09-30
-path: 1999/9/revue-presse-22
+path: blog/1999/9/revue-presse-22
 summary: "Informatiques Magazine, qui reparait maintenant à nouveau toutes les deux semaines, traite de logiciels libres (et de Linux) dans son numéro du 24 septembre, N°90, 19 F."
-tags: ['Linux', 'Java', 'Mandrake', 'Red Hat']
+tags: ['Linux', 'Red Hat']
 ---
 
 <P><B>Informatiques Magazine</B>, qui reparait maintenant à nouveau toutes les

@@ -1,7 +1,7 @@
 ---
 title: "Comptes-rendu de la demi-journée de conférences thématiques 'Logiciel libre: concepts, mise en oeuvre et enjeux' organisée par APRIL"
 date: 1998-06-27
-path: 1998/6/comptes-rendu-demi-journee-conferences-thematiques-logiciel-libre-concepts-mise-oeuvre-enjeux-organisee-par-april
+path: blog/1998/6/comptes-rendu-demi-journee-conferences-thematiques-logiciel-libre-concepts-mise-oeuvre-enjeux-organisee-par-april
 summary: "L'association APRIL a organisé une demi-journée de conférences thématiques \"Logiciel libre: concepts, mise en oeuvre et enjeux\" le mercredi 24 juin 1998 à l'Université Paris 8."
 tags: ['Misc']
 ---

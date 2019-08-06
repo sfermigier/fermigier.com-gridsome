@@ -1,7 +1,7 @@
 ---
 title: "Un OS libre de plus"
 date: 1998-05-17
-path: 1998/5/os-libre-plus
+path: blog/1998/5/os-libre-plus
 summary: "Le système d'exploitation distribué expérimental Amoeba, développé par Andy Tannenbaum, créateur également du système Minix est maintenant librement redistribuable."
 tags: ['Misc']
 ---

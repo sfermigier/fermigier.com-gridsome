@@ -1,7 +1,7 @@
 ---
 title: "Nouvelles des LUGs"
 date: 1999-10-03
-path: 1999/10/nouvelles-lugs
+path: blog/1999/10/nouvelles-lugs
 summary: "A Limoges, il y aura les 5 et 6 octobre un atelier ed découverte Linux à la bibliothèque multimédia, dans le cadre du ``marathon de l'Internet''."
 tags: ['Linux']
 ---

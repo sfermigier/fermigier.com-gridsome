@@ -1,7 +1,7 @@
 ---
 title: "NT 5.0: pas avant 2001, selon le Gartner Group"
 date: 1998-08-18
-path: 1998/8/nt-5-0-pas-avant-2001-selon-gartner-group
+path: blog/1998/8/nt-5-0-pas-avant-2001-selon-gartner-group
 summary: "Selon une étude du Gartner Group intitulée NT v.5.0: The Flight Has Left, but It's a Three-Year Runway, NT 5.0 ne sera très probablement pas disponible avant 2000 et ne sera pas utilisable en production avant au minimum 2001."
 tags: ['Linux']
 ---

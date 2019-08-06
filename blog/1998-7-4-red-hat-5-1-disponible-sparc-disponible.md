@@ -1,7 +1,7 @@
 ---
 title: "Red Hat 5.1 disponible pour SPARC disponible"
 date: 1998-07-04
-path: 1998/7/red-hat-5-1-disponible-sparc-disponible
+path: blog/1998/7/red-hat-5-1-disponible-sparc-disponible
 summary: "Plus d'info sur le site Red Hat."
 tags: ['Red Hat']
 ---

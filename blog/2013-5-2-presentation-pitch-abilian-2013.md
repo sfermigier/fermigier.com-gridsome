@@ -1,7 +1,7 @@
 ---
 title: "Présentation: pitch Abilian 2013"
 date: 2013-05-02
-path: 2013/5/presentation-pitch-abilian-2013
+path: blog/2013/5/presentation-pitch-abilian-2013
 summary: "Je viens de mettre à jour et de publier une présentation sur ma nouvelle société, Abilian: Pitch Abilian mai 2013 from Stefane Fermigier Il s'agit d'une présentation qui a été faite à plusieurs reprises l'an dernier (Solutions Linux, pitch clients...) avec quelques mises à jour pour tenir compte des évolutions tactiques récentes, notamment la roadmap."
 tags: ['Abilian', 'Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "\"Eclipse Now You Can\" slides are now online"
 date: 2006-10-24
-path: 2006/10/eclipse-you-can-slides-are-online
+path: blog/2006/10/eclipse-you-can-slides-are-online
 summary: "The slides for the presentations given at the \"Eclipse Now You Can\" (including mine of course), are now online."
 tags: ['Eclipse']
 ---

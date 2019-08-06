@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse papier"
 date: 1999-04-09
-path: 1999/4/revue-presse-papier
+path: blog/1999/4/revue-presse-papier
 summary: "Joystick, mensuel de jeux sur ordinateurs, parle de Linux dans son numéro d'avril, 38 F."
 tags: ['Linux', 'AFUL']
 ---

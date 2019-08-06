@@ -1,9 +1,9 @@
 ---
 title: "Apache reconnu comme le serveur Web numéro 1"
 date: 1998-03-01
-path: 1998/3/apache-reconnu-comme-serveur-web-numero-1
+path: blog/1998/3/apache-reconnu-comme-serveur-web-numero-1
 summary: "Le fait qu'Apache domine le marché des serveurs Web avec plus de 50 % de parts de marchés (57 % si on compte les serveurs commerciaux dérivés) est maintenant reconnu par deux instituts indépendants, Netcraft et ServerStats, par le Wall Street Journal et en France par 01 Informatique."
-tags: ['Misc']
+tags: ['Apache']
 ---
 
 <P>

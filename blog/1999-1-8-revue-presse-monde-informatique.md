@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse: Le Monde Informatique"
 date: 1999-01-08
-path: 1999/1/revue-presse-monde-informatique
+path: blog/1999/1/revue-presse-monde-informatique
 summary: "Dans le monde informatique du 8 janvier 1999, no 792, 20F, se trouve une comparaison entre Caldera OpenLinux 1.3 et Red Hat 5.2, et un dossier sur les logiciels libres."
-tags: ['Linux', 'KDE', 'Red Hat']
+tags: ['Linux', 'Red Hat', 'KDE']
 ---
 
 <P>Dans <B>le monde informatique</B> du 8 janvier 1999, no 792, 20F, se trouve

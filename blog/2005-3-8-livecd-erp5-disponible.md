@@ -1,7 +1,7 @@
 ---
 title: "LiveCD ERP5 disponible"
 date: 2005-03-08
-path: 2005/3/livecd-erp5-disponible
+path: blog/2005/3/livecd-erp5-disponible
 summary: "Lu sur la liste ERP5, la version 1.0rc2 du liveCD est disponible."
 tags: ['Zope']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release"
 date: 2009-01-30
-path: 2009/1/upcoming-release
+path: blog/2009/1/upcoming-release
 summary: "We&#8217;re still working very hard on the 5.2 M4, which has been delayed one more week and should be ready by the end of this week."
 tags: ['Nuxeo', 'Java']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Linux, best seller chez Surcouf"
 date: 1998-10-07
-path: 1998/10/linux-best-seller-chez-surcouf
+path: blog/1998/10/linux-best-seller-chez-surcouf
 summary: "Selon le magazine Distributique, Linux Redhat est en 2ème position des ventes chez Surcouf, Suse en 3ème position et Redhat PowerTools en 9ème."
 tags: ['Linux']
 ---

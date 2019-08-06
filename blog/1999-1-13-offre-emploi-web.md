@@ -1,9 +1,9 @@
 ---
 title: "Offre d'emploi (Web)"
 date: 1999-01-13
-path: 1999/1/offre-emploi-web
+path: blog/1999/1/offre-emploi-web
 summary: "EBI Multimedia (ex."
-tags: ['Linux', 'Java']
+tags: ['Linux']
 ---
 
 <P>EBI Multimedia (ex. France Pratique) recherche un "Développeur Internet

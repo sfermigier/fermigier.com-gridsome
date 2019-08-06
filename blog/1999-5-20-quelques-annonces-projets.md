@@ -1,7 +1,7 @@
 ---
 title: "Quelques annonces de projets"
 date: 1999-05-20
-path: 1999/5/quelques-annonces-projets
+path: blog/1999/5/quelques-annonces-projets
 summary: "Le mirroir vocal est un projet d'aide au placement de la voix qui recherche des développeurs pour en faire un logiciel libre.."
 tags: ['Linux']
 ---

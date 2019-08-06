@@ -1,7 +1,7 @@
 ---
 title: "Video: \"10 reasons why Nuxeo is using GlassFish\""
 date: 2009-02-17
-path: 2009/2/video-10-reasons-why-nuxeo-using-glassfish
+path: blog/2009/2/video-10-reasons-why-nuxeo-using-glassfish
 summary: "La pr&#233;sentation que j&#8217;ai faite chez Sun le 10 f&#233;vrier dernier, sur le th&#232;me &#8220;10 reasons why Nuxeo is using GlassFish&#8221; a &#233;t&#233; film&#233;e."
 tags: ['Nuxeo']
 ---

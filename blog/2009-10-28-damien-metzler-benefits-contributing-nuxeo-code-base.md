@@ -1,7 +1,7 @@
 ---
 title: "Damien Metzler on the benefits of contributing to the Nuxeo code base"
 date: 2009-10-28
-path: 2009/10/damien-metzler-benefits-contributing-nuxeo-code-base
+path: blog/2009/10/damien-metzler-benefits-contributing-nuxeo-code-base
 summary: "Damien Metlzer, who's with Leroy Merlin and has been working on OpenSocial integration in Nuxeo EP, has an extensive blog post about the history of this significant contribution to the Nuxeo EP code base."
 tags: ['Nuxeo']
 ---

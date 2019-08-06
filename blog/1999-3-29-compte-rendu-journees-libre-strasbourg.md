@@ -1,9 +1,9 @@
 ---
 title: "Compte rendu des journées du libre à Strasbourg"
 date: 1999-03-29
-path: 1999/3/compte-rendu-journees-libre-strasbourg
+path: blog/1999/3/compte-rendu-journees-libre-strasbourg
 summary: "J'étais vendredi aux journées du libre à Strasbourg."
-tags: ['Linux', 'Java', 'KDE']
+tags: ['Java', 'Linux', 'KDE']
 ---
 
 <P>J'étais vendredi aux journées du libre à Strasbourg.

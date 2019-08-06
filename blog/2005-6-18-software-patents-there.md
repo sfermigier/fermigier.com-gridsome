@@ -1,7 +1,7 @@
 ---
 title: "Software patents: there is little time left (2 weeks), it's time to act now"
 date: 2005-06-18
-path: 2005/6/software-patents-there
+path: blog/2005/6/software-patents-there
 summary: "Here is a message I just got from the FFII regarding the upcoming vote on software patents in the European Parliament."
 tags: ['Nuxeo']
 ---

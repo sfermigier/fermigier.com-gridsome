@@ -1,7 +1,7 @@
 ---
 title: "L'Académie des sciences américaine contre les brevets"
 date: 1999-04-27
-path: 1999/4/academie-sciences-americaine-contre-brevets
+path: blog/1999/4/academie-sciences-americaine-contre-brevets
 summary: "Le docteur Bruce Alberts, président de la National Academy of Sciences (USA), s'est récemment prononcé en France contre la tendance actuelle à la privatisation de la science, notamment via les brevets."
 tags: ['Misc']
 ---

@@ -1,9 +1,9 @@
 ---
 title: "IBM choisit Apache pour le e-commerce"
 date: 1998-06-18
-path: 1998/6/ibm-choisit-apache-e-commerce
+path: blog/1998/6/ibm-choisit-apache-e-commerce
 summary: "Voir: IBM to Adopt Apache as Preferred E-commerce Web Server (The Industry Standard, 17 juin 1998) et IBM fuels \"freeware\" efforts (C|NET, 18 juin 1998)."
-tags: ['Misc']
+tags: ['Apache']
 ---
 
 <P>

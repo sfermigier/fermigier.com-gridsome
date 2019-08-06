@@ -1,7 +1,7 @@
 ---
 title: "Encore un établissement scolaire sous Linux à Paris"
 date: 1999-01-15
-path: 1999/1/encore-etablissement-scolaire-sous-linux-paris
+path: blog/1999/1/encore-etablissement-scolaire-sous-linux-paris
 summary: "Michael d'Energy Computer nous informe qu'il vient de réaliser avec succès le passage d'un nouvel établissement scolaire sous Linux, le collège Jules Romain à Paris dans le 7ème."
 tags: ['Linux']
 ---

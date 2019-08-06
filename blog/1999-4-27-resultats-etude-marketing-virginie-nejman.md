@@ -1,7 +1,7 @@
 ---
 title: "Résultats de l'étude de marketing de Virginie Nejman"
 date: 1999-04-27
-path: 1999/4/resultats-etude-marketing-virginie-nejman
+path: blog/1999/4/resultats-etude-marketing-virginie-nejman
 summary: "Il y a quelques jours, Virginie Nejman nous proposait de répondre à une enquête de marketing sur l'utilisation actuelle de Linux."
 tags: ['Linux', 'KDE']
 ---

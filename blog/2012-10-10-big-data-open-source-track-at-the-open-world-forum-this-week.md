@@ -1,9 +1,9 @@
 ---
 title: "Big Data & Open Source track at the Open World Forum this week"
 date: 2012-10-10
-path: 2012/10/big-data-open-source-track-at-the-open-world-forum-this-week
+path: blog/2012/10/big-data-open-source-track-at-the-open-world-forum-this-week
 summary: "I've found some great speakers for the track on Big Data I'm organizing this Friday during the Open World Forum (note that the talk will be in French): Romain Chaumais (Ysance): &#147;Big Data : noSql, Map&amp;Reduce, RDBMS - Quoi utiliser et quand ?&#148; Florian Douetteau (Dataiku): &quot;Open Source et science de la donn&eacute;e&quot;."
-tags: ['Misc']
+tags: ['Open Source']
 ---
 
 I've found some great speakers for the track on Big Data I'm organizing this Friday during the [Open World Forum](http://www.openworld.forum/) (note that the talk will be in French):

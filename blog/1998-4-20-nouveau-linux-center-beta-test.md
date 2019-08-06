@@ -1,7 +1,7 @@
 ---
 title: "Nouveau Linux Center en beta-test"
 date: 1998-04-20
-path: 1998/4/nouveau-linux-center-beta-test
+path: blog/1998/4/nouveau-linux-center-beta-test
 summary: "Comme vous pouvez le constater en lisant cette page, j'ai réalisé d'importants changements sur le site Linux Center, à commencer par un déménagement du serveur (http://linux-center.org/)."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Drag and Drop: un standard émerge"
 date: 1998-08-20
-path: 1998/8/drag-drop-standard-emerge
+path: blog/1998/8/drag-drop-standard-emerge
 summary: "XDND est une proposition de standard pour le drag and drop (``glisser/déposer'') sous X11, qui a été approuvée par les auteurs des librairies Gtk, Qt, FOX et JX, et par incidence par les projet GNOME et KDE."
 tags: ['GNOME', 'KDE']
 ---

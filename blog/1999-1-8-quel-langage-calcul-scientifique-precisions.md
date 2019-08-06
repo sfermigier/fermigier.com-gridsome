@@ -1,7 +1,7 @@
 ---
 title: "Quel langage pour le calcul scientifique? Des precisions"
 date: 1999-01-08
-path: 1999/1/quel-langage-calcul-scientifique-precisions
+path: blog/1999/1/quel-langage-calcul-scientifique-precisions
 summary: "[Au sujet de l'article récent OCAML arrive en tête d'une étude comparative de langages, Jérôme Kalifa, chercheur-doctorant en mathématiques appliquées à l'école polytechnique, m'a fait parvenir les précisions suivantes:] J'ai contacte David MacClain au sujet de son comparatif."
 tags: ['Linux', 'GNU']
 ---

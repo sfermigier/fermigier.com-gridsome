@@ -1,9 +1,9 @@
 ---
 title: "Announcing the CMIS Shell (cmissh) - command-line client for CMIS"
 date: 2010-01-21
-path: 2010/1/announcing-cmis-shell-cmissh-command-line-client-cmis
+path: blog/2010/1/announcing-cmis-shell-cmissh-command-line-client-cmis
 summary: "We&#8217;ve been working recently on a CMIS command-line client, called &#8220;cmissh&#8221;, based on the Apache Chemistry client code."
-tags: ['Nuxeo']
+tags: ['Nuxeo', 'Apache']
 ---
 
 <p>We&#8217;ve been working recently on a CMIS command-line client, called

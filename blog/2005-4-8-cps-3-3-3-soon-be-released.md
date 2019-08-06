@@ -1,7 +1,7 @@
 ---
 title: "CPS 3.3.3 soon to be released"
 date: 2005-04-08
-path: 2005/4/cps-3-3-3-soon-be-released
+path: blog/2005/4/cps-3-3-3-soon-be-released
 summary: "With the CPSSkin / CPSPortlet integration and the port of the old boxes-based portal configuration to the new system, we now have an awesome tool to customize the look and feel and the user interface of a CPS instance."
 tags: ['CPS']
 ---

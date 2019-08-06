@@ -1,7 +1,7 @@
 ---
 title: "Red Hat's commercial Linux beats NT at its own game"
 date: 1997-12-01
-path: 1997/12/red-hat-commercial-linux-beats-nt-own-game
+path: blog/1997/12/red-hat-commercial-linux-beats-nt-own-game
 summary: "Dans un article très bien documenté, Maggie Briggs compare Linux (Red Hat 5.0) et NT face à des tâches similaires (monter un squelette de serveur Web)."
 tags: ['Linux']
 ---

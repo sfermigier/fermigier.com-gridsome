@@ -1,7 +1,7 @@
 ---
 title: "Debian 2.0 disponible"
 date: 1998-07-24
-path: 1998/7/debian-2-0-disponible
+path: blog/1998/7/debian-2-0-disponible
 summary: "La version 2.0 définitive de la distribution Debian vient d'être annoncée sur le site Debian."
 tags: ['Linux', 'Debian', 'Red Hat']
 ---

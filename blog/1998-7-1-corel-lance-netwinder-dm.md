@@ -1,7 +1,7 @@
 ---
 title: "Corel lance le Netwinder DM"
 date: 1998-07-01
-path: 1998/7/corel-lance-netwinder-dm
+path: blog/1998/7/corel-lance-netwinder-dm
 summary: "Corel Computer today announced the release of the NetWinder(TM) DM, a powerful Linux-based development platform."
 tags: ['Linux']
 ---

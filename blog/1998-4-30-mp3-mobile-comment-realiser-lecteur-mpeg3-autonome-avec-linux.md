@@ -1,7 +1,7 @@
 ---
 title: "La MP3-mobile, ou comment réaliser un lecteur mpeg3 autonome avec Linux!"
 date: 1998-04-30
-path: 1998/4/mp3-mobile-comment-realiser-lecteur-mpeg3-autonome-avec-linux
+path: blog/1998/4/mp3-mobile-comment-realiser-lecteur-mpeg3-autonome-avec-linux
 summary: "Il est étonnant de voir à quel point un système d'exploitation ``Free Software'' comme Linux peut être utilisé à des fins totalement différentes de celles pour lesquelles il a été conçu..."
 tags: ['Linux']
 ---

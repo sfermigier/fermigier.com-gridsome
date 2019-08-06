@@ -1,7 +1,7 @@
 ---
 title: "Europe Inside choisit Linux"
 date: 1998-05-04
-path: 1998/5/europe-inside-choisit-linux
+path: blog/1998/5/europe-inside-choisit-linux
 summary: "L'institut d'études indépendant Europe Inside, qui vise à promouvoir les logiciels européens de qualité, a récemment présenté 10 solutions informatiques pour les entreprises à base de logiciel d'origine européenne."
 tags: ['Linux']
 ---

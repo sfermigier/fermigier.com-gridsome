@@ -1,7 +1,7 @@
 ---
 title: "Windows NT face à Linux/Unix... et à lui-même"
 date: 1998-07-24
-path: 1998/7/windows-nt-face-linux-unix-lui-meme
+path: blog/1998/7/windows-nt-face-linux-unix-lui-meme
 summary: "Jérôme Kalifa vient de réaliser une revue de presse d'articles comparant NT à Linux ou Unix, ou mettant tout simplement en avant ses faiblesses."
 tags: ['Linux']
 ---

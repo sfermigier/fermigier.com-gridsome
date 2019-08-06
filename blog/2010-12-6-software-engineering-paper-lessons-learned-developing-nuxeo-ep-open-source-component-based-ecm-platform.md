@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering Paper: \"Lessons learned developing the Nuxeo EP open source, component-based, ECM platform\""
 date: 2010-12-06
-path: 2010/12/software-engineering-paper-lessons-learned-developing-nuxeo-ep-open-source-component-based-ecm-platform
+path: blog/2010/12/software-engineering-paper-lessons-learned-developing-nuxeo-ep-open-source-component-based-ecm-platform
 summary: "You can't create great software without both a vision and discipline."
 tags: ['Nuxeo', 'Java']
 ---

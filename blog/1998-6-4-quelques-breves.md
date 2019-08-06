@@ -1,7 +1,7 @@
 ---
 title: "Quelques brèves"
 date: 1998-06-04
-path: 1998/6/quelques-breves
+path: blog/1998/6/quelques-breves
 summary: "La version 2.0.34 du noyau stable est sortie."
 tags: ['Linux']
 ---

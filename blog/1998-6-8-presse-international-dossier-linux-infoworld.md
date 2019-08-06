@@ -1,9 +1,9 @@
 ---
 title: "Presse International: dossier Linux dans Infoworld"
 date: 1998-06-08
-path: 1998/6/presse-international-dossier-linux-infoworld
+path: blog/1998/6/presse-international-dossier-linux-infoworld
 summary: "Le magazine américain Infoworld vient de faire un dossier sur Linux: Grassroots Linux grows (Citing reliability and scalability, IT leans on Linux to extend systems on the cheap)."
-tags: ['Linux']
+tags: ['Linux', 'Open Source']
 ---
 
 <P>

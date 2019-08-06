@@ -37,7 +37,7 @@ def make_post(post):
     content = "---\n"
     content += f"title: \"{title_escaped}\"\n"
     content += f"date: {date:%Y-%m-%d}\n"
-    content += f"path: {year}/{month}/{slug}\n"
+    content += f"path: blog/{year}/{month}/{slug}\n"
     content += f"summary: \"{summary_escaped}\"\n"
     content += f"tags: {tags}\n"
     content += "---\n\n"
@@ -69,28 +69,46 @@ def make_tags(body):
 
     keywords = [
         "Abilian",
-        "Linux",
         "Nuxeo",
+        #
         "Python",
-        "GNU",
-        "Debian",
         "Zope",
+        "CPS",
+        #
         "Java",
         "Eclipse",
-        "GNOME",
-        "KDE",
-        "CPS",
+        "Apache",
+        "OW2",
+        #
+        "Linux",
+        "GNU",
+        "Debian",
         "Ubuntu",
         "Mandriva",
         "Mandrake",
         "Red Hat",
+        "GNOME",
+        "KDE",
+        #
         "AFUL",
         "GTLL",
         "CNLL",
+        "Open Source",
+        "Brevets",
+        "SCO",
+        "Miscrosoft",
+        "OpenOffice",
+        "LibreOffice",
+        "Mozilla",
     ]
 
+    words = set(re.split(r"\W+", text))
+    words_lower = {w.lower() for w in words}
+
     for kw in keywords:
-        if kw in text:
+        if " " in kw and kw in text:
+            tags += [kw]
+        elif kw.lower() in words_lower:
             tags += [kw]
 
     if tags:

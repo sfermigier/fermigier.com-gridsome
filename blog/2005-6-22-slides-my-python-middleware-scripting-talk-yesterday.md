@@ -1,9 +1,9 @@
 ---
 title: "Slides for my \"Python for middleware scripting\" talk yesterday"
 date: 2005-06-22
-path: 2005/6/slides-my-python-middleware-scripting-talk-yesterday
+path: blog/2005/6/slides-my-python-middleware-scripting-talk-yesterday
 summary: "I did a presentation yesterday at the ObjectWeb consortium architect seminar about &quot;Python for middleware scripting&quot; (trying to push Python to a Java crowd - not that easy)."
-tags: ['Python', 'Java']
+tags: ['Nuxeo', 'Python', 'Java']
 ---
 
 I did a presentation yesterday at the ObjectWeb consortium architect seminar

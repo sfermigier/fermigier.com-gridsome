@@ -1,7 +1,7 @@
 ---
 title: "Fiche de lecture"
 date: 1998-09-04
-path: 1998/9/fiche-lecture
+path: blog/1998/9/fiche-lecture
 summary: "Hier chez Auchan, j'ai eu l'oeil attiré par un livre du journaliste Gilles Fontaine, intitulé \"Comment Microsoft fait main basse sur votre ordinateur\" ou \"Le complot de Bill Gates\"."
 tags: ['Linux']
 ---

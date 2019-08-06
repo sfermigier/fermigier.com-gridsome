@@ -1,7 +1,7 @@
 ---
 title: "Rappel: Linux party francophone samedi prochain "
 date: 1998-10-07
-path: 1998/10/rappel-linux-party-francophone-samedi-prochain
+path: blog/1998/10/rappel-linux-party-francophone-samedi-prochain
 summary: "Pour ceux qui ne seraient pas encore au courant: il va y avoir une Linux party francophone, dans une trentaine au moins de villes en France, en Belgique et ailleurs, samedi prochain 10 octobre."
 tags: ['Linux']
 ---

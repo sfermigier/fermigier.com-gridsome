@@ -1,7 +1,7 @@
 ---
 title: "Un magazine 100% Linux en France (enfin!)"
 date: 1998-09-01
-path: 1998/9/magazine-100-linux-france-enfin
+path: blog/1998/9/magazine-100-linux-france-enfin
 summary: "Linux Magazine France est un nouveau magazine qui devrait être en kiosques d'ici quelques jours, pour 20 Francs (sans CD)."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Offres d'emploi en Afrique"
 date: 1999-04-02
-path: 1999/4/offres-emploi-afrique
+path: blog/1999/4/offres-emploi-afrique
 summary: "L'Institut Francophone des Nouvelles Technologies de l'Information et de la Formation (INTIF), organe de l'Agence intergouvernementale de la Francophonie, cherche à identifier des spécialistes Unix/Linux et IOS Cisco pouvant apporter un appui ponctuel dans la réalisation d'activités de formation dans les pays membres de l'Agence intergouvernementale de la francophonie."
 tags: ['Linux']
 ---

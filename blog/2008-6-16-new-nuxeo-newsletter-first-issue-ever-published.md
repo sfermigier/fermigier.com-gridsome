@@ -1,7 +1,7 @@
 ---
 title: "New Nuxeo newsletter: first issue ever published!"
 date: 2008-06-16
-path: 2008/6/new-nuxeo-newsletter-first-issue-ever-published
+path: blog/2008/6/new-nuxeo-newsletter-first-issue-ever-published
 summary: "We have launched last week a new newsletter which we will publish monthly, and will provide &#8220;regular insights on our announcements, successes and projects.&#8221; In the first issue: A big backlog of press coverage (also available as a standalone news item on nuxeo.com)."
 tags: ['Nuxeo']
 ---

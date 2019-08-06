@@ -1,7 +1,7 @@
 ---
 title: "Démonstration de Linux en Haute-Savoie"
 date: 1998-09-21
-path: 1998/9/demonstration-linux-haute-savoie
+path: blog/1998/9/demonstration-linux-haute-savoie
 summary: "À l'occasion du 150 ème anniversaire du lycée Charles Poncet de Cluses, la société Internet Mont-Blanc invite le public à découvrir les nouvelles Technologies Réseaux, lors de la \"Journée portes ouvertes\" du Samedi 26 Septembre."
 tags: ['Linux']
 ---

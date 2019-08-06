@@ -1,7 +1,7 @@
 ---
 title: "Introducing the 2011 \"Tour de Nuxeo\""
 date: 2011-07-04
-path: 2011/7/introducing-2011-tour-nuxeo
+path: blog/2011/7/introducing-2011-tour-nuxeo
 summary: "In honor of the 2011 Tour de France which started last saturday and will last until July 24th, we've decided to run in parallel a three week long \"Tour de Nuxeo\" to present the many faces of Nuxeo: Why use it."
 tags: ['Nuxeo']
 ---

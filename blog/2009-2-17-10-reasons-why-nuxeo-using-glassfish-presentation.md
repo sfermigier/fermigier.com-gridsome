@@ -1,9 +1,9 @@
 ---
 title: "\"10 reasons why Nuxeo is using GlassFish\" presentation"
 date: 2009-02-17
-path: 2009/2/10-reasons-why-nuxeo-using-glassfish-presentation
+path: blog/2009/2/10-reasons-why-nuxeo-using-glassfish-presentation
 summary: "Sun has launched GlassFish Portfolio yesterday."
-tags: ['Java']
+tags: ['Nuxeo', 'Java']
 ---
 
 <p><img src="/sections/blogs/fermigier/2009_02_11_10-reasons-why-nuxeo-using-glassfish-presentation/downloadFile/attachedFile_f0/photo-sun.jpg?" align="right">Sun has launched <a href="http://blogs.sun.com/theaquarium/entry/glassfish_portfolio_coverage">GlassFish Portfolio</a> yesterday.</p><p>

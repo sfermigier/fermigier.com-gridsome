@@ -1,9 +1,9 @@
 ---
 title: "'The Amazing' Randi va ouvrir la session Freenix de Usenix 98"
 date: 1998-05-12
-path: 1998/5/amazing-randi-va-ouvrir-session-freenix-usenix-98
+path: blog/1998/5/amazing-randi-va-ouvrir-session-freenix-usenix-98
 summary: "La conférence annuelle des utilisateur d'Unix, Usenix 98, aura lieu du 15 au 19 juin à la Nouvelle Orléans."
-tags: ['Linux', 'KDE']
+tags: ['Linux', 'GNOME', 'KDE']
 ---
 
 <P>

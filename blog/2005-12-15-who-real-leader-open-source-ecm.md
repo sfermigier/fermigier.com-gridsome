@@ -1,9 +1,9 @@
 ---
 title: "Who's the real leader in open source ECM?"
 date: 2005-12-15
-path: 2005/12/who-real-leader-open-source-ecm
+path: blog/2005/12/who-real-leader-open-source-ecm
 summary: "Don't believe the hype, just ask Google: \"cps ECM\": 98800 results \"zope ECM\": 91300 results \"nuxeo ECM\": 55700 results \"plone ECM\": 33500 results \"alfresco ECM\": 25800 results Added later: for more serious arguments, see Eric's blog entry on the same subject."
-tags: ['Misc']
+tags: ['Nuxeo', 'Zope', 'CPS']
 ---
 
 <p>

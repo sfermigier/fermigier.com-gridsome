@@ -1,9 +1,9 @@
 ---
 title: "Corel Computer et Linux"
 date: 1998-05-08
-path: 1998/5/corel-computer-linux
+path: blog/1998/5/corel-computer-linux
 summary: "Une synthèse de la réunion, par Russell Nelson (Crynwr Software)."
-tags: ['Linux', 'Java']
+tags: ['Java', 'Linux']
 ---
 
 <P>

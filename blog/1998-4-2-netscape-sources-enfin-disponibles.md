@@ -1,7 +1,7 @@
 ---
 title: "Netscape: les sources enfin disponibles"
 date: 1998-04-02
-path: 1998/4/netscape-sources-enfin-disponibles
+path: blog/1998/4/netscape-sources-enfin-disponibles
 summary: "Netscape a, comme promis, commencé à diffuser les sources de Navigator et Communicator."
 tags: ['Linux']
 ---

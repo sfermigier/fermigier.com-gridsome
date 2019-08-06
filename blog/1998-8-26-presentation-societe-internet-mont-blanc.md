@@ -1,7 +1,7 @@
 ---
 title: "Présentation de société: Internet Mont-Blanc"
 date: 1998-08-26
-path: 1998/8/presentation-societe-internet-mont-blanc
+path: blog/1998/8/presentation-societe-internet-mont-blanc
 summary: "[Claude Stabile présente l'activité de sa société.] Implantée au coeur de la Technic Vallée, pôle de sous-traitance internationale (plus de 800 PMI-PME), Internet Mont-Blanc (provider Haute-Savoie) propose aujourd'hui toute un gamme de solutions réseau à partir de serveur sous Linux."
 tags: ['Linux']
 ---

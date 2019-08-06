@@ -1,7 +1,7 @@
 ---
 title: "Transparents sur l'utilisation du logiciel libre à la DGI (Direction Générale des Impôts)"
 date: 2005-02-02
-path: 2005/2/transparents-utilisation-logiciel-libre-dgi-direction-generale-impots
+path: blog/2005/2/transparents-utilisation-logiciel-libre-dgi-direction-generale-impots
 summary: "Excellente pr&#233;sentation de Jean-Marie Lapeyre, directeur technique du programme Copernic &#224; la DGI."
 tags: ['Misc']
 ---

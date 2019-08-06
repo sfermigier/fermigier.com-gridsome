@@ -1,7 +1,7 @@
 ---
 title: "Première newsletter Abilian"
 date: 2013-05-02
-path: 2013/5/premiere-newsletter-abilian
+path: blog/2013/5/premiere-newsletter-abilian
 summary: "Je viens de rédiger et d'envoyer la première édition de la newsletter Abilian."
 tags: ['Abilian']
 ---

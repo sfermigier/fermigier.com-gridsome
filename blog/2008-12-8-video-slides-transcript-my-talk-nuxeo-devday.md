@@ -1,7 +1,7 @@
 ---
 title: "Video, slides and transcript of my talk at the Nuxeo DevDay"
 date: 2008-12-08
-path: 2008/12/video-slides-transcript-my-talk-nuxeo-devday
+path: blog/2008/12/video-slides-transcript-my-talk-nuxeo-devday
 summary: "My keynote presentation at the Nuxeo DevDay last Monday was called &#8220;The Nuxeo Way: using open source to build a world-class open source ECM platform&#8221;."
 tags: ['Nuxeo', 'Python', 'Zope', 'Java', 'Eclipse']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Final sprint before Nuxeo 5.2 (GA)"
 date: 2009-02-18
-path: 2009/2/final-sprint-before-nuxeo-5-2-ga
+path: blog/2009/2/final-sprint-before-nuxeo-5-2-ga
 summary: "The final (GA) release of Nuxeo EP 5.2 should be ready in less than a month now."
 tags: ['Nuxeo', 'Java']
 ---

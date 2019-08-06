@@ -1,7 +1,7 @@
 ---
 title: "15 ans de politiques publiques du logiciel libre en France"
 date: 2016-01-06
-path: 2016/1/15-ans-de-politiques-publiques-du-logiciel-libre-en-france
+path: blog/2016/1/15-ans-de-politiques-publiques-du-logiciel-libre-en-france
 summary: ""
 tags: ['Misc']
 ---

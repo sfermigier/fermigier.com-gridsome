@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse"
 date: 1998-07-22
-path: 1998/7/revue-presse-5
+path: blog/1998/7/revue-presse-5
 summary: "PC Direct no 69, Août 98: ``Des scientifiques unis pour promouvoir Linux''."
-tags: ['Linux', 'Debian', 'Red Hat']
+tags: ['Apache', 'Linux', 'Debian', 'Red Hat', 'AFUL']
 ---
 
 <UL>

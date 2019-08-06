@@ -1,7 +1,7 @@
 ---
 title: "Linux à l'école, c'est possible (I)"
 date: 1998-03-29
-path: 1998/3/linux-ecole-possible
+path: blog/1998/3/linux-ecole-possible
 summary: "L'école ``les trois soleils'', au Québec, s'est récemment équipée d'un réseau local (connecté à l'Internet), composé de 3 PC récents, sous Linux, et de 15 PC anciens reconvertis en terminaux X, grâce à Linux également."
 tags: ['Linux']
 ---

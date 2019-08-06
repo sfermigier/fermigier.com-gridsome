@@ -1,7 +1,7 @@
 ---
 title: "More Nuxeo slides posted on Slideshare"
 date: 2007-05-18
-path: 2007/5/more-nuxeo-slides-posted-slideshare
+path: blog/2007/5/more-nuxeo-slides-posted-slideshare
 summary: "White working on the latest issue of Nuxeo Weekly news, I have posted a couple of recent presentations to Slideshare: The slides from JavaOne (&#8220;Building an Embeddable Enterprise Content Management Core With the Latest Java Technologies&#8221;.): (Also available as PDF here) Feel free to contact me (sf@nuxeo.com) if you need the original presentation in PPT or ODT format to customize it to your needs."
 tags: ['Nuxeo', 'Java']
 ---

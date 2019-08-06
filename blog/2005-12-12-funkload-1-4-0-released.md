@@ -1,7 +1,7 @@
 ---
 title: "FunkLoad 1.4.0 released"
 date: 2005-12-12
-path: 2005/12/funkload-1-4-0-released
+path: blog/2005/12/funkload-1-4-0-released
 summary: "Here is the announcement on Freshmeat: New command-line options have been added for looping on specific pages inside a given script, for ignoring image/CSS link errors, for filtering tests based on a regular expression, for stopping the tests on the first failure, and more."
 tags: ['Misc']
 ---

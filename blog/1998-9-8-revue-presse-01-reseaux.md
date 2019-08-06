@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse: 01 Réseaux"
 date: 1998-09-08
-path: 1998/9/revue-presse-01-reseaux
+path: blog/1998/9/revue-presse-01-reseaux
 summary: "01 réseaux du mois de septembre 1998 (numéro 53), page 38."
-tags: ['Misc']
+tags: ['Apache']
 ---
 
 <UL>

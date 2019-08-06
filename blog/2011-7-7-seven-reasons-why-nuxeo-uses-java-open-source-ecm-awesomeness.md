@@ -1,9 +1,9 @@
 ---
 title: "Seven reasons why Nuxeo uses Java for open source ECM awesomeness"
 date: 2011-07-07
-path: 2011/7/seven-reasons-why-nuxeo-uses-java-open-source-ecm-awesomeness
+path: blog/2011/7/seven-reasons-why-nuxeo-uses-java-open-source-ecm-awesomeness
 summary: "So today's the 7th of July (7/7), and also, not so coincidentally, the day Oracle has chosen as the official day to launch Java 7."
-tags: ['Linux', 'Nuxeo', 'Java', 'Eclipse']
+tags: ['Nuxeo', 'Java', 'Eclipse', 'Apache', 'OW2', 'Linux']
 ---
 
 <img style="float: right; margin-left: 5px;" title="Openjdk_logo200-630c77e7df4e6b4f" src="/images/6a010536291c30970b014e89accf05970d-800wi.png"/> 

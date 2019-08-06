@@ -1,7 +1,7 @@
 ---
 title: "Planquez les mômes, v'la Microsoft"
 date: 1998-04-11
-path: 1998/4/planquez-momes-v-microsoft
+path: blog/1998/4/planquez-momes-v-microsoft
 summary: "Dans son supplément multimédia du 10 Avril, le quotidien Libération s'en prend au programme ``compétence 2000'' de Micro$oft, qualifié de ``machination hégémonique''."
 tags: ['Linux']
 ---

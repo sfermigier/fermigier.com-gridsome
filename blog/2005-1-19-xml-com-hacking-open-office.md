@@ -1,7 +1,7 @@
 ---
 title: "XML.com: Hacking Open Office"
 date: 2005-01-19
-path: 2005/1/xml-com-hacking-open-office
+path: blog/2005/1/xml-com-hacking-open-office
 summary: "Article int&#233;ressant sur xml.com: In this article, I'm going to explore some of the ways that OpenOffice.org's Writer application (I'm using version 1.1.2 on Linux and 1.1.3 on Windows XP) is open to customization and configuration."
 tags: ['Linux']
 ---

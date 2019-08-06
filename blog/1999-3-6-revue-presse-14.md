@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1999-03-06
-path: 1999/3/revue-presse-14
+path: blog/1999/3/revue-presse-14
 summary: "Le mensuel Info PC de mars, n°157, 35 F, consacre son dossier de couverture au monde non-Wintel : \"Le PC sans Intel ni Microsoft\" est le gros titre : Linux est cité dans la liste des \"challengers qui sortent de l'ombre\" et bien sûr il y a un Tux parmi les logos de ces challengers."
 tags: ['Linux']
 ---

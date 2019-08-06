@@ -1,9 +1,9 @@
 ---
 title: "Slides and video from my \"Mobile ECM applications with Appcelerator and PhoneGap\" talk last week"
 date: 2011-01-24
-path: 2011/1/slides-video-from-my-mobile-ecm-applications-with-appcelerator-phonegap-talk-last-week
+path: blog/2011/1/slides-video-from-my-mobile-ecm-applications-with-appcelerator-phonegap-talk-last-week
 summary: "Last Thursday I spoke at the JavaScript for Enterprise Applications (JSE2011) conference (that I also co-organised with my friend Jean-Paul Smets from Nexedi/ERP5/TioLive)."
-tags: ['Nuxeo', 'Java']
+tags: ['Nuxeo', 'Open Source']
 ---
 
 <p>Last Thursday I spoke at the <a href="http://www.freecloudalliance.org/fca-JSE2011.Programme">JavaScript for Enterprise Applications (JSE2011)</a> conference (that I also co-organised with my friend Jean-Paul Smets from <a href="http://www.nexedi.com/">Nexedi/ERP5/TioLive</a>).</p>

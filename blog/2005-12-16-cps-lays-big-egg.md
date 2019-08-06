@@ -1,9 +1,9 @@
 ---
 title: "CPS lays a (big) egg"
 date: 2005-12-16
-path: 2005/12/cps-lays-big-egg
+path: blog/2005/12/cps-lays-big-egg
 summary: "I'm experimenting with eggification of CPS, trying to have support in place for the upcoming CPS 3.4.0 release."
-tags: ['Python', 'Zope', 'CPS']
+tags: ['Nuxeo', 'Python', 'Zope', 'CPS']
 ---
 
 <p>I'm experimenting with eggification of CPS, trying to have support in

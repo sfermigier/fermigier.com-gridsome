@@ -1,9 +1,9 @@
 ---
 title: "Second CPS bug day tomorrow (2005/10/27)"
 date: 2005-10-26
-path: 2005/10/second-cps-bug-day-tomorrow-2005-10-27
+path: blog/2005/10/second-cps-bug-day-tomorrow-2005-10-27
 summary: "Please everybody join us in #cps on IRC on irc.freenode.net tomorrow (27 october 2005)."
-tags: ['Zope', 'CPS']
+tags: ['Nuxeo', 'Zope', 'CPS']
 ---
 
 <br><br>

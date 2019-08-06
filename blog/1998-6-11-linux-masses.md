@@ -1,7 +1,7 @@
 ---
 title: "Linux pour les masses"
 date: 1998-06-11
-path: 1998/6/linux-masses
+path: blog/1998/6/linux-masses
 summary: "Jean-François Martinez, le leader du projet Independence, m'a récemment fait parvenir d'une part une Présentation du projet, et d'autre part une listes de mythes sur Linux, qui freinent selon lui son expansion auprès du ``grand public''."
 tags: ['Linux']
 ---

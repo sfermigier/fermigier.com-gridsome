@@ -1,7 +1,7 @@
 ---
 title: "R&D work on the semantic web"
 date: 2009-01-30
-path: 2009/1/r-work-semantic-web
+path: blog/2009/1/r-work-semantic-web
 summary: "Work has started on two large scale R&amp;D projects, financed in part by the French Government and Paris Region (for Scribo), and by the European Commission (for IKS)."
 tags: ['Misc']
 ---

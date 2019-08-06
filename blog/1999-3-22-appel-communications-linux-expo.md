@@ -1,7 +1,7 @@
 ---
 title: "Appel à communications pour Linux Expo"
 date: 1999-03-22
-path: 1999/3/appel-communications-linux-expo
+path: blog/1999/3/appel-communications-linux-expo
 summary: "Un salon Linux Expo aura lieu à Paris les 17 et 18 juin 1999."
 tags: ['Linux', 'AFUL']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "First screenshots of the Abilian Wiki"
 date: 2013-06-25
-path: 2013/6/first-screenshots-of-the-abilian-wiki
+path: blog/2013/6/first-screenshots-of-the-abilian-wiki
 summary: "We've started working an a Wiki on top of the Abilian Platform."
 tags: ['Abilian']
 ---

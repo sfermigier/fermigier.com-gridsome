@@ -1,7 +1,7 @@
 ---
 title: "Linux Party le 11 septembre a Bordeaux"
 date: 1999-09-03
-path: 1999/9/linux-party-11-septembre-bordeaux
+path: blog/1999/9/linux-party-11-septembre-bordeaux
 summary: "Organisateur: ABUL (Associattion Bordelaise des Utilisateurs de Linux) Avec l'aide du BUGGS et de la Ville de Pessac Date: Samedi 11 Septembre 1999, de 10h à 22h non-stop."
 tags: ['Linux']
 ---

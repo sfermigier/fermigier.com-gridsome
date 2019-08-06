@@ -1,7 +1,7 @@
 ---
 title: "Actions locale (en France)"
 date: 1999-01-22
-path: 1999/1/actions-locale-france
+path: blog/1999/1/actions-locale-france
 summary: "A Clermont-Ferrand, le forum Linux a toujours lieu, à la Maison du peuple, les 29 et 30 janvier, de 11h à 23h, avec les conférences à partir de 15h."
 tags: ['Linux', 'Red Hat']
 ---

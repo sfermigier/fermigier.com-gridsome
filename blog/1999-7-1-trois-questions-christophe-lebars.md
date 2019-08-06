@@ -1,7 +1,7 @@
 ---
 title: "Trois questions a Christophe Lebars"
 date: 1999-07-01
-path: 1999/7/trois-questions-christophe-lebars
+path: blog/1999/7/trois-questions-christophe-lebars
 summary: "Trois questions à Christophe Lebars, responsable du projet de traduction de Debian en français et directeur technique d'Alcove."
 tags: ['Linux', 'Debian', 'Mandrake']
 ---

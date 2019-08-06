@@ -1,7 +1,7 @@
 ---
 title: "Interview vidéo par Neteco"
 date: 2008-06-19
-path: 2008/6/interview-video-par-neteco
+path: blog/2008/6/interview-video-par-neteco
 summary: "J'ai &#233;t&#233; interview&#233; par Ariane Beky de Neteco.com la semaine derni&#232;re, &#224; la fois sur la cr&#233;ation et l'&#233;volution de Nuxeo depuis 8 ans et sur mon implication dans le mouvement du logiciel libre en France depuis 10 ans."
 tags: ['Nuxeo']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse belge: Computer Magazine"
 date: 1998-09-24
-path: 1998/9/revue-presse-belge-computer-magazine
+path: blog/1998/9/revue-presse-belge-computer-magazine
 summary: "Ce mois-ci, j'ai remarqué l'article suivant dans le journal: \"CM - Computer Magazine\" de septembre 1998 - Belgique Titre: \"Le nouveau Linux est là\", p 94 et 95."
 tags: ['Linux']
 ---

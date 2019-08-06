@@ -1,7 +1,7 @@
 ---
 title: "Articles en anglais"
 date: 1998-04-01
-path: 1998/4/articles-anglais
+path: blog/1998/4/articles-anglais
 summary: "Linus Torvalds talks economics and operating systems (InfoWorld)."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Linux dans le secondaire: une initiative en Haute Savoie"
 date: 1998-09-23
-path: 1998/9/linux-secondaire-initiative-haute-savoie
+path: blog/1998/9/linux-secondaire-initiative-haute-savoie
 summary: "Le projet Linux Edu consiste à déployer des serveurs sous Linux dans des collèges et lycées en Haute Savoie."
 tags: ['Linux', 'Debian']
 ---

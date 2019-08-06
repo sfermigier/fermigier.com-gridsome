@@ -1,7 +1,7 @@
 ---
 title: "Pro-Python propaganda"
 date: 2005-12-12
-path: 2005/12/pro-python-propaganda
+path: blog/2005/12/pro-python-propaganda
 summary: "Some links to useful Python propaganda: Benefits of Python at Wingware Python for Lisp Programmers by Google's chief scientist, Peter Norvig Conversation with Bruce Eckel at Artima, see this blog by Kevin Altis What is Python."
 tags: ['Python']
 ---

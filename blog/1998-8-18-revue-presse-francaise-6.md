@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1998-08-18
-path: 1998/8/revue-presse-francaise-6
+path: blog/1998/8/revue-presse-francaise-6
 summary: "BIBA, septembre 1998: \"Et si on se passait de Bill Gates?\"."
 tags: ['Linux', 'AFUL']
 ---

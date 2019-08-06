@@ -1,9 +1,9 @@
 ---
 title: "Plein d'offres d'emploi chez MandrakeSoft"
 date: 1999-09-27
-path: 1999/9/plein-offres-emploi-chez-mandrakesoft
+path: blog/1999/9/plein-offres-emploi-chez-mandrakesoft
 summary: "MandrakeSoft recrute (encore et toujours!) des développeurs de haut niveau: un hacker pour le noyau; un coordinateur de projet; un developpeur Unix; un développeur applications graphiques; un graphiste."
-tags: ['Mandrake']
+tags: ['Linux', 'Mandrake']
 ---
 
 <P>MandrakeSoft recrute (encore et toujours!) des développeurs de haut niveau:</P>

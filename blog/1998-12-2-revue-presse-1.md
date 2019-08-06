@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1998-12-02
-path: 1998/12/revue-presse-1
+path: blog/1998/12/revue-presse-1
 summary: "Dans Décision Micro et Réseau no 362, le témoignage de Cyril Chaboisseau, responsable informatique de l'Observatoire Européen de l'audiovisuel, à Strasbourg : Nous sommes équipés de quinze micros qui fonctionnent sous Windows 95, NT 4 Workstation et Linux."
 tags: ['Linux', 'GNOME', 'KDE', 'AFUL']
 ---

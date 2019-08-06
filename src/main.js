@@ -19,17 +19,17 @@ export default function(Vue, { router, head, isClient }) {
   head.meta.push({
     name: "keywords",
     content:
-      "Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS"
+      "Stefane Fermigier, Logiciel Libre, Open Source, Python, Abilian, Nuxeo"
   });
 
   head.meta.push({
     name: "description",
-    content: "Gridsome Portfolio Starter"
+    content: "Site personnel (et professionnel) de Stefane Fermigier"
   });
 
   head.meta.push({
     name: "author",
-    content: "Andre Madarang"
+    content: "Stefane Fermigier"
   });
 
   head.link.push({

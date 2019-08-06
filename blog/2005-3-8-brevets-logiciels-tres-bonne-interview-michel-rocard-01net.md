@@ -1,7 +1,7 @@
 ---
 title: "Brevets logiciels: très bonne interview de Michel Rocard sur 01net"
 date: 2005-03-08
-path: 2005/3/brevets-logiciels-tres-bonne-interview-michel-rocard-01net
+path: blog/2005/3/brevets-logiciels-tres-bonne-interview-michel-rocard-01net
 summary: "Michel Rocard explique et analyse l'adoption par le Conseil des ministres europ&#233;ens d'une position commune sur le projet de directive."
 tags: ['Misc']
 ---

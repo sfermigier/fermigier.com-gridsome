@@ -1,7 +1,7 @@
 ---
 title: "Un logiciel de gestion porté sous Linux"
 date: 1999-05-06
-path: 1999/5/logiciel-gestion-porte-sous-linux
+path: blog/1999/5/logiciel-gestion-porte-sous-linux
 summary: "La société belge Eurologiciels SA, spécialisée dans les logiciels de comptabilité / gestion de stock sous Unix, nous signale qu'elle vient de porter son logiciel phare, GICA (gestion intégrée comptable et administrative) sous Linux."
 tags: ['Linux']
 ---

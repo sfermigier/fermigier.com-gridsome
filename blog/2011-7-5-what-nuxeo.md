@@ -1,9 +1,9 @@
 ---
 title: "Tour de Nuxeo, Stage 2: What is Nuxeo?"
 date: 2011-07-05
-path: 2011/7/what-nuxeo
+path: blog/2011/7/what-nuxeo
 summary: "This is stage 2 of the 2011 \"Tour de Nuxeo\"."
-tags: ['Nuxeo', 'Java']
+tags: ['Nuxeo', 'Java', 'Open Source']
 ---
 
 <em>This is stage 2 of the 2011 "<a href="/blog/2011/07/introducing-2011-tour-nuxeo/">Tour de Nuxeo</a>". Follow the link for the list of other stages.</em>

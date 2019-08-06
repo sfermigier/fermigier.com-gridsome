@@ -1,9 +1,9 @@
 ---
 title: "Linus Torvalds reçoit le prix 1997 de la fondation Nokia"
 date: 1997-12-01
-path: 1997/12/linus-torvalds-recoit-prix-1997-fondation-nokia
+path: blog/1997/12/linus-torvalds-recoit-prix-1997-fondation-nokia
 summary: "La fondation Nokia a attribué à Linus Torvalds, principal créateur du système Linux, un prix d'un montant de 50000 marks finlandais (~60000 Francs français)."
-tags: ['Linux', 'Java']
+tags: ['Java', 'Linux']
 ---
 
 La fondation Nokia a attribué à Linus Torvalds, principal créateur du

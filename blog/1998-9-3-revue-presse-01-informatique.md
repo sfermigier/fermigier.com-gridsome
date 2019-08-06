@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse: 01 Informatique"
 date: 1998-09-03
-path: 1998/9/revue-presse-01-informatique
+path: blog/1998/9/revue-presse-01-informatique
 summary: "L'hebdomadaire \"01 Informatique\" dans son numéro du 28 août au 3 septembre parle à deux reprises de Linux: \"Informix rassure ses utilisateurs\" traite du redressement financier de cette société et annonce qu'elle a décidé de porter sa base de données Informix SE sous Linux pour coller au marché et ne pas manquer cette plate forme."
-tags: ['Linux']
+tags: ['Apache', 'Linux']
 ---
 
 <P>

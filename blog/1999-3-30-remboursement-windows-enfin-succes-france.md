@@ -1,7 +1,7 @@
 ---
 title: "Remboursement de Windows: enfin un succès en France"
 date: 1999-03-30
-path: 1999/3/remboursement-windows-enfin-succes-france
+path: blog/1999/3/remboursement-windows-enfin-succes-france
 summary: "Dans Le Monde Interactif de demain (daté de mercredi), on apprend qu'un instituteur utilisateur de Windows (même pas de Linux), poussée par la campagne de détaxe du 15 février, a réussi à se faire rembourser 649 FF une licence de Windows dont il n'avait pas besoin puisqu'il changeait de PC."
 tags: ['Linux']
 ---

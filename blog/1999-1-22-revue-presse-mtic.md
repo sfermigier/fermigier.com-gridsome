@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse sur la MTIC"
 date: 1999-01-22
-path: 1999/1/revue-presse-mtic
+path: blog/1999/1/revue-presse-mtic
 summary: "La présentation de Linux et des logiciels libres à la MTIC a eu quelques échos dans la presse."
 tags: ['Linux', 'Red Hat']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Interview with Cheryl McKinnon, CMO at Nuxeo, at ARMA"
 date: 2009-10-22
-path: 2009/10/interview-with-cheryl-mckinnon-cmo-nuxeo-arma
+path: blog/2009/10/interview-with-cheryl-mckinnon-cmo-nuxeo-arma
 summary: "Here is a video interview of Cheryl McKinnon, our recently hired Chief of Marketing, by FierceContentManagement, on how life is different in an open source ECM firm such as Nuxeo, wrt her former job at OpenText."
 tags: ['Nuxeo']
 ---

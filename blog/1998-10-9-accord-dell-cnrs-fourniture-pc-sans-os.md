@@ -1,7 +1,7 @@
 ---
 title: "Accord Dell/CNRS pour la fourniture de PC sans OS"
 date: 1998-10-09
-path: 1998/10/accord-dell-cnrs-fourniture-pc-sans-os
+path: blog/1998/10/accord-dell-cnrs-fourniture-pc-sans-os
 summary: "Lu dans LMB Actu ce matin: Ce jeudi 8 octobre, la délégation aux systèmes d'information du CNRS a rendu public l'aboutissement d'un travail de plusieurs mois: l'offre d'une configuration PC Pentium II 350 MHz sans système d'exploitation pré-installé, à un prix particulièrement raisonnable, 7 700 FF HT."
 tags: ['Linux']
 ---

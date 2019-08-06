@@ -1,9 +1,9 @@
 ---
 title: "Network Computers: bientôt un standard"
 date: 1998-04-17
-path: 1998/4/network-computers-bientot-standard
+path: blog/1998/4/network-computers-bientot-standard
 summary: "Le Open Group a annoncé la publication prochaine de la version 1.0 du standard ONC (Open Network Computer)."
-tags: ['Linux', 'Java']
+tags: ['Java', 'Linux']
 ---
 
 <P>

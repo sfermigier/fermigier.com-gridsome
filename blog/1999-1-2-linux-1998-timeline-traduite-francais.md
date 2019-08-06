@@ -1,7 +1,7 @@
 ---
 title: "Linux 1998 timeline traduite en français"
 date: 1999-01-02
-path: 1999/1/linux-1998-timeline-traduite-francais
+path: blog/1999/1/linux-1998-timeline-traduite-francais
 summary: "Une traduction française de la ``Linux 1998 timeline'' publiée il y a quelques jours par Linux Weekly News est disponible sur ce serveur."
 tags: ['Linux']
 ---

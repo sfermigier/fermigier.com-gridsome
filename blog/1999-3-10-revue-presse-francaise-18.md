@@ -1,9 +1,9 @@
 ---
 title: "Revue de presse francaise"
 date: 1999-03-10
-path: 1999/3/revue-presse-francaise-18
+path: blog/1999/3/revue-presse-francaise-18
 summary: "AZAR publie sous licence de libre diffusion de documents (LLDD v1) une intéressante étude sur l'informatique en réseau, avec en particulier un panorama des application bureautiques sous Linux et surtout un panorama des applications de ``groupwweb'', qui présente un certain nombre de serveurs d'applications Web libres (Zope, Hamilton, Casbah, Enhydra, Extropia, Citadel/UX) dont certains sont à l'heure actuelle peu connus."
-tags: ['Linux', 'Zope', 'Red Hat']
+tags: ['Zope', 'Linux', 'Red Hat', 'Open Source']
 ---
 
 <P><B>AZAR</B> publie sous licence de libre diffusion de documents

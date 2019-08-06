@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1998-05-26
-path: 1998/5/revue-presse-francaise-2
+path: blog/1998/5/revue-presse-francaise-2
 summary: "Sur France 3, le 21 mai: sujet intitulé ``Bill Gates, l'homme à abattre'', Linux est cité: En fait le véritable concurrent de Microsoft est sans doute incarné par cet homme discret, Linus Torvalds, auteur d'un logiciel concurrent de Windows, Linux, très implanté dans les milieux universitaires, et distribué quasi gratuitement."
 tags: ['Linux', 'Red Hat', 'AFUL']
 ---

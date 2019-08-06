@@ -1,7 +1,7 @@
 ---
 title: "Retrouvez ma keynote de l'Open World Forum 2013 sur YouTube"
 date: 2013-10-09
-path: 2013/10/retrouvez-ma-keynote-de-lopen-world-forum-2013-sur-youtube
+path: blog/2013/10/retrouvez-ma-keynote-de-lopen-world-forum-2013-sur-youtube
 summary: ""
 tags: ['GTLL']
 ---

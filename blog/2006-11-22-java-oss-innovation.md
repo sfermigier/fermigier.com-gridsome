@@ -1,9 +1,9 @@
 ---
 title: "Java, OSS and innovation"
 date: 2006-11-22
-path: 2006/11/java-oss-innovation
+path: blog/2006/11/java-oss-innovation
 summary: "&#8220;Cristiano&#8221;, from Faqs.it, has written a comment about our switch from Python to Java in his blog."
-tags: ['Nuxeo', 'Python', 'Java', 'Eclipse', 'Red Hat']
+tags: ['Nuxeo', 'Python', 'Java', 'Eclipse', 'Apache', 'Red Hat']
 ---
 
 <p>&#8220;Cristiano&#8221;, from Faqs.it, has written a comment about our <a href="http://www.nuxeo.com/en/news/nuxeo-switches-to-java/">switch from Python to Java</a> in <a href="http://blog.faqs.it/?p=15">his blog</a>.</p><p>Here is my comment about his comment.</p>

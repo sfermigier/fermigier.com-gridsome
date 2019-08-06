@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse internationale"
 date: 1998-08-28
-path: 1998/8/revue-presse-internationale-0
+path: blog/1998/8/revue-presse-internationale-0
 summary: "J'ai arrété de lire tout ce qui se publie sur Linux en ce moment, le nombre d'article continue encore à augmenter (environ 25 cette semaine)."
 tags: ['Linux']
 ---

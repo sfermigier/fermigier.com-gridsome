@@ -1,9 +1,9 @@
 ---
 title: "Nuxeo now incubated as an OW2 project"
 date: 2011-04-11
-path: 2011/4/nuxeo-incubated-ow2-project
+path: blog/2011/4/nuxeo-incubated-ow2-project
 summary: "A month ago, we became a member of the OW2 consortium, an international organization and ecosystem primarily devoted to producing open source middleware, integration and cloud computing software, most of them based on the Java platform."
-tags: ['Nuxeo', 'Java']
+tags: ['Nuxeo', 'Java', 'OW2', 'Open Source']
 ---
 
 

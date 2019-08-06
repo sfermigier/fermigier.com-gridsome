@@ -1,9 +1,9 @@
 ---
 title: "Videos related to two of our R&D projects now available"
 date: 2011-02-11
-path: 2011/2/videos-related-two-r-projects-available
+path: blog/2011/2/videos-related-two-r-projects-available
 summary: "Besides the IKS and Scribo projects on semantic technologies which we have already covered on these blogs, Nuxeo is also a partner of several other collaborative R&amp;D projects."
-tags: ['Nuxeo', 'Java']
+tags: ['Nuxeo', 'Java', 'Apache', 'OW2', 'Open Source']
 ---
 
 Besides the <a href="http://iks-project.eu/">IKS</a> and <a href="http://www.scribo.ws/">Scribo</a> projects on semantic technologies which we have <a href="http://blogs.nuxeo.com/fermigier/2010/11/the-slides-decks-for-my-presentation-at-nuxeo-world-are-online.html">already covered</a> on these blogs, Nuxeo is also a partner of several other collaborative R&amp;D projects.

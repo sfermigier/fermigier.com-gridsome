@@ -1,7 +1,7 @@
 ---
 title: "l'AFUL lance un concours pour le premier 'prix du logiciel libre francophone'"
 date: 1999-05-20
-path: 1999/5/aful-lance-concours-premier-prix-logiciel-libre-francophone
+path: blog/1999/5/aful-lance-concours-premier-prix-logiciel-libre-francophone
 summary: "L'AFUL organise à l'occasion de Linux Expo Paris un concours pour le premier ``prix AFUL du logiciel libre francophone''."
 tags: ['Linux', 'AFUL']
 ---

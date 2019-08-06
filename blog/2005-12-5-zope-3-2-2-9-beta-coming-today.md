@@ -1,7 +1,7 @@
 ---
 title: "Zope 3.2 and 2.9 beta coming today"
 date: 2005-12-05
-path: 2005/12/zope-3-2-2-9-beta-coming-today
+path: blog/2005/12/zope-3-2-2-9-beta-coming-today
 summary: ""
 tags: ['Zope']
 ---

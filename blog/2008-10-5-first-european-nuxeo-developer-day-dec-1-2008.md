@@ -1,7 +1,7 @@
 ---
 title: "First European Nuxeo Developer Day - Dec. 1 2008"
 date: 2008-10-05
-path: 2008/10/first-european-nuxeo-developer-day-dec-1-2008
+path: blog/2008/10/first-european-nuxeo-developer-day-dec-1-2008
 summary: "I&#8217;m pleased to announce that we are organizing, with the help of several other people, the first &#8220;big event&#8221; in the Nuxeo Community: the Nuxeo Developer Day."
 tags: ['Nuxeo']
 ---

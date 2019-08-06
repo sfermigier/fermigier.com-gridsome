@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse + salons Linux"
 date: 1999-06-01
-path: 1999/6/revue-presse-salons-linux
+path: blog/1999/6/revue-presse-salons-linux
 summary: "Le mensuel .Net de juin, n°31, 35 F, consacre une fiche pratique à Linux, dont il fait l'annonce en couverture."
 tags: ['Linux']
 ---

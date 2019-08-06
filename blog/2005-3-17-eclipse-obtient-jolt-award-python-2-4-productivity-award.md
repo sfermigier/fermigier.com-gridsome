@@ -1,7 +1,7 @@
 ---
 title: "Eclipse obtient le \"Jolt Award\" et Python 2.4 le \"Productivity Award\""
 date: 2005-03-17
-path: 2005/3/eclipse-obtient-jolt-award-python-2-4-productivity-award
+path: blog/2005/3/eclipse-obtient-jolt-award-python-2-4-productivity-award
 summary: "Eclipse et Python viennent d&#39;être distingués par le magazine Software Development Magazine par les prestigieux \"Jolt Awards\" dans la cat&#233;gories \"langages et outils de d&#233;veloppement\"."
 tags: ['Python', 'Eclipse']
 ---

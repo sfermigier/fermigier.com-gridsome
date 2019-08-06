@@ -1,9 +1,9 @@
 ---
 title: "Offres d'emploi"
 date: 1999-06-29
-path: 1999/6/offres-emploi-0
+path: blog/1999/6/offres-emploi-0
 summary: "La société MandrakeSoft recherche un webmaster/ingénieur système et réseau, un développeur sous Linux et deux commerciaux."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux']
 ---
 
 <P>

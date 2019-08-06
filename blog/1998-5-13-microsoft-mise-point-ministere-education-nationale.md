@@ -1,9 +1,9 @@
 ---
 title: "Microsoft: mise au point du Ministère de l'Education Nationale"
 date: 1998-05-13
-path: 1998/5/microsoft-mise-point-ministere-education-nationale
+path: blog/1998/5/microsoft-mise-point-ministere-education-nationale
 summary: "Il y a quelques semaines, la presse annonçait avec grand fracas la signature d'un partenariat entre Microsoft et le Ministère de l'Education nationales."
-tags: ['AFUL']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>

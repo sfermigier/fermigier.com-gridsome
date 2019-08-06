@@ -1,7 +1,7 @@
 ---
 title: "Informatique médicale: Linux plutôt que NT"
 date: 1998-06-16
-path: 1998/6/informatique-medicale-linux-plutot-que-nt
+path: blog/1998/6/informatique-medicale-linux-plutot-que-nt
 summary: "La société allemande pour l'informatique en médecine, en biométrique et en épidémiologie à récemment émis une recommandantion qui déconseille l'utilisation de NT en milieu médical."
 tags: ['Linux']
 ---

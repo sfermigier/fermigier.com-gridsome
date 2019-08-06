@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Nuxeo 5.1.3 release + Updated roadmap"
 date: 2008-01-15
-path: 2008/1/upcoming-nuxeo-5-1-3-release-updated-roadmap
+path: blog/2008/1/upcoming-nuxeo-5-1-3-release-updated-roadmap
 summary: "The Nuxeo EP 5.1.3 release is coming along nicely after a small delay due to the holiday break, and will be tagged in a couple of days."
 tags: ['Nuxeo']
 ---

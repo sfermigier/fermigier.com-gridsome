@@ -1,9 +1,9 @@
 ---
 title: "CPS 3.3.2 released !"
 date: 2005-03-10
-path: 2005/3/cps-3-3-2-released
+path: blog/2005/3/cps-3-3-2-released
 summary: "We have released CPS 3.3.2."
-tags: ['Debian', 'CPS']
+tags: ['Nuxeo', 'Zope', 'CPS', 'Debian']
 ---
 
 We have released CPS 3.3.2. It is a development release but it should be

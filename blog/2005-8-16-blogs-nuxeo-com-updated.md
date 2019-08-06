@@ -1,7 +1,7 @@
 ---
 title: "Blogs.nuxeo.com updated"
 date: 2005-08-16
-path: 2005/8/blogs-nuxeo-com-updated
+path: blog/2005/8/blogs-nuxeo-com-updated
 summary: ""
 tags: ['Misc']
 ---

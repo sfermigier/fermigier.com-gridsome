@@ -1,7 +1,7 @@
 ---
 title: "Présentation de la roadmap du GT Logiciel Libre"
 date: 2013-06-18
-path: 2013/6/presentation-de-la-roadmap-du-gt-logiciel-libre
+path: blog/2013/6/presentation-de-la-roadmap-du-gt-logiciel-libre
 summary: ""
 tags: ['Misc']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Slides from the Eclipse Summit Europe 2008"
 date: 2008-11-25
-path: 2008/11/slides-from-eclipse-summit-europe-2008
+path: blog/2008/11/slides-from-eclipse-summit-europe-2008
 summary: "A set of slide decks from the Eclipse Summit Europe 2008 has been recently tagged and featured on SlideShare.net."
 tags: ['Nuxeo', 'Eclipse']
 ---

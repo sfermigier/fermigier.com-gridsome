@@ -1,7 +1,7 @@
 ---
 title: "Nuxeo Got an Award"
 date: 2009-01-30
-path: 2009/1/nuxeo-got-award
+path: blog/2009/1/nuxeo-got-award
 summary: "Nuxeo has been named &#8220;Company to Watch in 2009&#8221; by Intelligent Enterprise."
 tags: ['Nuxeo']
 ---

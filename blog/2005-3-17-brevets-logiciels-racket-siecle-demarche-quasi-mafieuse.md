@@ -1,7 +1,7 @@
 ---
 title: "Brevets logiciels: \"racket du siècle\" et \"démarche quasi mafieuse\""
 date: 2005-03-17
-path: 2005/3/brevets-logiciels-racket-siecle-demarche-quasi-mafieuse
+path: blog/2005/3/brevets-logiciels-racket-siecle-demarche-quasi-mafieuse
 summary: "C&#39;est pas moi qui le dit, c&#39;est un professeur &#224; Centrale."
 tags: ['Misc']
 ---

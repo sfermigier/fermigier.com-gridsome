@@ -1,9 +1,9 @@
 ---
 title: "Une avalanche d'articles sur les logiciels libres (dans la presse anglo-saxonne)"
 date: 1998-02-01
-path: 1998/2/avalanche-articles-logiciels-libres-presse-anglo-saxonne
+path: blog/1998/2/avalanche-articles-logiciels-libres-presse-anglo-saxonne
 summary: "En vrac et sans entrer dans les détails: If Linux Is Free, Why Is Bob Young Smiling."
-tags: ['Linux', 'Red Hat']
+tags: ['Apache', 'Linux', 'Red Hat']
 ---
 
 <P>En vrac et sans entrer dans les détails:</P>

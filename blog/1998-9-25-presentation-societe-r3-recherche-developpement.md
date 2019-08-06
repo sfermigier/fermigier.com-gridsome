@@ -1,9 +1,9 @@
 ---
 title: "Présentation de société: R3 Recherche et Développement"
 date: 1998-09-25
-path: 1998/9/presentation-societe-r3-recherche-developpement
+path: blog/1998/9/presentation-societe-r3-recherche-developpement
 summary: "Olivier Ravard m'écrit: J'ai créé une société (date de création 1 aout 1998) qui s'appelle R3 Recherche et Développement (serveur WEB situé au canada sur une machine Linux à l'adresse www.r3net.com)."
-tags: ['Linux', 'KDE', 'Red Hat']
+tags: ['Linux', 'Red Hat', 'KDE']
 ---
 
 <P>

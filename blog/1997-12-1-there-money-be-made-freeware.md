@@ -1,9 +1,9 @@
 ---
 title: "There's money to be made in freeware"
 date: 1997-12-01
-path: 1997/12/there-money-be-made-freeware
+path: blog/1997/12/there-money-be-made-freeware
 summary: "Cet article ``grand public'' du quotidien californien San Jose Mercury News présente le logiciel libre (incorrectement désigné sous le nom de freeware) et quelques unes de ses implications économiques."
-tags: ['Linux', 'Red Hat']
+tags: ['Apache', 'Linux', 'Red Hat']
 ---
 
 <P>

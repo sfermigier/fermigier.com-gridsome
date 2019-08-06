@@ -1,7 +1,7 @@
 ---
 title: "Brevets logiciels: nouvelle menace sérieuse"
 date: 2005-03-08
-path: 2005/3/brevets-logiciels-nouvelle-menace-serieuse
+path: blog/2005/3/brevets-logiciels-nouvelle-menace-serieuse
 summary: "Nouveau rebondissement dans l&#39;affaire des brevets logiciels: la Commission Barroso tente un nouveau passage en force, contre la volont&#233; du Parlement, de son projet de directive, aujourd'hui 7 mars."
 tags: ['AFUL']
 ---

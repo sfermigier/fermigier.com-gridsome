@@ -1,7 +1,7 @@
 ---
 title: "Tutoriels EclipseCon"
 date: 2005-03-08
-path: 2005/3/tutoriels-eclipsecon
+path: blog/2005/3/tutoriels-eclipsecon
 summary: "Ils sont déja en ligne, alors que la conf&#233;rence a lieu &#224; la fin du mois."
 tags: ['Misc']
 ---

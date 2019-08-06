@@ -1,7 +1,7 @@
 ---
 title: "Maven workshop with Vincent Massol"
 date: 2006-10-28
-path: 2006/10/maven-workshop-with-vincent-massol
+path: blog/2006/10/maven-workshop-with-vincent-massol
 summary: "Vincent Massol, of Maven and Cargo fame, came to visit the Nuxeo 5 team yesterday to give us some advice on how to best use Maven 2 to build and deploy Nuxeo 5 and ensure the best possible software quality for the product."
 tags: ['Nuxeo']
 ---

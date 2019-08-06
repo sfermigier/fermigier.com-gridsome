@@ -1,7 +1,7 @@
 ---
 title: "A CPS project awarded by french magazine \"Le Monde Informatique\""
 date: 2006-04-11
-path: 2006/4/cps-project-awarded-french-magazine-monde-informatique
+path: blog/2006/4/cps-project-awarded-french-magazine-monde-informatique
 summary: "Our friend at CEA (French Atomic Energy Commission) have been awarded \"best project of the year\" in the \"public administration\" category of the competition organised by the french magazine \"Le Monde Informatique\" (an IDG publication)."
 tags: ['CPS']
 ---

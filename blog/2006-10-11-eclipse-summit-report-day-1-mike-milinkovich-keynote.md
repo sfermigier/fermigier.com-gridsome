@@ -1,9 +1,9 @@
 ---
 title: "Eclipse Summit report, day 1, Mike Milinkovich's keynote"
 date: 2006-10-11
-path: 2006/10/eclipse-summit-report-day-1-mike-milinkovich-keynote
+path: blog/2006/10/eclipse-summit-report-day-1-mike-milinkovich-keynote
 summary: "Mike Milinkovich started the conference by highlighting the four ingredients of a great platform: Great technology Broad adoption &#8220;Architecture of participation&#8221; Hijacked by the community Great technology Eclipse is a platform that you can extend through plugins."
-tags: ['Nuxeo', 'Python', 'Java', 'Eclipse']
+tags: ['Nuxeo', 'Python', 'Java', 'Eclipse', 'Apache']
 ---
 
 <p>Mike Milinkovich started the conference by highlighting the four ingredients of a great platform:</p><ol><li>Great technology</li>

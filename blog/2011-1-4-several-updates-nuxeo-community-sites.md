@@ -1,7 +1,7 @@
 ---
 title: "Several updates to the Nuxeo community sites"
 date: 2011-01-04
-path: 2011/1/several-updates-nuxeo-community-sites
+path: blog/2011/1/several-updates-nuxeo-community-sites
 summary: "We've been busy during the holidays updating the different Nuxeo community websites: The forum (as I already announced) has moved to a new forum engine that should be more robust that the previous one: http://forum.nuxeo.org/ The documentation site has a new home page with, we hope, a clearer roadmap to navigate through the documentation: http://doc.nuxeo.com/ We've also have written a new \"beginner's page\" (aka: \"everything you need to know about Nuxeo in 5 minutes\"): https://doc.nuxeo.com/x/vYFH And a \"business FAQ\" that should be helpful when responding to a RFP: https://doc.nuxeo.com/x/uAwz We're still busy updating other parts of the documentation."
 tags: ['Nuxeo']
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Les articles en anglais du mois"
 date: 1998-03-01
-path: 1998/3/articles-anglais-mois
+path: blog/1998/3/articles-anglais-mois
 summary: "Microsoft Windows NT Server 4.0 versus UNIX (John Kirch): article très critique vis-à-vis de NT, avec de nombreux arguments crédibles, y compris de nombreux témoignages de dirigeants d'entreprises, et très positif pour Linux et FreeBSD."
-tags: ['Linux', 'GNU', 'Red Hat']
+tags: ['Apache', 'Linux', 'GNU', 'Red Hat']
 ---
 
 <UL>

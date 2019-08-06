@@ -1,7 +1,7 @@
 ---
 title: "DSK soutient Linux"
 date: 1998-09-01
-path: 1998/9/dsk-soutient-linux
+path: blog/1998/9/dsk-soutient-linux
 summary: "Dans son discours prononcé le 28 août à Hourtin, le ministre de l'économie, des finances et de l'industrie, Dominique Strauss-Kahn, a annoncé qu'il soutenait Linux."
 tags: ['Linux']
 ---

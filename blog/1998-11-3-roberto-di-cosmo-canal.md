@@ -1,7 +1,7 @@
 ---
 title: "Roberto Di Cosmo sur Canal+"
 date: 1998-11-03
-path: 1998/11/roberto-di-cosmo-canal
+path: blog/1998/11/roberto-di-cosmo-canal
 summary: "Comme prévu, Roberto di Cosmo était sur Canal plus ce soir à Nulle part ailleur pendant une dizaine de minutes."
 tags: ['Linux']
 ---

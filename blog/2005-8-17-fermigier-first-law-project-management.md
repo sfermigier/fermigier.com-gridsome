@@ -1,7 +1,7 @@
 ---
 title: "S. Fermigier first law of project management"
 date: 2005-08-17
-path: 2005/8/fermigier-first-law-project-management
+path: blog/2005/8/fermigier-first-law-project-management
 summary: "Every project is 80% finished 80% of the time."
 tags: ['Misc']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Présentation de société: Easter-eggs"
 date: 1998-08-03
-path: 1998/8/presentation-societe-easter-eggs
+path: blog/1998/8/presentation-societe-easter-eggs
 summary: "Emmanuel Dillard, Directeur opérationnel d'Easter-eggs m'a fait parvenir cette courte présentation de sa société: Easter-eggs propose toute une gamme de solution serveurs et routeurs à base de logiciels libres de droits sous système d'exploitation Linux."
 tags: ['Linux']
 ---

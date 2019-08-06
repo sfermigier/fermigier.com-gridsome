@@ -1,9 +1,9 @@
 ---
 title: "CPS4 project officially started!"
 date: 2006-04-13
-path: 2006/4/cps4-project-officially-started
+path: blog/2006/4/cps4-project-officially-started
 summary: "Two signs that the CPS4 project has officially started: Florent has committed a roadmap in the SVN."
-tags: ['Nuxeo', 'Java', 'CPS']
+tags: ['Nuxeo', 'CPS', 'Java', 'Apache']
 ---
 
 <p>

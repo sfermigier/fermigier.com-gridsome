@@ -1,7 +1,7 @@
 ---
 title: "Another review of Mike Milinkovich's keynote"
 date: 2006-10-27
-path: 2006/10/another-review-mike-milinkovich-keynote
+path: blog/2006/10/another-review-mike-milinkovich-keynote
 summary: "Well, it seems Mike doesn&#8217;t have enough time to prepare a new keynote each time he has a speaking engagement ;) This review of his keynote at CSS2006 seems suspiciously similar to the one I saw in Esslingen am Neckar two weeks ago."
 tags: ['Misc']
 ---

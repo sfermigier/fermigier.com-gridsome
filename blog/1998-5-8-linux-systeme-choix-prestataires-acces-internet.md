@@ -1,7 +1,7 @@
 ---
 title: "Linux: un système de choix pour les prestataires d'accès Internet"
 date: 1998-05-08
-path: 1998/5/linux-systeme-choix-prestataires-acces-internet
+path: blog/1998/5/linux-systeme-choix-prestataires-acces-internet
 summary: "Selon une étude récente du groupe Ziff-Davis, 25% environ des prestataires d'accès Internet utilisent déjà Linux (``There is a strong underground swell for Linux, and when a key channel like the ISPs are using it in a big way, MS needs to be worried.'')."
 tags: ['Linux']
 ---
