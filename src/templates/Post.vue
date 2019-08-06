@@ -100,7 +100,6 @@ export default {
   color: #24292e;
   line-height: 1.5;
   font-size: 20px;
-  line-height: 1.5;
   word-wrap: break-word;
 }
 

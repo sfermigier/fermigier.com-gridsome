@@ -1,3 +1,7 @@
+---
+slug: presentations
+---
+
 # Presentations
 
 I enjoy giving talks on subjects that matter to me.

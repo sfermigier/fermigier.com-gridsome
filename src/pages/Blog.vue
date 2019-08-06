@@ -6,11 +6,13 @@
         :key="post.id"
         class="post border-gray-400 border-b mb-12"
       >
+
         <h2 class="text-3xl font-bold">
           <g-link :to="post.node.path" class="text-copy-primary">{{
             post.node.title
           }}</g-link>
         </h2>
+
         <div class="text-copy-secondary mb-4">
           <span>{{ post.node.date }}</span>
           <span> &middot; </span>
@@ -41,7 +43,7 @@
 
 <page-query>
 query Posts ($page: Int) {
-  posts: allPost (sortBy: "date", order: DESC, perPage: 3, page: $page) @paginate {
+  posts: allPost (sortBy: "date", order: DESC, perPage: 25, page: $page) @paginate {
     totalCount
     pageInfo {
       totalPages

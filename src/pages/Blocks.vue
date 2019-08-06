@@ -13,6 +13,10 @@
           }}</g-link>
         </h2>
 
+        <p>
+        {{ block.node.path }}
+        </p>
+
         <div class="text-lg mb-4" v-html="block.node.content" />
       </div>
       <!-- end post -->
@@ -31,6 +35,7 @@ query Blocks ($page: Int) {
     edges {
       node {
         id
+        path
         title
         content
       }

@@ -1,0 +1,15 @@
+---
+title: "Un numéro de SysAdmin consacré à Linux"
+date: 1997-12-01
+path: 1997/12/numero-sysadmin-consacre-linux
+---
+
+<P>
+Le numéro de janvier (sorti en décembre) du magazine SysAdmin (le magazine
+des administrateur système UN*X) fait sa couverture sur Linux, avec
+en particulier deux articles intitulés:
+<EM>Linux-Hosted Frame Relay</EM> et <EM>Using Linux in an Office
+Environment</EM>.
+</P>
+
+

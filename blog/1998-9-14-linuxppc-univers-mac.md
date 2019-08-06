@@ -1,0 +1,18 @@
+---
+title: "LinuxPPC dans Univers Mac"
+date: 1998-09-14
+path: 1998/9/linuxppc-univers-mac
+---
+
+<P>
+On me signale, de plusieurs sources, que la revue <EM>Univers Mac</EM>
+de ce mois contient un article sur Linux et, sur le CD promotionel,
+une distribution <A HREF="http://www.linuxppc.org/">LinuxPPC DR4</A>.
+</P>
+
+<P>
+Une nouvelle qui arrive juste à temps pour <A HREF="http://www.apple.fr/">Apple Expo</A> où l'<A HREF="http://www.aful.org/">AFUL</A> animera
+un stand.
+</P>
+
+
