@@ -6,7 +6,7 @@
       <input
         type="text"
         placeholder='Search (Press  "/" to focus)'
-        class="bg-background-form border border-gray-500 rounded-full px-4 pl-10 py-2 outline-none focus:border-green-500 w-80"
+        class="bg-background-form border border-gray-500 rounded-full px-4 pl-10 py-2 outline-none focus:border-brand-500 w-80"
         v-model="query"
         @input="softReset"
         @keyup="performSearch"
@@ -41,6 +41,7 @@
         &times;
       </div>
     </div>
+
     <transition name="fade">
       <div
         v-if="query.length > 0 && searchResultsVisible"

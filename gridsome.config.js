@@ -18,6 +18,10 @@ module.exports = {
   siteDescription:
     "xxx",
   siteUrl: "https://fermigier.com",
+  icon: {
+    favicon: "./static/favicon-192x192.png",
+  },
+
   plugins: [
     // Blog
     {

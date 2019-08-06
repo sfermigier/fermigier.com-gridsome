@@ -32,7 +32,7 @@ def make_post(post):
     title_escaped = title.replace('"', r'\"')
     summary = make_summary(body)
     summary_escaped = summary.replace('"', r'\"')
-    tags = make_tags(body)
+    tags = make_tags(post)
 
     content = "---\n"
     content += f"title: \"{title_escaped}\"\n"
@@ -61,9 +61,11 @@ def make_summary(body):
     return summary + "."
 
 
-def make_tags(body):
+def make_tags(post):
+    body = post["body_markdown"]
+    title = post["title"]
     html = markdown(body)
-    text = bleach.clean(html, tags=[], strip=True)
+    text = bleach.clean(html, tags=[], strip=True) + " " + title
 
     tags = []
 
@@ -100,6 +102,10 @@ def make_tags(body):
         "OpenOffice",
         "LibreOffice",
         "Mozilla",
+        #
+        "Week-end readings",
+        "Open World Forum",
+        "Paris Open Source Summit",
     ]
 
     words = set(re.split(r"\W+", text))
