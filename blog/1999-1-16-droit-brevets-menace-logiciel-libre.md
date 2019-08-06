@@ -3,7 +3,7 @@ title: "Droit sur les brevets: une menace pour le logiciel libre"
 date: 1999-01-16
 path: blog/1999/1/droit-brevets-menace-logiciel-libre
 summary: "[Ce qui suit est extrait de la lettre d'information de Jean-Paul Smets, abonnement possible en envoyant un message (vide) à list-on@smets.com."
-tags: ['AFUL']
+tags: ['AFUL', 'Brevets']
 ---
 
 <P>[Ce qui suit est extrait de la lettre d'information de Jean-Paul

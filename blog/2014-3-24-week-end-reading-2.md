@@ -3,7 +3,7 @@ title: "Week-end readings #2"
 date: 2014-03-24
 path: blog/2014/3/week-end-reading-2
 summary: "(A new series of post dedicated to interesting stuff found on the web)."
-tags: ['Misc']
+tags: ['Week-end readings']
 ---
 
 (A new series of post dedicated to interesting stuff found on the web).

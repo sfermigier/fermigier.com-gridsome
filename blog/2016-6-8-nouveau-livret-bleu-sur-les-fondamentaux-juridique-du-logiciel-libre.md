@@ -3,7 +3,7 @@ title: "Nouveau livret bleu sur les fondamentaux juridique du logiciel libre"
 date: 2016-06-08
 path: blog/2016/6/nouveau-livret-bleu-sur-les-fondamentaux-juridique-du-logiciel-libre
 summary: "Le Groupe Thématique Logiciel Libre vient de publier un \"livret bleu\" sur les fondamentaux juridiques du logiciel libre."
-tags: ['Misc']
+tags: ['Brevets']
 ---
 
 Le [Groupe Thématique Logiciel Libre](http://www.systematic-paris-region.org/fr/logiciel-libre) vient de publier un "livret bleu" sur les fondamentaux juridiques du logiciel libre. J'ai participé à son élaboration, et j'en ai notamment rédigé la préface, que voici:

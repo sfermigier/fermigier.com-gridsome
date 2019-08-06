@@ -3,7 +3,7 @@ title: "Projet de version française libre de \"Open Sources\""
 date: 1999-03-02
 path: blog/1999/3/projet-version-francaise-libre-open-sources
 summary: "Les Éditions O'Reilly souhaitent réaliser une adaptation française de l'ouvrage «Open Sources» (ISBN 1-56592-582-3)."
-tags: ['Misc']
+tags: ['Open Source']
 ---
 
 <P>

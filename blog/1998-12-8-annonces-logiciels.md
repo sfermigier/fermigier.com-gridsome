@@ -3,7 +3,7 @@ title: "Annonces de logiciels"
 date: 1998-12-08
 path: blog/1998/12/annonces-logiciels
 summary: "IBM vient d'annoncer que le compilo Java expérimental Jikes devenait un logiciel libre."
-tags: ['Python', 'Zope', 'Java']
+tags: ['Python', 'Zope', 'Java', 'Mozilla']
 ---
 
 <P>

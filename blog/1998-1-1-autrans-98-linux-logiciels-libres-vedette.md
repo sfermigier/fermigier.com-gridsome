@@ -3,7 +3,7 @@ title: "Autrans'98: LINUX et les logiciels libres en vedette"
 date: 1998-01-01
 path: blog/1998/1/autrans-98-linux-logiciels-libres-vedette
 summary: "On a parlé de Linux et des logiciels libres aux rencontres Internet d'Autrans."
-tags: ['Apache', 'Linux']
+tags: ['Apache', 'Linux', 'SCO']
 ---
 
 <P>

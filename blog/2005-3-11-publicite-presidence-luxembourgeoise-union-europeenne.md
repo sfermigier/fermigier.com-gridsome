@@ -3,7 +3,7 @@ title: "Publicité pour la Présidence luxembourgeoise de l'Union européenne"
 date: 2005-03-11
 path: blog/2005/3/publicite-presidence-luxembourgeoise-union-europeenne
 summary: "La présidence luxembourgeoise propose aux entreprises américaines qui souhaitent faire passer une loi en Europe un service de qualité, comme le montre les derniers rebondissements de l&#39;affaire des brevets."
-tags: ['Misc']
+tags: ['Brevets']
 ---
 
 

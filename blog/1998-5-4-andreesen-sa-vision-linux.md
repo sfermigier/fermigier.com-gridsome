@@ -3,7 +3,7 @@ title: "Andreesen: sa vision pour Linux"
 date: 1998-05-04
 path: blog/1998/5/andreesen-sa-vision-linux
 summary: "Le soutien de Netscape, et en particulier de Marc Andreesen, est important pour Linux, entre autre parce qu'il pourrait bien faire des émules parmi les autres industriels de l'informatique."
-tags: ['Linux', 'GNU']
+tags: ['Linux', 'GNU', 'Mozilla']
 ---
 
 <P>

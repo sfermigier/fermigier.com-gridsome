@@ -3,7 +3,7 @@ title: "Pitch Abilian au Paris Open Source Summit 2015"
 date: 2016-01-05
 path: blog/2016/1/pitch-abilian-au-paris-open-source-summit-2015
 summary: ""
-tags: ['Open Source']
+tags: ['Abilian', 'Open Source', 'Paris Open Source Summit']
 ---
 
 Une video de ma présentation lors du Paris Open Source Summit en novembre dernier:

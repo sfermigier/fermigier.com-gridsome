@@ -3,7 +3,7 @@ title: "Python n'est pas un langage de niche!"
 date: 2006-01-25
 path: blog/2006/1/python-n-pas-langage-niche
 summary: "la pr&#233;face que j'ai &#233;crite aubouquin deTarek."
-tags: ['Misc']
+tags: ['Python']
 ---
 
 <a href="http://www.editions-eyrolles.com/Chapitres/9782212116779/Preface_Ziade.pdf">

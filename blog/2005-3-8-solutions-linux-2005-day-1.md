@@ -3,7 +3,7 @@ title: "Solutions Linux 2005: day 1"
 date: 2005-03-08
 path: blog/2005/3/solutions-linux-2005-day-1
 summary: ""
-tags: ['Misc']
+tags: ['Linux']
 ---
 
 Deux tendances fortes cette année:

@@ -3,7 +3,7 @@ title: "Revue de presse franco-belge"
 date: 1999-01-15
 path: blog/1999/1/revue-presse-franco-belge
 summary: "Ce 14 janvier 1999, le journal financier belge francophone L'Echo, dont le sous-titre évocateur est 'Le quotidien de l'économie et de la finance' publie en page 11 un long article sur Linux."
-tags: ['Java', 'Apache', 'Linux', 'Red Hat']
+tags: ['Java', 'Apache', 'Linux', 'Red Hat', 'Mozilla']
 ---
 
 <P>Ce 14 janvier 1999, le journal financier belge francophone <B>L'Echo</B>,

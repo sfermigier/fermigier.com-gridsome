@@ -3,7 +3,7 @@ title: "Netscape joue la transparence"
 date: 1998-04-26
 path: blog/1998/4/netscape-joue-transparence
 summary: "Il y a eu une chronique hier (dimanche 25 avril) sur France Info au sujet de la libération des sources de Mozilla."
-tags: ['Misc']
+tags: ['Mozilla']
 ---
 
 <P>
