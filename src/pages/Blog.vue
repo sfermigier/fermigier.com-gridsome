@@ -6,7 +6,6 @@
         :key="post.id"
         class="post border-gray-400 border-b mb-12"
       >
-
         <h2 class="text-2xl leading-tight font-bold">
           <g-link :to="post.node.path" class="text-copy-primary">{{
             post.node.title

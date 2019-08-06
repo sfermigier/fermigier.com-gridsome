@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="container-inner mx-auto my-16">
+    <div class="container-inner mx-auto my-16 text-xl">
       <h1 class="text-3xl font-bold leading-tight">{{ $page.post.title }}</h1>
       <div class="text-xl text-gray-600 mb-4">{{ $page.post.date }}</div>
       <div class="flex mb-8 text-sm">
@@ -13,7 +13,9 @@
           {{ tag.title }}
         </g-link>
       </div>
+
       <div class="markdown-body content mb-8" v-html="$page.post.content" />
+
       <div class="mb-8">
         <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
       </div>

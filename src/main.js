@@ -11,7 +11,7 @@ export default function(Vue, { router, head, isClient }) {
 
   Vue.use(VueScrollTo, {
     duration: 500,
-    easing: "ease"
+    easing: "ease",
   });
 
   Vue.use(VueFuse);
@@ -19,21 +19,21 @@ export default function(Vue, { router, head, isClient }) {
   head.meta.push({
     name: "keywords",
     content:
-      "Stefane Fermigier, Logiciel Libre, Open Source, Python, Abilian, Nuxeo"
+      "Stefane Fermigier, Logiciel Libre, Open Source, Python, Abilian, Nuxeo",
   });
 
   head.meta.push({
     name: "description",
-    content: "Site personnel (et professionnel) de Stefane Fermigier"
+    content: "Site personnel (et professionnel) de Stefane Fermigier",
   });
 
   head.meta.push({
     name: "author",
-    content: "Stefane Fermigier"
+    content: "Stefane Fermigier",
   });
 
   head.link.push({
     rel: "stylesheet",
-    href: "https://fonts.googleapis.com/css?family=Nunito+Sans:400,700"
+    href: "https://fonts.googleapis.com/css?family=Nunito+Sans:400,700",
   });
 }

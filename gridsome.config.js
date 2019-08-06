@@ -15,8 +15,7 @@ if (process.env.NODE_ENV === "production") {
 
 module.exports = {
   siteName: "Stefane Fermigier, tech entrepreneur",
-  siteDescription:
-    "xxx",
+  siteDescription: "xxx",
   siteUrl: "https://fermigier.com",
   icon: {
     favicon: "./static/favicon-192x192.png",

@@ -3,20 +3,19 @@
     <nav
       class="container mx-auto flex flex-wrap justify-between items-center py-8"
     >
+      <!--      <div :class="isOpen ? 'block' : 'hidden'">-->
+      <!--        <g-link v-if="theme === 'theme-light'" to="/" class="text-brand-800">-->
+      <!--          <span class="text-3xl font-bold ">-->
+      <!--            SF:-->
+      <!--          </span>-->
+      <!--        </g-link>-->
 
-<!--      <div :class="isOpen ? 'block' : 'hidden'">-->
-<!--        <g-link v-if="theme === 'theme-light'" to="/" class="text-brand-800">-->
-<!--          <span class="text-3xl font-bold ">-->
-<!--            SF:-->
-<!--          </span>-->
-<!--        </g-link>-->
-
-<!--        <g-link v-else to="/">-->
-<!--          <span class="text-3xl font-bold ">-->
-<!--            SF:-->
-<!--          </span>-->
-<!--        </g-link>-->
-<!--      </div>-->
+      <!--        <g-link v-else to="/">-->
+      <!--          <span class="text-3xl font-bold ">-->
+      <!--            SF:-->
+      <!--          </span>-->
+      <!--        </g-link>-->
+      <!--      </div>-->
 
       <div class="block lg:hidden">
         <button
@@ -47,9 +46,9 @@
         <li class="mr-8 mb-6 lg:mb-0">
           <search-input />
         </li>
-<!--        <li class="mr-8 mb-6 lg:mb-0">-->
-<!--          <theme-switcher :theme="theme" />-->
-<!--        </li>-->
+        <!--        <li class="mr-8 mb-6 lg:mb-0">-->
+        <!--          <theme-switcher :theme="theme" />-->
+        <!--        </li>-->
       </ul>
     </nav>
   </header>
@@ -89,7 +88,7 @@ export default {
           link: "/open-source/",
         },
         {
-          label: "Presentations",
+          label: "Talks",
           link: "/presentations/",
         },
         {
