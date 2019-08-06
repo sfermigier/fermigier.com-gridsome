@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-03-11
 path: 1999/3/revue-presse-francaise-19
 summary: "[Ce qui suit est essentiellement la transcription de deux articles parus dans la presse papier il y a quelques jours."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>

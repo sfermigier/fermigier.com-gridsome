@@ -3,7 +3,7 @@ title: "Annonces de logiciels"
 date: 1999-01-08
 path: 1999/1/annonces-logiciels-0
 summary: "Zend est un nouveau moteur d'exécution pour le langage de scripts coté serveur PHP3."
-tags: ['Python', 'Zope']
+tags: ['Python', 'Zope', 'KDE']
 ---
 
 <P>

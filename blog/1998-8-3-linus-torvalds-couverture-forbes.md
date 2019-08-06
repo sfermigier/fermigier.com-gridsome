@@ -3,7 +3,7 @@ title: "Linus Torvalds en couverture de Forbes"
 date: 1998-08-03
 path: 1998/8/linus-torvalds-couverture-forbes
 summary: "Le magazine économique américain Forbes consacre la couverture de son numéro d'août au logiciel libre, avec le titre ``peace, love, and software''."
-tags: ['Misc']
+tags: ['Red Hat']
 ---
 
 <P>

@@ -3,7 +3,7 @@ title: "Revue de presse francaise express"
 date: 1999-02-09
 path: 1999/2/revue-presse-francaise-express
 summary: "Libération du vendredi 5 février a publié dans son cahier Multimédia les réponses de Linus Torvalds à 6 questions extraites de toutes celles posées par les lecteurs du quotidien via le site Web du journal."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P><B>Libération</B> du vendredi 5 février a publié dans son cahier Multimédia

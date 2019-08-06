@@ -3,7 +3,7 @@ title: "Logiciels: Linux 2.2, KDE 1.1 (beta), Mandrake"
 date: 1999-01-28
 path: 1999/1/logiciels-linux-2-2-kde-1-1-beta-mandrake
 summary: "Comme prévu, la version 2.2 du noyau Linux a été annoncée lundi 25 janvier par Linux Torvalds."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux', 'KDE', 'Mandrake', 'Red Hat', 'AFUL']
 ---
 
 <P>

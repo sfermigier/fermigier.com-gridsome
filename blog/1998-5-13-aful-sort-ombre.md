@@ -3,7 +3,7 @@ title: "L'AFUL sort de l'ombre"
 date: 1998-05-13
 path: 1998/5/aful-sort-ombre
 summary: "L'AFUL (Association Francophone des Utilisateurs de Linux et des Logiciels Libres), dont la formation avait été annoncée il y a quelques semaines, a décidé de se faire connaître publiquement par ce communiqué de presse."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>

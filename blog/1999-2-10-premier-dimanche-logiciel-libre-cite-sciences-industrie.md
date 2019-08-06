@@ -3,7 +3,7 @@ title: "Premier dimanche du logiciel libre a la cite des sciences et de l'indust
 date: 1999-02-10
 path: 1999/2/premier-dimanche-logiciel-libre-cite-sciences-industrie
 summary: "Dans le prolongement de la thématique sur les logiciels libres organisée à la Cité des Sciences et de l'Industrie du 3 au 11 octobre 1998, à l'occasion de la Semaine de la Science, diverses associations du logiciel libre (AFUL, APODÉLINE, APRIL, GCU, PARINUX) organisent pour le grand public et les spécialistes un rendez-vous régulier d'information et de formation sur les logiciels libres à la Villette."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>Dans le prolongement de la thématique sur les logiciels libres

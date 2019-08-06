@@ -3,7 +3,7 @@ title: "Nouvelle version du guide du rootard"
 date: 1998-09-22
 path: 1998/9/nouvelle-version-guide-rootard
 summary: "Après presqu'un an de sommeil, le guide du ROOTard pour Linux, cru 1998, vient tout juste de sortir, version 2.8."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <P>

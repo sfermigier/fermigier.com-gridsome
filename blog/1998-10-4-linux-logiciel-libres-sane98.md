@@ -3,7 +3,7 @@ title: "Linux et Logiciel libres à SANE98"
 date: 1998-10-04
 path: 1998/10/linux-logiciel-libres-sane98
 summary: "J'ai reçu le programme de la conférence SANE98 qui se tient cette année à Maastricht du 18 au 20 novembre 1998."
-tags: ['Linux', 'Debian']
+tags: ['Linux', 'Debian', 'Red Hat']
 ---
 
 <P>

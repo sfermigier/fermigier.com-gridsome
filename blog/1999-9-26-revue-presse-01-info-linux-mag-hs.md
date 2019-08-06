@@ -3,7 +3,7 @@ title: "Revue de presse: 01 Info, Linux Mag HS"
 date: 1999-09-26
 path: 1999/9/revue-presse-01-info-linux-mag-hs
 summary: "Dans 01 Informatique du 24 Septembre, Linux est évoqué à quelques endroits Page 34, un petit encadré \"Les serveurs Web au code source libre plus sûrs\" selon Lincoln Stein, auteur de la FAQ sécurité du W3C."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux', 'Mandrake', 'Red Hat']
 ---
 
 <P>Dans <B>01 Informatique</B>

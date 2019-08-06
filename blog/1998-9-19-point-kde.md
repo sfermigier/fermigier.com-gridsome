@@ -3,7 +3,7 @@ title: "Le point sur KDE"
 date: 1998-09-19
 path: 1998/9/point-kde
 summary: "Gaël Duval a réalisé une interview par e-mail de Matthias Ettrich, programmeur allemand de 26 ans et principal responsable du développement de l'environnement de travail KDE."
-tags: ['Misc']
+tags: ['KDE']
 ---
 
 <P>

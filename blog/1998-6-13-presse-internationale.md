@@ -3,7 +3,7 @@ title: "Presse internationale"
 date: 1998-06-13
 path: 1998/6/presse-internationale
 summary: "More To Life Than Windows, Computer Reseller News, June 15, 1998."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <UL>

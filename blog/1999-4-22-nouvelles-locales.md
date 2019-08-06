@@ -3,7 +3,7 @@ title: "Nouvelles locales"
 date: 1999-04-22
 path: 1999/4/nouvelles-locales
 summary: "Il va y avoir une Install Party le 24 avril à Dunkerque, organisée par CLX."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>Il va y avoir une Install Party le 24 avril à Dunkerque, organisée par

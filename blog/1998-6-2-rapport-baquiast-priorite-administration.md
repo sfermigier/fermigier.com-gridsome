@@ -3,7 +3,7 @@ title: "Rapport Baquiast: les logiciels libres sont une priorité pour l'Adminis
 date: 1998-06-02
 path: 1998/6/rapport-baquiast-priorite-administration
 summary: "Jean-Paul Baquiast, président d'Admiroute et administrateur de l'AFUL, vient de publier son rapport au Premier Ministre: Propositions sur les apports d'Internet à la modernisation du fonctionnement de l'Etat."
-tags: ['Misc']
+tags: ['AFUL']
 ---
 
 <P>

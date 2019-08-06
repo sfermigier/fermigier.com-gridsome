@@ -3,7 +3,7 @@ title: "Red Hat 5.0 en français"
 date: 1998-01-01
 path: 1998/1/red-hat-5-0-francais
 summary: "La société kheops/les logiciels du soleil distribue une version françisée par ses soins de la Red Hat 5.0."
-tags: ['Misc']
+tags: ['Red Hat']
 ---
 
 <P>

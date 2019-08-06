@@ -3,7 +3,7 @@ title: "Encore une avalanche d'articles sur la prise de participation d'Intel et
 date: 1998-09-30
 path: 1998/9/encore-avalanche-articles-prise-participation-intel-netscape-red-hat
 summary: "The Linux challenge to NT in the enterprise, the Register, 30 sept 1998."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <UL>

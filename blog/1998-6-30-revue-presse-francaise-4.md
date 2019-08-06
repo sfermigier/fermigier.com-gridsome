@@ -3,7 +3,7 @@ title: "Revue de presse française"
 date: 1998-06-30
 path: 1998/6/revue-presse-francaise-4
 summary: "PC Magazine, juillet/Août 1998: banc d'essai de la Red Hat 5.0 françisée ``kheops'', signé par Matthieu Thfoin."
-tags: ['Linux', 'Java']
+tags: ['Linux', 'Java', 'Red Hat', 'AFUL']
 ---
 
 <UL>

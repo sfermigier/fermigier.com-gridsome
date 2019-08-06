@@ -3,7 +3,7 @@ title: "Fusion des projets Linux-Mandrake et BeroLinux"
 date: 1999-03-16
 path: 1999/3/fusion-projets-linux-mandrake-berolinux
 summary: "Gaël Duval, principal développeur de la distribution Linux Mandrake, nous fait l'annonce suivante: Nous - Gaël Duval du projet Linux-Mandrake et Bernhard Rosenkränzer du nouveau projet BeroLinux - sommes très heureux de vous annoncer la fusion des deux projets après avoir constaté que nous avions des buts similaires et des produits proches."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux', 'KDE', 'Mandrake', 'Red Hat']
 ---
 
 <P>

@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-09-05
 path: 1999/9/revue-presse-francaise-42
 summary: "Le mensuel Linux Magazine France de septembre, n°9, est sorti (20 F sans le CD ROM, 35 F avec)."
-tags: ['Linux', 'GNU']
+tags: ['Linux', 'GNU', 'GNOME']
 ---
 
 <P>Le mensuel <B>Linux Magazine France</B> de septembre, n°9, est sorti (20

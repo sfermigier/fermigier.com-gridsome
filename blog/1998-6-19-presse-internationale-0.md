@@ -3,7 +3,7 @@ title: "Presse internationale"
 date: 1998-06-19
 path: 1998/6/presse-internationale-0
 summary: "Red Hat software takes on the big guys (SJ Mercury News, 19 juin 1998)."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <UL>

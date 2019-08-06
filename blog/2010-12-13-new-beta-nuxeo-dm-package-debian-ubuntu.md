@@ -3,7 +3,7 @@ title: "New beta Nuxeo DM package for Debian / Ubuntu"
 date: 2010-12-13
 path: 2010/12/new-beta-nuxeo-dm-package-debian-ubuntu
 summary: "We have made a new .deb package of Nuxeo DM for Debian and Ubuntu."
-tags: ['Linux', 'Nuxeo', 'Debian', 'Ubuntu', 'Mandriva']
+tags: ['Linux', 'Nuxeo', 'Debian', 'Ubuntu', 'Mandriva', 'Red Hat']
 ---
 
 <p>We have made a new .deb package of Nuxeo DM for Debian and Ubuntu. <a style="float: right; margin-left: 5px;" href="http://blogs.nuxeo.com/.a/6a010536291c30970b0147e0a34458970b-popup" onclick="window.open( this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0' ); return false"><img class="asset  asset-image at-xid-6a010536291c30970b0147e0a34458970b" alt="Deb" title="Deb" src="/images/6a010536291c30970b0147e0a34458970b-800wi.png" border="0" style="margin: 0px 0px 5px 5px;"></a>  </p>

@@ -77,10 +77,16 @@ def make_tags(body):
         "Zope",
         "Java",
         "Eclipse",
+        "GNOME",
+        "KDE",
         "CPS",
         "Ubuntu",
         "Mandriva",
         "Mandrake",
+        "Red Hat",
+        "AFUL",
+        "GTLL",
+        "CNLL",
     ]
 
     for kw in keywords:

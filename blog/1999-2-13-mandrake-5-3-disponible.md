@@ -3,7 +3,7 @@ title: "Mandrake 5.3 disponible"
 date: 1999-02-13
 path: 1999/2/mandrake-5-3-disponible
 summary: "Gaël Duval nous apprend que la version 5.3 de la distribution Linux Mandrake est disponible."
-tags: ['Linux', 'Java', 'Mandrake']
+tags: ['Linux', 'Java', 'KDE', 'Mandrake', 'Red Hat']
 ---
 
 <P>

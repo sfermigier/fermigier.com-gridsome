@@ -3,7 +3,7 @@ title: "La Red Hat 5.1 disponible"
 date: 1998-05-26
 path: 1998/5/red-hat-5-1-disponible
 summary: "La Red Hat 5.1 sera envoyée au revendeurs à partir du premier juin, mais elle est déjà disponible par FTP sur les sites habituels (voir http://www.redhat.com/mirrors.html)."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <P>

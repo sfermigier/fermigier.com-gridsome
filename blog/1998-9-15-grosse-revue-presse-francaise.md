@@ -3,7 +3,7 @@ title: "Grosse revue de presse française"
 date: 1998-09-15
 path: 1998/9/grosse-revue-presse-francaise
 summary: "Logiciels PC d'août, n°4, 20 F, propose sur son CD ROM la version Linux Slackware 3.5."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <UL>

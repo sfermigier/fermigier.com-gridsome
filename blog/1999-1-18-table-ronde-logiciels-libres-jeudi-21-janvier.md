@@ -3,7 +3,7 @@ title: "Table ronde sur les logiciels libres jeudi 21 janvier"
 date: 1999-01-18
 path: 1999/1/table-ronde-logiciels-libres-jeudi-21-janvier
 summary: "Jeudi 21 janvier, espace Eiffel-Branly à Paris, de 19h à 20h, il va y avoir une table ronde sur les ``Enjeux économiques et sociaux de l'informatique libre'' dans le cadre des jeudis de l'informatique et des télécoms."
-tags: ['Misc']
+tags: ['AFUL']
 ---
 
 <P>

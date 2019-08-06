@@ -3,7 +3,7 @@ title: "Deep Flow un superordinateur sous Linux en Belgique"
 date: 1998-08-11
 path: 1998/8/deep-flow-superordinateur-sous-linux-belgique
 summary: "Deep Flow est un superordinateur construit à l'Université Catholique de Louvain pour étudier des problèmes de viscoélasticité."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <P>

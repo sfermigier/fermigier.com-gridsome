@@ -3,7 +3,7 @@ title: "Premier congrès de l'association AsTeX"
 date: 1998-09-02
 path: 1998/9/premier-congres-association-astex
 summary: "L'association AsTeX, qui s'interesse aux Logiciels libres pour la communaute scientifique: TeX, MuPAD (bon..."
-tags: ['Misc']
+tags: ['AFUL']
 ---
 
 <P>

@@ -3,7 +3,7 @@ title: "Revue de presse"
 date: 1999-04-19
 path: 1999/4/revue-presse-15
 summary: "Le mensuel Dream, \"le magazine de la micro alternative\", d'avril, n°61, 39 F, consacre plusieurs articles à Linux : un dossier de 9 pages sur les applications Linux (bureautiques, graphiques, Internet) 4 pages sur la Red Hat 5.2 pour Alpha Gnome 1.0 en 2 pages 3 pages sur le démarrage de Linux plus Lyx, XWindow, Palm Pilot sous Linux et des news Le CD ROM contient la version 5.2 de la Red Hat pour Alpha et Gnome 1.0 pour PC."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat', 'AFUL']
 ---
 
 <P>Le mensuel <B>Dream</B>, "le magazine de la micro alternative", d'avril,

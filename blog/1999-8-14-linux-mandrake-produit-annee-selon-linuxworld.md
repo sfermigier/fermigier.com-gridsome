@@ -3,7 +3,7 @@ title: "Linux Mandrake 'produit de l'annee' selon LinuxWorld"
 date: 1999-08-14
 path: 1999/8/linux-mandrake-produit-annee-selon-linuxworld
 summary: "Au cours de la récente LinuxWorld Expo à San José, et alors que Red Hat occupait le devant de la scène avec son introduction en bourse, la surprise est venue de la victoire de la distribution Linux Mandrake 6.0 aux 'editors choice award' dans les catégories 'produit de l'année' (devant la Caldera 2.2) et 'meilleure distribution pour les serveurs' (devant Debian 2.1)."
-tags: ['Linux', 'Debian', 'Mandrake']
+tags: ['Linux', 'Debian', 'KDE', 'Mandrake', 'Red Hat']
 ---
 
 <P> Au cours de la récente <A HREF="http://www.linuxworld.com/linuxworld/linuxworldtoday/">LinuxWorld

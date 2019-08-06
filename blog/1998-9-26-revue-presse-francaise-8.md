@@ -3,7 +3,7 @@ title: "Revue de presse française"
 date: 1998-09-26
 path: 1998/9/revue-presse-francaise-8
 summary: "Dans l'hebdomadaire économique le Revenu Français cette semaine: Le succès prévisible de Linux, le logiciel libre Connu des seuls experts en informatique il y a encore quelques mois, Linux commence à élargir son audience."
-tags: ['Linux', 'GNU', 'Java']
+tags: ['Linux', 'GNU', 'Java', 'AFUL']
 ---
 
 <P>

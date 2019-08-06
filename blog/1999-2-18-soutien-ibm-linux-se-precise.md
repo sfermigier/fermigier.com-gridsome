@@ -3,7 +3,7 @@ title: "Le soutien d'IBM a Linux se precise"
 date: 1999-02-18
 path: 1999/2/soutien-ibm-linux-se-precise
 summary: "Les informations sur l'implication croissante d'IBM dans le support de Linux se précisent de jour en jour."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <P>

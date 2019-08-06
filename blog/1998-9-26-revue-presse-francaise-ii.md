@@ -3,7 +3,7 @@ title: "Revue de presse française II"
 date: 1998-09-26
 path: 1998/9/revue-presse-francaise-ii
 summary: "En première page du journal Le Monde du dimanche 27/lundi 28 septembre (7,50F), on lit \"Enquête sur les logiciels gratuits\" à propos du supplément bebdomadaire \"Télévision Radio Multimédia\" (TRM)."
-tags: ['Linux', 'Debian']
+tags: ['Linux', 'Debian', 'Red Hat', 'AFUL']
 ---
 
 <P>

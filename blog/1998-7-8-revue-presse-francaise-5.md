@@ -3,7 +3,7 @@ title: "Revue de presse française"
 date: 1998-07-08
 path: 1998/7/revue-presse-francaise-5
 summary: "Dans PC Max No 2, un article d'introduction à Linux (2 pages) faisant suite à ceux du No 1."
-tags: ['Linux', 'GNU', 'Java']
+tags: ['Linux', 'GNU', 'Java', 'Red Hat', 'AFUL']
 ---
 
 <UL>

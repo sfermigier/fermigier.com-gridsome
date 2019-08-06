@@ -3,7 +3,7 @@ title: "Red Hat / Netscape / Intel: point final"
 date: 1998-10-01
 path: 1998/10/red-hat-netscape-intel-point-final
 summary: "Linux Weekly News fait le point cette semaine sur la prise de participation d'Intel et Netscape dans Red Hat, et répond à certaines questions qui vont inévitablement se poser: Does it mean a corporate hijacking of Linux."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <P>

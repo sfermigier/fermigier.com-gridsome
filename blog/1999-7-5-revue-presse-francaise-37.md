@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-07-05
 path: 1999/7/revue-presse-francaise-37
 summary: "Le mensuel Info PC de juillet/août, n°161, 35 F traite longuement de Linux."
-tags: ['Linux', 'Python', 'GNU', 'Debian', 'Mandrake']
+tags: ['Linux', 'Python', 'GNU', 'Debian', 'GNOME', 'KDE', 'Mandrake', 'Red Hat']
 ---
 
 <P>Le mensuel <B>Info PC</B> de juillet/août, n°161, 35 F traite longuement de

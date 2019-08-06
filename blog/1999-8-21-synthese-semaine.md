@@ -3,7 +3,7 @@ title: "La synthèse de la semaine"
 date: 1999-08-21
 path: 1999/8/synthese-semaine
 summary: "L'introduction en bourse de Red Hat a fait évidemment beaucoup couler d'encre, et cela va probablement continuer dans les semaines à venir dans l'ensemble de la presse économique."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux', 'Mandrake', 'Red Hat', 'AFUL']
 ---
 
 <P>L'introduction en bourse de Red Hat a fait évidemment beaucoup couler

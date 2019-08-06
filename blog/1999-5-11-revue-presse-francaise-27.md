@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-05-11
 path: 1999/5/revue-presse-francaise-27
 summary: "Aujourd'hui dans Le Figaro (supplément multimédia), un dossier très complet de deux pages sur Linux, avec un article de présentation générale, le portrait de Bob Young (``le Bill gates du Logiciel libre'') et une interview de J.-P."
-tags: ['Linux']
+tags: ['Linux', 'KDE', 'AFUL']
 ---
 
 <P>Aujourd'hui dans <B>Le Figaro</B> (supplément multimédia), un dossier

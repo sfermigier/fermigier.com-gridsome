@@ -3,7 +3,7 @@ title: "LinuxPPC dans Univers Mac"
 date: 1998-09-14
 path: 1998/9/linuxppc-univers-mac
 summary: "On me signale, de plusieurs sources, que la revue Univers Mac de ce mois contient un article sur Linux et, sur le CD promotionel, une distribution LinuxPPC DR4."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>

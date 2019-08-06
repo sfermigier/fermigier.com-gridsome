@@ -3,7 +3,7 @@ title: "Le free software devient open source software (?)"
 date: 1998-02-01
 path: 1998/2/free-software-devient-open-source-software
 summary: "Des discussions animées ont lieu en ce moment aux Etats-Unis pour décider s'il faut changer le nom de ``free software'' en ``open source software''."
-tags: ['Linux', 'Debian']
+tags: ['Linux', 'Debian', 'Red Hat']
 ---
 
 <P>Des discussions animées ont lieu en ce moment aux Etats-Unis pour

@@ -3,7 +3,7 @@ title: "Nouvelles des distributions"
 date: 1998-11-02
 path: 1998/11/nouvelles-distributions
 summary: "La Red Hat 5.2 est sur le point de sortir."
-tags: ['Debian']
+tags: ['Debian', 'KDE', 'Red Hat']
 ---
 
 <P>

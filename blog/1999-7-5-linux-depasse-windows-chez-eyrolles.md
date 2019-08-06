@@ -3,7 +3,7 @@ title: "Linux depasse Windows chez Eyrolles"
 date: 1999-07-05
 path: 1999/7/linux-depasse-windows-chez-eyrolles
 summary: "Une nouvelle, certes anecdotique, mais qui m'a personnellement réjoui: le rayon ``Linux'' de la librairie parisienne Eyrolles (61 bd St Germain), l'une des plus importantes pour l'informatique et les techniques, est maintenant plus important en taille que le rayon ``Windows''."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux', 'KDE', 'Mandrake', 'Red Hat']
 ---
 
 <P>Une nouvelle, certes anecdotique, mais qui m'a personnellement réjoui:

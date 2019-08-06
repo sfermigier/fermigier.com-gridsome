@@ -3,7 +3,7 @@ title: "Revue de presse"
 date: 1998-12-04
 path: 1998/12/revue-presse-2
 summary: "Dans le Quotidien du Medecin du 18 Novembre 1998, un article de 2 pleines pages sur les \"Toubib-Free\", entendez les medecins utilisateurs de Linux."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>

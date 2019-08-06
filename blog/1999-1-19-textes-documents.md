@@ -3,7 +3,7 @@ title: "Textes et documents"
 date: 1999-01-19
 path: 1999/1/textes-documents
 summary: "Il y a eu vendredi dernier une présentation de Linux et des logiciels pour l'administration organisée par la MTIC avec la participation de l'AFUL."
-tags: ['Linux']
+tags: ['Linux', 'AFUL']
 ---
 
 <P>

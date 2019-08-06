@@ -3,7 +3,7 @@ title: "Espace \"OSS\" à IT-Comdex Paris"
 date: 1999-01-05
 path: 1999/1/espace-oss-comdex-paris
 summary: "Il va y avoir un espace ``OSS'' (`open source software', pourquoi pas `logiciels libres' ?) au salon professionnel IT Comdex Paris, (porte de Versailles), du 8 au 12 février 99."
-tags: ['Misc']
+tags: ['AFUL']
 ---
 
 <P>

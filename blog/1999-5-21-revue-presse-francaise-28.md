@@ -3,7 +3,7 @@ title: "Revue de presse francaise"
 date: 1999-05-21
 path: 1999/5/revue-presse-francaise-28
 summary: "Dans le Décision Micro &amp; Réseau No382, on trouve page 22 un comparatif entre NT 4.0 et Linux sur l'AlphaServer DS20."
-tags: ['Linux', 'Mandrake']
+tags: ['Linux', 'KDE', 'Mandrake', 'Red Hat', 'AFUL']
 ---
 
 <P>Dans le <B>Décision Micro &amp; Réseau</B> No382, on trouve page 22 un

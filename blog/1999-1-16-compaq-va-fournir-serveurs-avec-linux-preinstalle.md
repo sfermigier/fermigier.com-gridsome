@@ -3,7 +3,7 @@ title: "Compaq va fournir des serveurs avec Linux préinstallé"
 date: 1999-01-16
 path: 1999/1/compaq-va-fournir-serveurs-avec-linux-preinstalle
 summary: "Selon cet article de PC Week, Compaq est sur le point, d'ici un mois, de vendre des serveur avec Red Hat Linux 5.2 preinstallé, et évidemment complètement supporté."
-tags: ['Linux']
+tags: ['Linux', 'Red Hat']
 ---
 
 <P>
