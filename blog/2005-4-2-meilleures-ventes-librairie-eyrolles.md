@@ -2,6 +2,8 @@
 title: "Meilleures ventes à la librairie Eyrolles"
 date: 2005-04-02
 path: 2005/4/meilleures-ventes-librairie-eyrolles
+summary: "On dirait qu&#39;un de nos collaborateurs est l'auteur d'un des best-sellers de la semaine de la librairie Eyrolles."
+tags: ['Misc']
 ---
 
 On dirait qu&#39;<a href="http://blogs.nuxeo.com/sections/blogs/laurent_godard">un de nos

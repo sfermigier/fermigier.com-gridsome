@@ -2,6 +2,8 @@
 title: "L'Ecole Ouverte propose sa premiere initiation a Internet"
 date: 1998-12-08
 path: 1998/12/ecole-ouverte-propose-sa-premiere-initiation-internet
+summary: "Ce cours d'initiation aura lieu le samedi 12 décembre de 14h a 17h au Pole Léonard de Vinci (cf ces indications)."
+tags: ['Linux']
 ---
 
 <P>

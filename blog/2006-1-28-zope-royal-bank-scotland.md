@@ -2,6 +2,8 @@
 title: "Zope at the Royal Bank of Scotland"
 date: 2006-01-28
 path: 2006/1/zope-royal-bank-scotland
+summary: "an article about a massive Zope deployment at the Royal Bank of Scottland (for an Intranet, it seems)."
+tags: ['Zope']
 ---
 
 <a href="http://news.zdnet.co.uk/software/applications/0,39020384,39248923,00.htm">

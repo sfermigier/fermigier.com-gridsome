@@ -2,6 +2,8 @@
 title: "Linux lines up for the enterprise"
 date: 1998-01-01
 path: 1998/1/linux-lines-up-enterprise
+summary: "Cet article de la revue SunWorld n'apprendra sans doute rien aux linuxiens convaincus, mais, par son ton très ``professionnel'', il pourra peut-être servir à convertir un chef réticent."
+tags: ['Linux']
 ---
 
 <P>

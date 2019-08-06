@@ -2,6 +2,8 @@
 title: "Offre d'emploi: ingénieur réseau Linux à Clichy"
 date: 1998-09-25
 path: 1998/9/offre-emploi-ingenieur-reseau-linux-clichy
+summary: "J'ai reçu ça: Nous recherchons un ingénieur réseau (Web) pour gérer et implanter Linux en multi domaines (ou capable de s'adapter rapidement): - sendmail - innd - apache - apache SSL - qpopper - bind8.x.x - squid - samba - raid software."
+tags: ['Linux']
 ---
 
 <P>

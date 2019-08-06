@@ -2,6 +2,8 @@
 title: "Le W3C adopte RDF comme recommandation pour les métadonnées"
 date: 1999-03-02
 path: 1999/3/w3c-adopte-rdf-comme-recommandation-metadonnees
+summary: "Le W3C vient d'émettre une recommandation sur l'usage de RDF pour définir et organiser l'information sur le Web à l'aide de métadonnées exprimées à l'aide de la syntaxe XML."
+tags: ['Misc']
 ---
 
 <P>

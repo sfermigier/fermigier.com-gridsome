@@ -2,6 +2,8 @@
 title: "Opinion: Apple et Linux"
 date: 1999-04-10
 path: 1999/4/opinion-apple-linux
+summary: "La communauté des utilisateurs de MacOS (dont je fais partie) semble regarder avec beaucoup d'intérêt Linux sur le thème \"ce n'est pas MacOS mais c'est quand même très bien\" ou \"bientôt, il n'y aura pratiquement plus de différences entre MacOS X et Linux\"."
+tags: ['Linux']
 ---
 
 <P>

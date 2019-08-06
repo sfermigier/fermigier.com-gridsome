@@ -2,6 +2,8 @@
 title: "Revue de presse française: Programmez!"
 date: 1998-10-04
 path: 1998/10/revue-presse-francaise-programmez
+summary: "Encore des articles sur les logiciels libres dans le magazine Programmez."
+tags: ['Linux', 'GNU', 'Java', 'Mandrake']
 ---
 
 <P>

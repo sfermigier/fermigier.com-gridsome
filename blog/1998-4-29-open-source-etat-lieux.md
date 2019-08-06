@@ -2,6 +2,8 @@
 title: "Open Source: l'état des lieux"
 date: 1998-04-29
 path: 1998/4/open-source-etat-lieux
+summary: "Voici un dossier très complet, dans le magazine électronique ``Web Review'', qui propose un tour d'horizon du mouvement ``Free Software'' ou, tel que l'on doit peut-être l'appeller maintenant, ``Open Source'' (Logiciel Libre en français)."
+tags: ['Misc']
 ---
 
 <P>

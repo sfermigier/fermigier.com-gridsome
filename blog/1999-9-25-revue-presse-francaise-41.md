@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-09-25
 path: 1999/9/revue-presse-francaise-41
+summary: "La presse traitant régulièrement de Linux évolue rapidement, au rythme de la progression de Linux."
+tags: ['Linux', 'Mandrake']
 ---
 
 <P>La presse traitant régulièrement de Linux évolue rapidement, au rythme

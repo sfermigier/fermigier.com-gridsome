@@ -2,6 +2,8 @@
 title: "Bilan du jour de la detaxe"
 date: 1999-02-16
 path: 1999/2/bilan-jour-detaxe
+summary: "Comme vous le savez, hier 15 février était une journée mondiale de la `détaxe Windows'."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Un cluster Linux à l'ENS Lyon"
 date: 1998-09-29
 path: 1998/9/cluster-linux-ens-lyon
+summary: "Cette page du laboratoire de hautes performances en calcul de l'ENS Lyon présente un serveur parallèle à base de PC sous Linux (12 noeuds pour l'instant) réalisé en collaboration avec MATRA Systèmes et Information."
+tags: ['Linux']
 ---
 
 <P>

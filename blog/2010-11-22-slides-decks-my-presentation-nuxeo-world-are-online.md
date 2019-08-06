@@ -2,6 +2,8 @@
 title: "The slides decks for my presentation at Nuxeo World are online"
 date: 2010-11-22
 path: 2010/11/slides-decks-my-presentation-nuxeo-world-are-online
+summary: "The slide decks for the two presentations I did during Nuxeo World 2010 last week are now online on SlideShare (alongside all the other Nuxeo World 2010 presentations)."
+tags: ['Nuxeo']
 ---
 
 <p>The slide decks for the two presentations I did during Nuxeo World 2010 last week are now online on SlideShare (alongside all the other Nuxeo World 2010 presentations).</p>

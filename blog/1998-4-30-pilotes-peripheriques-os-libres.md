@@ -2,6 +2,8 @@
 title: "Les pilotes de périphériques pour OS libres"
 date: 1998-04-30
 path: 1998/4/pilotes-peripheriques-os-libres
+summary: "Aujourd'hui, sur Slashdot.org, il est dit que la société PlusTek (qui fabrique des scanners) ne souhaitait pas rendre publiques les spécifications techniques de ses périphériques."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-03-22
 path: 1999/3/revue-presse-francaise-22
+summary: "Dans l'édition de demain, datée du 24 mars, du Monde Interactif un gros dossier sur les logiciels libres: Faut-il prendre Linux au sérieux ?."
+tags: ['Linux']
 ---
 
 <P>

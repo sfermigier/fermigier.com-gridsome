@@ -2,6 +2,8 @@
 title: "Jospin veut libéraliser la crypto"
 date: 1999-01-20
 path: 1999/1/jospin-veut-liberaliser-crypto
+summary: "Le gouvernement français vient de prendre plusieurs mesures attendues depuis longtemps (et qu'on n'espérait plus) dans les domaines de la cryptologie, de la protection des données personnelles et de la reconnaissance de la valeur probante du document numérique et de la signature électronique."
+tags: ['Misc']
 ---
 
 <P>

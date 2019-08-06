@@ -2,6 +2,8 @@
 title: "Revue de presse française: 01 Informatique"
 date: 1998-10-04
 path: 1998/10/revue-presse-francaise-01-informatique
+summary: "Plusieurs articles ou articulets dans le numéro 1513 de 01 Informatique du vendredi 2 octobre: ``Intel et Netscape propulsent Linux''."
+tags: ['Linux']
 ---
 
 <P>

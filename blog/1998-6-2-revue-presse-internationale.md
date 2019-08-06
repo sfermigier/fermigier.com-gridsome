@@ -2,6 +2,8 @@
 title: "Revue de presse internationale"
 date: 1998-06-02
 path: 1998/6/revue-presse-internationale
+summary: "Dans la presse française: PC MAX numéro 1 contient bien une Red Hat 5.0 et un article de 4 pages sur Linux, pour 24 F (prix de lancement)."
+tags: ['Linux']
 ---
 
 <P>

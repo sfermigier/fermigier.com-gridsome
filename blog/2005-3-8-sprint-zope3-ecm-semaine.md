@@ -2,6 +2,8 @@
 title: "Sprint Zope3/ECM: c'est dans une semaine"
 date: 2005-03-08
 path: 2005/3/sprint-zope3-ecm-semaine
+summary: "Eric (Zope 3 Sprint in Paris : starting the Z3 ECMS effort) et Paul Everitt (Z3 ECMS effort starts) sont en pleine discussion, par blogs interpos&#233;s, pour pr&#233;parer le sprint."
+tags: ['Zope']
 ---
 
 

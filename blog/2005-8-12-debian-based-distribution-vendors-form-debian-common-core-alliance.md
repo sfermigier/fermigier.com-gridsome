@@ -2,6 +2,8 @@
 title: "Debian-based distribution vendors form the Debian Common Core Alliance"
 date: 2005-08-12
 path: 2005/8/debian-based-distribution-vendors-form-debian-common-core-alliance
+summary: "The press release says it: Major Linux vendors and non-profit organizations today officially launched the DCC Alliance."
+tags: ['Linux', 'Debian', 'Ubuntu']
 ---
 
 The <a href="http://www.dccalliance.org/press.html">press release</a> says 

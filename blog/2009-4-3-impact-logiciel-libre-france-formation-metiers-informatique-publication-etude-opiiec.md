@@ -2,6 +2,8 @@
 title: "Impact du logiciel libre en France sur la formation et les métiers de l'informatique - Publication d'une étude de l'OPIIEC"
 date: 2009-04-03
 path: 2009/4/impact-logiciel-libre-france-formation-metiers-informatique-publication-etude-opiiec
+summary: "Syntec Informatique vient de publier un communiqu&#233; de presse synth&#233;tisant les principales conclusions et recommandations de l&#8217;&#233;tude &#8220;Impact du logiciel libre en France&#8221; r&#233;alis&#233;e par Pierre Audoin Conseil (PAC) pour le compte de l&#8217;OPIIEC, organisme paritaire charg&#233; d&#8217;orienter la politique de formation professionnelle en France dans le secteur de l&#8217;informatique."
+tags: ['Misc']
 ---
 
 Syntec Informatique vient de publier un <a href="/assets/pdf/syntec-opensource.pdf">communiqu&#233; de presse</a> synth&#233;tisant les principales conclusions et recommandations de l&#8217;&#233;tude &#8220;<a href="/assets/pdf/reco-opiiec-oss.pdf">Impact du logiciel libre en France</a>&#8221; r&#233;alis&#233;e par Pierre Audoin Conseil (PAC) pour le compte de l&#8217;OPIIEC, organisme paritaire charg&#233; d&#8217;orienter la politique de formation professionnelle en France dans le secteur de l&#8217;informatique.

@@ -2,6 +2,8 @@
 title: "Revue de presse"
 date: 1999-06-14
 path: 1999/6/revue-presse-16
+summary: "Dans l'hebdomadaire suisse L'Hebdo du 3 juin, Il a un article de deux pages sur Linux..."
+tags: ['Linux']
 ---
 
 <P>

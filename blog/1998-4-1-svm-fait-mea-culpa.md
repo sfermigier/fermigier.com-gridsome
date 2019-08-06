@@ -2,6 +2,8 @@
 title: "SVM fait son mea culpa"
 date: 1998-04-01
 path: 1998/4/svm-fait-mea-culpa
+summary: "Il y a un mois, SVM publiait un dossier sur ``l'informatique gratuite'' en passant complètement sous silence Linux et les logiciels libres."
+tags: ['Linux']
 ---
 
 <P>

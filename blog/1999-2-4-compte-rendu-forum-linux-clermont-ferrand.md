@@ -2,6 +2,8 @@
 title: "Compte-rendu du forum Linux à Clermont-Ferrand"
 date: 1999-02-04
 path: 1999/2/compte-rendu-forum-linux-clermont-ferrand
+summary: "Le vendredi 29 et le samedi 30 janvier s'est tenu à la Maison du peuple de Clermont-Ferrand un forum organisé par l'association Linux-Arverne."
+tags: ['Linux']
 ---
 
 <P>Le vendredi 29 et le samedi 30 janvier s'est tenu à la Maison

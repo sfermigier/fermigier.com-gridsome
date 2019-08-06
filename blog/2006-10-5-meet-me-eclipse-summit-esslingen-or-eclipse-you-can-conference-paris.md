@@ -2,6 +2,8 @@
 title: "Meet me at Eclipse Summit in Esslingen (or Eclipse Now You Can conference in Paris)"
 date: 2006-10-05
 path: 2006/10/meet-me-eclipse-summit-esslingen-or-eclipse-you-can-conference-paris
+summary: "I will be in Esslingen next week for the eclipse Summit."
+tags: ['Nuxeo', 'Eclipse']
 ---
 
 I will be in Esslingen next week for the <a href="http://www.eclipsecon.org/summiteurope2006/index.php?page=program/">eclipse Summit</a>.

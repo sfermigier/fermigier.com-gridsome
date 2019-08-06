@@ -2,6 +2,8 @@
 title: "Linux sur Merced"
 date: 1998-05-02
 path: 1998/5/linux-merced
+summary: "Selon LMB Actu, Intel compte aider au portage de Linux sur son futur processeur 64 bits Merced, mais sans en dévoiler les spécifications: \"D'ici 99 nous publierons les spécifications du Merced, mais assorties d'un contrat de confidentialité pour être sûr qu'elles sont bien utilisées\" explique D."
+tags: ['Linux']
 ---
 
 <P>

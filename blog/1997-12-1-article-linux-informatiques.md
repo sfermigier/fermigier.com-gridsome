@@ -2,6 +2,8 @@
 title: "Un article sur Linux dans Informatiques"
 date: 1997-12-01
 path: 1997/12/article-linux-informatiques
+summary: "Le magazine Informatiques, qui fait habituellement ses choux gras de Window$ NT et des UN*X commerciaux, a publié dans son numéro de décembre une étude comparative de 5 systèmes d'exploitations pour serveurs Web: Linux, FreeBSD, BSD, SCO et NT."
+tags: ['Linux']
 ---
 
 <P>

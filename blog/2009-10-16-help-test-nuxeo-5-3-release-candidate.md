@@ -2,6 +2,8 @@
 title: "Help Test the Nuxeo 5.3 Release Candidate"
 date: 2009-10-16
 path: 2009/10/help-test-nuxeo-5-3-release-candidate
+summary: "Nuxeo EP 5.3 has recently been published as a release candidate (RC), and will soon become generally available (GA)."
+tags: ['Nuxeo']
 ---
 
 <p>Nuxeo EP 5.3 has recently been published as a release candidate (RC), and will soon become generally available (GA).</p> 

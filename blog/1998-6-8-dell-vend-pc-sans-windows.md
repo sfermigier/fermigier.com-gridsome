@@ -2,6 +2,8 @@
 title: "Dell vend des PC sans Windows"
 date: 1998-06-08
 path: 1998/6/dell-vend-pc-sans-windows
+summary: "Ceux qui souhaitent acheter un PC de marque pour installer un OS libre sans payer la taxe monopolistique peuvent aller voir Dell."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Beginners Python tutorial spotted on IBM DeveloperWorks"
 date: 2005-12-25
 path: 2005/12/beginners-python-tutorial-spotted-ibm-developerworks
+summary: "Discover Python is a series of articles written by Robert Brunner, Research Scientist at the National Center for Supercomputing Applications, and published by IBM DeveloperWorks."
+tags: ['Python']
 ---
 
 <a href="http://www-128.ibm.com/developerworks/library/os-python1/">Discover

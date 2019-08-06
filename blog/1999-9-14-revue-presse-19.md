@@ -2,6 +2,8 @@
 title: "Revue de presse"
 date: 1999-09-14
 path: 1999/9/revue-presse-19
+summary: "Dans le dernier 01 Informatique de vendredi: Page 8 - Le point sur le projet Delphi sous Linux."
+tags: ['Linux', 'Debian', 'Mandrake']
 ---
 
 <P>Dans le dernier <B>01 Informatique</B> de vendredi:</P>

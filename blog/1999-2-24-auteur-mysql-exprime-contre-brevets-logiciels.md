@@ -2,6 +2,8 @@
 title: "L'auteur de MySQL s'exprime contre les brevets sur les logiciels"
 date: 1999-02-24
 path: 1999/2/auteur-mysql-exprime-contre-brevets-logiciels
+summary: "Dans le cadre des discussions actuelles pour contrer le projets de modification du droit européen en matière de brevets sur les logiciels, Michael Widenius, principal auteur de MySQL, s'exprime contre ce projet: ``Software patents are more harmful than useful for the community."
+tags: ['Misc']
 ---
 
 <P>

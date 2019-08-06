@@ -2,6 +2,8 @@
 title: "Nouvelle Journee Linux chez IBM a Paris"
 date: 1999-06-29
 path: 1999/6/nouvelle-journee-linux-chez-ibm-paris
+summary: "Lors de l'e-Business Expo de Paris les 2 et 3 juin, une série de conférences sur Linux était prévue."
+tags: ['Linux']
 ---
 
 <P>Lors de l'e-Business Expo de Paris les 2 et 3 juin,

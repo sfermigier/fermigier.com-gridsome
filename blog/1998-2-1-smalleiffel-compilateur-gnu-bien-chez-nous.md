@@ -2,6 +2,8 @@
 title: "SmallEiffel, un compilateur GNU bien de chez nous."
 date: 1998-02-01
 path: 1998/2/smalleiffel-compilateur-gnu-bien-chez-nous
+summary: "Le compilateur Eiffel SmallEiffel est récemment devenu officiellement le compilateur Eiffel GNU."
+tags: ['GNU', 'Java']
 ---
 
 <P>

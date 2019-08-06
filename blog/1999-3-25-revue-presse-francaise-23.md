@@ -2,6 +2,8 @@
 title: "Revue de presse française"
 date: 1999-03-25
 path: 1999/3/revue-presse-francaise-23
+summary: "Dans SVM d'avril un dossier conséquent sur Linux annoncé comme suit: Et si ce système d'exploitation gratuit et performant était pour vous."
+tags: ['Linux', 'Mandrake']
 ---
 
 <P>

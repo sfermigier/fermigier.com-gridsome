@@ -2,6 +2,8 @@
 title: "Six offres d'emploi en region parisienne"
 date: 1999-09-07
 path: 1999/9/six-offres-emploi-region-parisienne
+summary: "Jerome Kalifa nous apprend que le Centre de Maths Appliquées de l'Ecole Polytechnique recherche un administrateur système à mi-temps et un ingenieur recherche maths appliquees plein temps, si possible gourou informatique tant qu'on y est."
+tags: ['Linux']
 ---
 
 <P><A HREF="mailto:Jerome.Kalifa@polytechnique.fr">Jerome Kalifa</A>

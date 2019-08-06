@@ -2,6 +2,8 @@
 title: "Debian and Ubuntu packages available for Nuxeo DM 5.3.2 (stable)"
 date: 2010-07-20
 path: 2010/7/debian-ubuntu-packages-available-nuxeo-dm-5-3-2-stable
+summary: "With Nuxeo DM 5.3.2 released just a few minutes ago, I'm happy to report that we now have stable packages for Debian Lenny (4.0) and Ubuntu Lucid Lynx (10.4 LTS)."
+tags: ['Nuxeo', 'Debian', 'Ubuntu']
 ---
 
 <p>With Nuxeo DM 5.3.2 released just <a href="http://blogs.nuxeo.com/dev/2010/07/nuxeo-dm-532-is-available.html">a few minutes ago</a>, I'm happy to report that we now have stable packages for Debian Lenny (4.0) and Ubuntu Lucid Lynx (10.4 LTS).</p>

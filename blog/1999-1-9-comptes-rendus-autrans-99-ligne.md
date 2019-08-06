@@ -2,6 +2,8 @@
 title: "Comptes-rendus d'Autrans 99 en ligne"
 date: 1999-01-09
 path: 1999/1/comptes-rendus-autrans-99-ligne
+summary: "Les comptes-rendus de la table ronde sur les logiciels libres d'Autrans 99 sont disponibles: L'introduction générale (Albert de Pétigny)."
+tags: ['Misc']
 ---
 
 <P>

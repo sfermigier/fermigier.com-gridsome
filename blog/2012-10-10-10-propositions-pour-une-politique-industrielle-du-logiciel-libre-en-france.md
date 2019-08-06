@@ -2,6 +2,8 @@
 title: "10 propositions pour une politique industrielle du Logiciel Libre en France"
 date: 2012-10-10
 path: 2012/10/10-propositions-pour-une-politique-industrielle-du-logiciel-libre-en-france
+summary: "Je suis le coauteur du document suivant: 10 propositions pour une politique industrielle du Logiciel Libre en France, qui vient d'&ecirc;tre rendu public par le CNLL apr&egrave;s avoir &eacute;t&eacute; pr&eacute;sent&eacute; au cabinet de Fleur Pellerin il y a quelques semaines."
+tags: ['Misc']
 ---
 
 Je suis le coauteur du document suivant: [10 propositions pour une politique industrielle du Logiciel Libre en France](http://www.cnll.fr/sites/default/files/propositions_cnll_fleurpellerin.pdf), qui vient d'&ecirc;tre rendu public par le CNLL apr&egrave;s avoir &eacute;t&eacute; pr&eacute;sent&eacute; au cabinet de Fleur Pellerin il y a quelques semaines.

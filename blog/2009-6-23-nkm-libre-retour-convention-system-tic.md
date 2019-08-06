@@ -2,6 +2,8 @@
 title: "NKM et le libre - retour sur la convention System@tic"
 date: 2009-06-23
 path: 2009/6/nkm-libre-retour-convention-system-tic
+summary: "Hier avait lieu la convention annuelle du P&#244;le System@tic, la deuxi&#232;me depuis la cr&#233;ation du Groupe Th&#233;matique d&#233;di&#233; au logiciel libre."
+tags: ['Misc']
 ---
 
 <p>

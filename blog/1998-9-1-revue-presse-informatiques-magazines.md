@@ -2,6 +2,8 @@
 title: "Revue de presse: Informatiques Magazines"
 date: 1998-09-01
 path: 1998/9/revue-presse-informatiques-magazines
+summary: "\"Informatiques Magazine\" de septembre (mensuel, 15FF)."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Tour de Nuxeo, Stage 3: The Nuxeo architecture"
 date: 2011-07-07
 path: 2011/7/nuxeo-architecture
+summary: "As we've seen in stage 1 of this Tour de Nuxeo, Nuxeo EP is a platform that implements all the major services that are expected nowadays to manage content at an enterprise scale."
+tags: ['Nuxeo', 'Java', 'Eclipse']
 ---
 
 <img class="asset asset-image at-xid-6a010536291c30970b0154338b67f6970c" style="float: right; margin-left: 5px;" title="Photo source: http://www.flickr.com/photos/nakedcharlton/" src="/images/6a010536291c30970b0154338b67f6970c-800wi.png"> 

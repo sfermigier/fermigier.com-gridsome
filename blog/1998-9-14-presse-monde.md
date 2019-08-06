@@ -2,6 +2,8 @@
 title: "Presse: Le Monde"
 date: 1998-09-14
 path: 1998/9/presse-monde
+summary: "Un tout petit entrefilet dans le supplément TRM (Television Radio Multimedia) du Monde cette semaine: A propos de LINUX."
+tags: ['Linux']
 ---
 
 <P>

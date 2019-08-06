@@ -2,6 +2,8 @@
 title: "Paris Zope3/ECM/Five sprint: the wrap-up"
 date: 2005-03-18
 path: 2005/3/paris-zope3-ecm-five-sprint-wrap-up
+summary: "Here is the wrap up for the sprint that just happened in Nuxeo's premises in Paris this week."
+tags: ['Nuxeo', 'Zope', 'CPS']
 ---
 
 <p>Here is the wrap up for the sprint that just happened in Nuxeo's

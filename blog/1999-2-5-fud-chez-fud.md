@@ -2,6 +2,8 @@
 title: "FUD de chez FUD!"
 date: 1999-02-05
 path: 1999/2/fud-chez-fud
+summary: "Un récent rapport d'un certain D."
+tags: ['Linux']
 ---
 
 <P>

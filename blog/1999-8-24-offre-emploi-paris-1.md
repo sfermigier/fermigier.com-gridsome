@@ -2,6 +2,8 @@
 title: "Offre d'emploi a Paris"
 date: 1999-08-24
 path: 1999/8/offre-emploi-paris-1
+summary: "Eric Orhand nous écrit: Bonjour hangover, societe de multimédia et de creation de sites web met en place l'hebergement de sites et les services informatiques s'y rattachant en ses locaux sur plateformes linux."
+tags: ['Misc']
 ---
 
 <P><A HREF="mailto:eorhand@exorbita.com">Eric Orhand</A> nous écrit:</P>

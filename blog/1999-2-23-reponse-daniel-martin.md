@@ -2,6 +2,8 @@
 title: "Une réponse à Daniel Martin"
 date: 1999-02-23
 path: 1999/2/reponse-daniel-martin
+summary: "Comme il a déjà été évoqué dans ces lignes, un consultant nommé Daniel Martin a écrit il y a quelques temps un papier assez long comparant Linux à NT et Solaris, et qui comportait de très nombreuses erreurs techniques qui rendent ses conclusions complètements erronées."
+tags: ['Linux']
 ---
 
 <P>

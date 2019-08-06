@@ -2,6 +2,8 @@
 title: "Nuxeo + Ubuntu = open source ECM for the masses"
 date: 2011-07-11
 path: 2011/7/nuxeo-ubuntu-open-source-ecm-masses
+summary: "I'm happy that we announced today that: Our Nuxeo DM packages have been accepted in the Ubuntu \"Partner\" repository, so that it's even easier than before to install Nuxeo DM (and soon, other products from Nuxeo) on an Ubuntu Linux server."
+tags: ['Linux', 'Nuxeo', 'Debian', 'Java', 'Ubuntu']
 ---
 
 <img style="float: right; margin-left: 5px;" src="/images/6a010536291c30970b014e89c21699970d-150wi.png" />

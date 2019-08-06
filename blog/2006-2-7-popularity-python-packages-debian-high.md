@@ -2,6 +2,8 @@
 title: "Popularity of Python packages in Debian: High !"
 date: 2006-02-07
 path: 2006/2/popularity-python-packages-debian-high
+summary: "Ara is an advanced search engine for Debian packages developped in theEDOS project (of which we are also taking part)."
+tags: ['Python', 'Debian', 'Java']
 ---
 
 <a href="http://ara.edos-project.org/">Ara</a> is an advanced search engine

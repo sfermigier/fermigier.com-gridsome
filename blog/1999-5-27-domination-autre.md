@@ -2,6 +2,8 @@
 title: "D'une domination à l'autre?"
 date: 1999-05-27
 path: 1999/5/domination-autre
+summary: "[Ceci est l'éditorial de la semaine d'Alain Simeray dans la toujours excellente lettre d'information (gratuite) LMB Actu."
+tags: ['Linux']
 ---
 
 <P>[Ceci est l'éditorial de la semaine d'Alain Simeray

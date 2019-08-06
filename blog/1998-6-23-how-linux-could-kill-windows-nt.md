@@ -2,6 +2,8 @@
 title: "How Linux Could Kill Windows NT"
 date: 1998-06-23
 path: 1998/6/how-linux-could-kill-windows-nt
+summary: "Jesse Berst, Directeur Editorial, ZDNet, 23 juin 1998: Linux."
+tags: ['Linux']
 ---
 
 <P>

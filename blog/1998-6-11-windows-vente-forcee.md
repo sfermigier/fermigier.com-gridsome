@@ -2,6 +2,8 @@
 title: "Windows et vente forcée"
 date: 1998-06-11
 path: 1998/6/windows-vente-forcee
+summary: "Au sujet de la vente forcée de Windows avec un PC, David Baudens a écrit la précision juridique importante suivante: «[...] un ordinateur et un système d'exploitation sont deux produits (au sens commercial du terme) indépendants."
+tags: ['Misc']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Premier workshop en France sur les MOOC"
 date: 2013-01-23
 path: 2013/1/premier-workshop-en-france-sur-les-mooc
+summary: "Fin mai aura lieu &agrave; Paris le premier workshop en France organis&eacute; sp&eacute;cifiquement pour &eacute;changer autour des MOOC, les cours en ligne massivement ouverts."
+tags: ['Misc']
 ---
 
 Fin mai aura lieu &agrave; Paris le premier workshop en France organis&eacute; sp&eacute;cifiquement pour &eacute;changer autour des MOOC, les cours en ligne massivement ouverts.

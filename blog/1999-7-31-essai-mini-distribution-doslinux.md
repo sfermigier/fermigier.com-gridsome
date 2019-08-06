@@ -2,6 +2,8 @@
 title: "Essai de la (mini-)distribution DosLinux"
 date: 1999-07-31
 path: 1999/7/essai-mini-distribution-doslinux
+summary: "Distribution DosLinux_79 (La dernière version est la 86) Mini distribution dont la version minimum s'installe avec 2 disquettes ou directement à partir de MS-DOS."
+tags: ['Linux']
 ---
 
 <P><A HREF="http://www.tux.org/pub/people/kent-robotti/">Distribution DosLinux_79</A> (La dernière version est la 86)</P>

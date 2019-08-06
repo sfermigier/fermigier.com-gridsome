@@ -2,6 +2,8 @@
 title: "Revue de presse française: RFI"
 date: 1998-10-09
 path: 1998/10/revue-presse-francaise-rfi
+summary: "La semaine de la science fete Linux."
+tags: ['Linux']
 ---
 
 <A HREF="http://www.rfi.fr/Kiosque/RendezVous/Eclairage/051098.html">La semaine de la science fete Linux</A>.

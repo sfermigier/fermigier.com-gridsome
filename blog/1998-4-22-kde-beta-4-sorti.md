@@ -2,6 +2,8 @@
 title: "KDE Beta 4 est sorti"
 date: 1998-04-22
 path: 1998/4/kde-beta-4-sorti
+summary: "Gaël Duval, qui maintient une page d'info en français sur KDE, l'a essayé et écrit: Le support des polices d'écran me semble bien meilleur qu'avant et la stabilité générale semble excellente..."
+tags: ['Misc']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Nuxeo Studio 2.0 available"
 date: 2011-01-28
 path: 2011/1/nuxeo-studio-2-0-available
+summary: "We have made available earlier this week version 2.0 of Nuxeo Studio, the configuration and customization environment for content applications based on the open source Nuxeo EP platform."
+tags: ['Nuxeo']
 ---
 
 We have made available earlier this week version 2.0 of Nuxeo Studio, the configuration and customization environment for content applications based on the <a href="http://www.nuxeo.com/en/products/enterprise-platform">open source Nuxeo EP platform</a>.

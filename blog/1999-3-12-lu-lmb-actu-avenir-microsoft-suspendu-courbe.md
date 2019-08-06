@@ -2,6 +2,8 @@
 title: "Lu dans LMB actu: L'avenir de Microsoft suspendu à une courbe"
 date: 1999-03-12
 path: 1999/3/lu-lmb-actu-avenir-microsoft-suspendu-courbe
+summary: "[Ceci est l'éditorial de la semaine de LMB Actu."
+tags: ['Linux']
 ---
 
 <P>

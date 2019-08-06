@@ -2,6 +2,8 @@
 title: "Comptes-rendus complets des conférences de Linux Expo"
 date: 1999-03-16
 path: 1999/3/comptes-rendus-complets-conferences-linux-expo
+summary: "Des comptes-rendus complets des différentes conférences de la récente Linux Expo (plus d'une trentaine en tous, y compris les plus techniques qui sont loin d'avoir été autant médiatisées que les keynotes) sont disponibles sur le site de LinuxWorld."
+tags: ['Linux']
 ---
 
 <P> Des comptes-rendus complets des différentes conférences de

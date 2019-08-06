@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-04-14
 path: 1999/4/revue-presse-francaise-25
+summary: "PC Max d'avril, n°10, 35 F fait la critique d'un livre sur Linux, et c'est tout."
+tags: ['Linux']
 ---
 
 <P><B>PC Max</B> d'avril, n°10, 35 F fait la critique d'un livre sur Linux, et

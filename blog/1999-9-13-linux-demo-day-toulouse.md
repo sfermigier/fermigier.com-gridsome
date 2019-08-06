@@ -2,6 +2,8 @@
 title: "Linux Demo Day a Toulouse"
 date: 1999-09-13
 path: 1999/9/linux-demo-day-toulouse
+summary: "J'ai le plaisir de vous annoncer que l'Install Fest à Toulouse se produira le samedi 18 septembre."
+tags: ['Linux', 'GNU']
 ---
 
 <P>J'ai le plaisir de vous annoncer que l'Install Fest à Toulouse se produira

@@ -2,6 +2,8 @@
 title: "Le ministère de l'éducation nationale recrute"
 date: 1998-07-08
 path: 1998/7/ministere-education-nationale-recrute
+summary: "Dans le cadre du ``plan d'urgence IUFM'', le ministère de l'éducation nationale, de la recherche et de la technologie (MENRT) recrute 200 ``formateur multimédia en IUFM'' dont la mission sera l'aide et l'accompagnement des stagiaires, l'assistance aux usagers dans les centres de ressources, les expérimentations pédagogiques, l'aide à la production de séquences pédagogiques et d'outils multimédia, etc."
+tags: ['Linux']
 ---
 
 <P> Dans le cadre du ``plan d'urgence IUFM'', le ministère de

@@ -2,6 +2,8 @@
 title: "Top 10 reasons for open source success - How does Nuxeo stack up?"
 date: 2011-02-02
 path: 2011/2/top-10-reasons-open-source-success-how-does-nuxeo-stack-up
+summary: "In a somewhat subtle self-promoting exercise thechangelog.com has an interesting post called \"Top ten reasons why I won't use your open source project\" and while it somewhat applies to smaller, younger projects, we thought (as our friends of the Glassfish project recently did) we'd benchmark the Nuxeo project on those reasons."
+tags: ['Nuxeo']
 ---
 
 In a somewhat subtle self-promoting exercise <a href="http://thechangelog.com">thechangelog.com</a>

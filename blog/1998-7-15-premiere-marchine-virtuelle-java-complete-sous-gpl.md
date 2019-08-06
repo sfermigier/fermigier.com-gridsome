@@ -2,6 +2,8 @@
 title: "La première marchine virtuelle Java complète sous GPL"
 date: 1998-07-15
 path: 1998/7/premiere-marchine-virtuelle-java-complete-sous-gpl
+summary: "Transvirtual vient d'annoncer la version 1.0 (beta 1) de Kaffe OpenVM(TM), une JVM libre (GPL) avec compilateur à la volée et librairie complète (y compris Beans et AWT)."
+tags: ['Misc']
 ---
 
 <P>

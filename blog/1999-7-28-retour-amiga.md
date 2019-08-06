@@ -2,6 +2,8 @@
 title: "Le retour d'Amiga"
 date: 1999-07-28
 path: 1999/7/retour-amiga
+summary: "Selon plusieurs informations récentes, Amiga serait en train de préparer la révolution informatique de demain."
+tags: ['Linux', 'Java', 'Mandrake']
 ---
 
 <P>Selon plusieurs informations récentes,

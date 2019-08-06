@@ -2,6 +2,8 @@
 title: "FUD: en France aussi"
 date: 1998-08-28
 path: 1998/8/fud-france-aussi
+summary: "Le magazine \"PC Professionnel\" du mois de septembre consacre un article sur Linux."
+tags: ['Linux']
 ---
 
 <P>

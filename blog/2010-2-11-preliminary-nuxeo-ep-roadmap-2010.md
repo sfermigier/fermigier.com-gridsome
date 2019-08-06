@@ -2,6 +2,8 @@
 title: "Preliminary Nuxeo EP roadmap for 2010"
 date: 2010-02-11
 path: 2010/2/preliminary-nuxeo-ep-roadmap-2010
+summary: "We have recently brainstormed internally and discussed with some of our customers and ECM analysts the roadmap for our planned improvements of Nuxeo EP."
+tags: ['Nuxeo', 'Java']
 ---
 
 <p>We have recently brainstormed internally and discussed with some of our customers and ECM analysts the roadmap for our planned improvements of Nuxeo EP.</p> 

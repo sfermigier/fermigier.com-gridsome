@@ -2,6 +2,8 @@
 title: "Linux en progression notable sur les serveurs Internet (statistiques d'avril de l'IOS Counter)"
 date: 1999-04-29
 path: 1999/4/linux-progression-notable-serveurs-internet-statistiques-avril-ios-counter
+summary: "Les statistiques d'avril de l'IOSC (Internet Operating System Counter) montrent une nette progression de Linux en tant que système d'exploitation de serveurs Internet (WWW, News et FTP), avec 31.3% du total des machines sondées au lieu de 28.5% en janvier."
+tags: ['Linux']
 ---
 
 <P>

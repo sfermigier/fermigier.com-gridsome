@@ -2,6 +2,8 @@
 title: "Offres d'emploi"
 date: 1999-07-05
 path: 1999/7/offres-emploi-1
+summary: "1) NTCD formation, société de formation en informatique spécialisée dans les logiciels libres, recherche des formateurs, notamment pour Linux, pour effectuer des vacations, à Paris et en province."
+tags: ['Linux', 'Java']
 ---
 
 <P>1) <A HREF="http://www.ntcd.com/">NTCD formation</A>, société

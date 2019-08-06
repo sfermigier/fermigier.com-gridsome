@@ -2,6 +2,8 @@
 title: "29% des serveurs Web dans le monde utilisent Linux"
 date: 1998-08-20
 path: 1998/8/29-serveurs-web-monde-utilisent-linux
+summary: "Selon cette étude portant sur plus de 500000 serveurs, 29% des serveurs Web mondiaux utilisent Linux, contre par exemple 23% pour Windows 95/98/NT et 21% pour les différentes variantes (libres ou non libres) de BSD."
+tags: ['Linux']
 ---
 
 <P>

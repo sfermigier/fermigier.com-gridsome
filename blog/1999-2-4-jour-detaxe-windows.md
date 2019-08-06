@@ -2,6 +2,8 @@
 title: "Jour de la detaxe Windows"
 date: 1999-02-04
 path: 1999/2/jour-detaxe-windows
+summary: "Comme le monde entier va consacrer le 15 février au ``Windows Refund Day'', il était logique qu'une action similaire soit lancée en France."
+tags: ['Linux']
 ---
 
 <P>

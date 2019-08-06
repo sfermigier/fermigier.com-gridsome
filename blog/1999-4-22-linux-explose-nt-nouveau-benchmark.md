@@ -2,6 +2,8 @@
 title: "Linux explose NT dans un nouveau benchmark"
 date: 1999-04-22
 path: 1999/4/linux-explose-nt-nouveau-benchmark
+summary: "Linux Daily News rapporte aujourd'hui un Benchmark d'Oracle 8 sur Linux et NT réalisé en France par l'INRIA Rhône-Alpes et le CUEFA à Grenoble."
+tags: ['Linux']
 ---
 
 <P>

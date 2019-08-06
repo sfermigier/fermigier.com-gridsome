@@ -2,6 +2,8 @@
 title: "France Telecom choisit Linux pour son nouveau service"
 date: 1998-07-15
 path: 1998/7/france-telecom-choisit-linux-nouveau-service
+summary: "L'opérateur de communications international France Telecom vient d'annoncer qu'il avait choisi Linux comme système d'exploitation pour son nouveau portail d'accès à Internet voila qui inclut et remplace le service PagesWeb, moteur de recherche francophone portant sur 5 millions de documents."
+tags: ['Linux']
 ---
 
 <P>

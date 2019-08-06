@@ -2,6 +2,8 @@
 title: "Seam 1.1 beta1 released"
 date: 2006-10-30
 path: 2006/10/seam-1-1-beta1-released
+summary: "Gavin King has released last week the first beta of JBoss Seam 1.1, but hasn&#8217;t made any spectacular announcement for it, besides a post in the JBoss Seam forum."
+tags: ['Nuxeo', 'Java']
 ---
 
 <p>Gavin  King has released last week the first beta of <a href="http://www.jboss.com/products/seam">JBoss Seam</a>  1.1, but hasn&#8217;t made any spectacular announcement for it, besides <a href="http://www.jboss.com/index.html?module=bb&amp;op=viewtopic&amp;t=93291">a post in the JBoss Seam forum</a>.</p><p>According to his release notes, the major new features of Seam 1.1 are:</p><ul><li>The Seam Application Framework for data-oriented applications</li>

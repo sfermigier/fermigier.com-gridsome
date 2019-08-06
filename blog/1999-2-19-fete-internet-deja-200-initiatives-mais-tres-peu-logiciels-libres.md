@@ -2,6 +2,8 @@
 title: "Fete de l'Internet: deja 200 initiatives (mais tres peu sur les logiciels libres)"
 date: 1999-02-19
 path: 1999/2/fete-internet-deja-200-initiatives-mais-tres-peu-logiciels-libres
+summary: "Le site officiel de la fête de l'Internet 1999 vient d'enregistrer le 200ème événement festif mais il y a encore très peu de projets concernant les logiciels libres (2 si on en croit la base de donnée, mais la catégorie `logiciel libre' n'a été ajoutée que très récemment)."
+tags: ['Linux']
 ---
 
 <P>

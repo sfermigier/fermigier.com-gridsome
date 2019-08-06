@@ -2,6 +2,8 @@
 title: "New video clip presenting Nuxeo and Open Source ECM"
 date: 2010-10-04
 path: 2010/10/new-video-clip-presenting-nuxeo-open-source-ecm
+summary: "I have created last week a new video clip (2 min) presenting Nuxeo."
+tags: ['Nuxeo']
 ---
 
 I have created last week a new video clip (2 min) presenting Nuxeo. It was on display during the last <a href="http://www.openworldforum.org/">Open World Forum</a> as part of the "Open IT Showroom", an effort to showcase the open source vendors and service providers during the Forum.

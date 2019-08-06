@@ -2,6 +2,8 @@
 title: "Colloque LexiPraxi 98 \"Former des citoyens pour maîtriser la société de l'information\""
 date: 1998-08-10
 path: 1998/8/colloque-lexipraxi-98-former-citoyens-maitriser-societe-information
+summary: "L'AILF (association des informaticiens de langue française) organise en décembre un colloque sur le thème \"Former des citoyens pour maîtriser la société de l'information\"."
+tags: ['Misc']
 ---
 
 <P>

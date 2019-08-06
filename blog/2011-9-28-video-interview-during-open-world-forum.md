@@ -2,6 +2,8 @@
 title: "Video interview during the Open World Forum"
 date: 2011-09-28
 path: 2011/9/video-interview-during-open-world-forum
+summary: "I was at the Open World Forum last week (which I also help organize) and had the pleasure to be interviewed by Sandro Groganz, a partner with Age Of Peers and a specialist of open source marketing."
+tags: ['Misc']
 ---
 
 I was at the <a href="http://www.openworldforum.org/">Open World Forum</a> last week (which I also help organize) and had the pleasure to be interviewed by <a href="http://www.ageofpeers.com/sandro">Sandro Groganz</a>, a partner with Age Of Peers and a specialist of open source marketing.

@@ -2,6 +2,8 @@
 title: "Nuxeo EP/DM 5.4.2 RC2 released"
 date: 2011-05-26
 path: 2011/5/nuxeo-ep-dm-5-4-2-rc2-released
+summary: "We've done yesterday a second release candidate for Nuxeo EP and DM."
+tags: ['Nuxeo', 'Debian', 'Ubuntu']
 ---
 
 We've done yesterday a second release candidate for Nuxeo EP and DM.

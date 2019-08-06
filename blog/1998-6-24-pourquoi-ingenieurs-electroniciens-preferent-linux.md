@@ -2,6 +2,8 @@
 title: "Pourquoi les ingénieurs électroniciens préfèrent Linux"
 date: 1998-06-24
 path: 1998/6/pourquoi-ingenieurs-electroniciens-preferent-linux
+summary: "Voir: Engineers Speak Out: Linux vs."
+tags: ['Linux']
 ---
 
 <P>

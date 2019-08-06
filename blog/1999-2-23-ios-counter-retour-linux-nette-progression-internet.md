@@ -2,6 +2,8 @@
 title: "IOS Counter de retour: Linux en nette progression sur l'Internet"
 date: 1999-02-23
 path: 1999/2/ios-counter-retour-linux-nette-progression-internet
+summary: "Apres quelques mois de pause, l'Internet Operating System Counter est de retour, avec des résultat très encourageants pour Linux."
+tags: ['Linux']
 ---
 
 <P>

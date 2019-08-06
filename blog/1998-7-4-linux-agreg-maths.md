@@ -2,6 +2,8 @@
 title: "Linux à l'agreg de maths"
 date: 1998-07-04
 path: 1998/7/linux-agreg-maths
+summary: "C'est officiel, les machines sur lesquelles les candidats à l'agrégation de mathématique prépareront et présenteront la nouvelle épreuve orale de modélisation, à partir de la session de 1999, seront des PC en double amorçage: Linux (Red Hat 5.x, X11, fvwm95) et un autre OS propriétaire dont le nom m'échappe."
+tags: ['Linux']
 ---
 
 <P>

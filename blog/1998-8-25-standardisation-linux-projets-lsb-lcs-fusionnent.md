@@ -2,6 +2,8 @@
 title: "Standardisation de Linux: les projets LSB et LCS fusionnent"
 date: 1998-08-25
 path: 1998/8/standardisation-linux-projets-lsb-lcs-fusionnent
+summary: "Daniel Quinlan, le chef du projet LSB, vient d'annoncer que Red Hat et Debian, qui étaient à l'origine du projet LCS, viennent de rejoindre LSB."
+tags: ['Linux', 'Debian']
 ---
 
 <P>

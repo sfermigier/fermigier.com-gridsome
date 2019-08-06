@@ -2,6 +2,8 @@
 title: "Bilan du COMDEX + evenements a venir"
 date: 1999-02-13
 path: 1999/2/bilan-comdex-evenements-venir
+summary: "Le COMDEX (édition parisienne) vient de se terminer."
+tags: ['Linux', 'Java', 'Mandrake']
 ---
 
 <P>

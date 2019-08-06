@@ -2,6 +2,8 @@
 title: "CPS 3.4 has been slashdotted :)"
 date: 2006-03-15
 path: 2006/3/cps-3-4-been-slashdotted
+summary: "slasdotted today."
+tags: ['CPS']
 ---
 
 <a href="http://developers.slashdot.org/developers/06/03/15/0454259.shtml">slasdotted today</a>.

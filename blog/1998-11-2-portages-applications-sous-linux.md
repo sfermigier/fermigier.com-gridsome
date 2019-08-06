@@ -2,6 +2,8 @@
 title: "Portages d'applications sous Linux"
 date: 1998-11-02
 path: 1998/11/portages-applications-sous-linux
+summary: "Malgré les dénégations véhémentes d'il y a quelques mois, on vient d'apprendre que Lotus allait porter sur Linux deux de ses logiciels phares, la suite bureautique SmartSuite et le logiciel de groupware Notes/Domino à l'horizon 1999."
+tags: ['Linux']
 ---
 
 <P>

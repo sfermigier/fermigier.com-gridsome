@@ -2,6 +2,8 @@
 title: "Nuxeo EP 5.1.3.2 released"
 date: 2008-02-28
 path: 2008/2/nuxeo-ep-5-1-3-2-released
+summary: "We have released Nuxeo EP 5.1.3.2 earlier this week."
+tags: ['Nuxeo', 'Java']
 ---
 
 <p>We have released Nuxeo EP 5.1.3.2 earlier this week. This is a maintenance release primarily focussed on bug fixes and small improvements.</p><p>You can download it as </p><ul><li><a href="http://www.nuxeo.org/sections/downloads/">a multi-platform installer</a></li>

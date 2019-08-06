@@ -2,6 +2,8 @@
 title: "Revue de presse: le courrier de l'UNESCO"
 date: 1998-07-16
 path: 1998/7/revue-presse-courrier-unesco
+summary: "Il y a un bon article ce mois-ci sur Linux dans le courrier de l'UNESCO."
+tags: ['Linux']
 ---
 
 <P>

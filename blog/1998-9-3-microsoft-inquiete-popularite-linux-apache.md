@@ -2,6 +2,8 @@
 title: "Microsoft s'inquiète de la popularité de Linux et Apache"
 date: 1998-09-03
 path: 1998/9/microsoft-inquiete-popularite-linux-apache
+summary: "D'Après cet article de ZDnet (Ballmer: Microsoft taking notice of free rivals Linux, Apache, Charles Cooper et Lisa Bowman, ZDNN, 2 septembre 1998), le président de Microsoft, Steve Ballmer, s'est dit inquiet de la popularité de Linux et Apache, qui sont en compétition directe avec ``Windows NT, la future vache à lait de Microsoft''."
+tags: ['Linux']
 ---
 
 <P>

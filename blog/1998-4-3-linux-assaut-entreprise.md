@@ -2,6 +2,8 @@
 title: "Linux à l'assaut de l'entreprise"
 date: 1998-04-03
 path: 1998/4/linux-assaut-entreprise
+summary: "Informatiques Magazine publie cette semaine (dans son numéro 45) un dossier intitulé ``Linux peut-il s'installer dans l'entreprise?''."
+tags: ['Linux']
 ---
 
 <P><EM>Informatiques Magazine</EM> publie cette semaine (dans son numéro 45)

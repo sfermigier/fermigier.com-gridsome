@@ -2,6 +2,8 @@
 title: "Revue de presse rapide"
 date: 1998-09-19
 path: 1998/9/revue-presse-rapide
+summary: "Intel looks to Linux communituy for help with UDI: Intel compte sur la communauté des développeurs Linux pour aider au développement de drivers de périphériques pour l'architecture IA 64 (Merced), selon les spécifications du ``projet UDI'' (Uniform Driver Interface)."
+tags: ['Linux']
 ---
 
 <UL>

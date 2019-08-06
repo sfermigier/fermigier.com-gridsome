@@ -2,6 +2,8 @@
 title: "Sortie du premier CD DemoLinux"
 date: 1999-09-10
 path: 1999/9/sortie-premier-cd-demolinux
+summary: "L'équipe DemoLinux a la joie d'annoncer la sortie de son premier CDROM."
+tags: ['Linux']
 ---
 
 <P>L'équipe DemoLinux a la joie d'annoncer la sortie de son premier CDROM!

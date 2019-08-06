@@ -2,6 +2,8 @@
 title: "Un lycée de plus sous Linux (à Paris)"
 date: 1998-10-01
 path: 1998/10/lycee-plus-sous-linux-paris
+summary: "Le lycée technique Petrelle (Paris 10eme) c'est récemment doté d'un serveur sous Linux afin de régler les problèmes liés au fonctionnement de ses postes, de passer une partie de son parc micros en réseau."
+tags: ['Linux']
 ---
 
 <P>

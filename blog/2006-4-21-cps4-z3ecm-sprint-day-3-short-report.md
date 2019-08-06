@@ -2,6 +2,8 @@
 title: "CPS4/Z3ECM sprint, day 3, short report"
 date: 2006-04-21
 path: 2006/4/cps4-z3ecm-sprint-day-3-short-report
+summary: "Yesterday was the third day of the Z3ECM / CPS4 sprint."
+tags: ['Zope', 'CPS']
 ---
 
 <p>

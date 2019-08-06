@@ -2,6 +2,8 @@
 title: "I'm now an Eclipse pundit ;)"
 date: 2006-10-18
 path: 2006/10/eclipse-pundit
+summary: "It's official now :)."
+tags: ['Eclipse']
 ---
 
 <p>

@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-01-29
 path: 1999/1/revue-presse-francaise-14
+summary: "Informatiques Magazine n°65, 15 F, du 22 janvier [donc celui de vendredi dernier, qui n'est plus disponible], publie deux petites informations en lien avec Linux : le courrier de réaction au dossier de la semaine du 15/01 sur Linux et les logiciels libres, qui précise qu'outre Linux, il ne faut pas oublier FreeBSD : le courrier est signé Sébastien Gioria, l'un des responsables de l'association FreeBSD-Fr, www.freebsd-fr.org, et voir ci-dessous."
+tags: ['Linux', 'Debian']
 ---
 
 <P><B>Informatiques Magazine</B> n°65, 15 F, du 22 janvier [donc celui de

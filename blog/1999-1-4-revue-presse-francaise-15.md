@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-01-04
 path: 1999/1/revue-presse-francaise-15
+summary: "1 - L'Ordinateur Individuel de janvier, n°102, écrit sur Linux dans sa rubrique \"Actualités\" à propos de la commercialisation par Corel d'ordinateurs entièrement sous Linux : le Netwinder LC et 2 serveurs sous Linux."
+tags: ['Linux']
 ---
 
 <P>1 - <B>L'Ordinateur Individuel</B> de janvier, n°102, écrit sur Linux dans sa

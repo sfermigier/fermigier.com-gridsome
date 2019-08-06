@@ -2,6 +2,8 @@
 title: "Philip Eby on Java+XML vs. Python and the sin of overengineering"
 date: 2005-08-16
 path: 2005/8/philip-eby-java+xml-vs-python-sin-overengineering
+summary: "Philip Eby has some comments on the Chandler development team recent decision to drop its XML-based \"parcel\" (parcels are components in Chandler) description format in favor of a pure-Python solution."
+tags: ['Python']
 ---
 
 Philip Eby has <a href="http://dirtsimple.org/2005/08/chandler-begins-recovery-from-xml.html">some

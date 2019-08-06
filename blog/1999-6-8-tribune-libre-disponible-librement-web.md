@@ -2,6 +2,8 @@
 title: "« Tribune Libre » est disponible librement sur le Web"
 date: 1999-06-08
 path: 1999/6/tribune-libre-disponible-librement-web
+summary: "Les Editions O'Reilly viennent de rendre disponible sur leur site l'adaptation française de l'ouvrage «Open Source», qui comprend une quinzaine de textes rédigés par des ténors des logiciels libres (Stallman, Torvalds, Raymond, McKusick...)."
+tags: ['Linux']
 ---
 
 <P>

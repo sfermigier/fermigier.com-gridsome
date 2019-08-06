@@ -2,6 +2,8 @@
 title: "Nuxeo 5.2.M3 and Nuxeo WebEngine 1.0.RC released!"
 date: 2008-11-18
 path: 2008/11/nuxeo-5-2-m3-nuxeo-webengine-1-0-rc-released
+summary: "Nuxeo 5.2.M3 and Nuxeo WebEngine 1.0.RC have just been released."
+tags: ['Nuxeo']
 ---
 
 <p>

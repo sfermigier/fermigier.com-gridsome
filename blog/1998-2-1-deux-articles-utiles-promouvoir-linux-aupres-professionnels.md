@@ -2,6 +2,8 @@
 title: "Deux articles utiles pour promouvoir Linux auprès des professionnels"
 date: 1998-02-01
 path: 1998/2/deux-articles-utiles-promouvoir-linux-aupres-professionnels
+summary: ""
+tags: ['Linux']
 ---
 
 <UL>

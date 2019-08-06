@@ -2,6 +2,8 @@
 title: "Revue de presse française"
 date: 1999-01-12
 path: 1999/1/revue-presse-francaise-9
+summary: "Dans le numero 365 (11-1-99) de Décision Micro et Reseaux: p."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Roberto di Cosmo sur France Info"
 date: 1998-10-08
 path: 1998/10/roberto-di-cosmo-france-info
+summary: "Roberto di Cosmo était ce soir l'``invité'' de France-Info pour parler de son livre, ``Le hold-up planétaire''."
+tags: ['Misc']
 ---
 
 <P>

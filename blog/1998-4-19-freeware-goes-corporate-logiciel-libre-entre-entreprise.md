@@ -2,6 +2,8 @@
 title: "\"Freeware goes corporate\" (le logiciel libre entre dans l'entreprise)"
 date: 1998-04-19
 path: 1998/4/freeware-goes-corporate-logiciel-libre-entre-entreprise
+summary: "Le magazine américain Infoworld (du groupe IDG, qui publie en France Le Monde Informatique) parle de plus en plus de Linux et des logiciels libres ces derniers temps."
+tags: ['Linux']
 ---
 
 <P>

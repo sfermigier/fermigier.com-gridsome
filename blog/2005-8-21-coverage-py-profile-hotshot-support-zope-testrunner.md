@@ -2,6 +2,8 @@
 title: "coverage.py, profile and hotshot support in Zope's testrunner"
 date: 2005-08-21
 path: 2005/8/coverage-py-profile-hotshot-support-zope-testrunner
+summary: "I have added support for coverage analysis using coverage.py from Gareth Rees and Ned Batchelder, as well as support for profiling using either the profile or hotshot modules from the Python standard library, to Zope 2's test runner test.py."
+tags: ['Python', 'Zope']
 ---
 
 I have added support for coverage analysis using <a href="http://www.nedbatchelder.com/code/modules/coverage.html">coverage.py</a>

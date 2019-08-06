@@ -2,6 +2,8 @@
 title: "Se faire rembourser Windows, c'est possible!"
 date: 1999-01-22
 path: 1999/1/se-faire-rembourser-windows-possible
+summary: "Lorsqu'on achète un PC auprès d'un grand constructeur ou d'un grand distributeur, il arrive en général avec Windows préinstallé, et il s'avérait jusqu'à présent impossible, lorsque l'on souhaite utiliser un autre système d'exploitation, de se faire rembourser le prix du système d'exploitation, alors même que c'est en contradiction avec les termes de la licence Windows (``Si vous êtes en désaccord avec les termes de ce contrat de licence d'utilisateur final, [...] vous devez rapidement contacter le fabricant d'ordinateurs afin d'obtenir les instructions pour le retour contre remboursement du (des) produit(s) non utilisé(s).'')."
+tags: ['Linux']
 ---
 
 <P>

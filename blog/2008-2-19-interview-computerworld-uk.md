@@ -2,6 +2,8 @@
 title: "Interview on ComputerWorld UK"
 date: 2008-02-19
 path: 2008/2/interview-computerworld-uk
+summary: "interviewed by Glyn Moody, one of the best journalists covering open source, for the ComputerWorld UK web site."
+tags: ['Nuxeo']
 ---
 
 <a href="http://www.computerworlduk.com/toolbox/open-source/blogs/index.cfm?entryid=501&amp;blogid=14">interviewed by Glyn Moody</a>, one of the best journalists covering open source, for the ComputerWorld UK web site.<blockquote>

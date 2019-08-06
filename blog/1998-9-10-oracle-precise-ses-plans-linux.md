@@ -2,6 +2,8 @@
 title: "Oracle précise ses plans pour Linux"
 date: 1998-09-10
 path: 1998/9/oracle-precise-ses-plans-linux
+summary: "Oracle continue de s'investir dans le monde Linux en annoncant des partenariats avec 4 sociétés spécialisées dans les logiciels Linux."
+tags: ['Linux']
 ---
 
 <P>

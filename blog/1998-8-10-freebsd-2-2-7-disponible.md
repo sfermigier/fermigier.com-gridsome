@@ -2,6 +2,8 @@
 title: "FreeBSD 2.2.7 disponible"
 date: 1998-08-10
 path: 1998/8/freebsd-2-2-7-disponible
+summary: "FreeBSD 2.2.7 a été annoncé il y a quelques jours."
+tags: ['Misc']
 ---
 
 <P>

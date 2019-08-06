@@ -2,6 +2,8 @@
 title: "Upcoming Release"
 date: 2009-01-30
 path: 2009/1/upcoming-release
+summary: "We&#8217;re still working very hard on the 5.2 M4, which has been delayed one more week and should be ready by the end of this week."
+tags: ['Nuxeo', 'Java']
 ---
 
 <p>We&#8217;re still working very hard on the 5.2 M4, which has been delayed one more week and should be ready by the end of this week.</p><p>Here are a few technical highlights of what&#8217;s coming soon:</p><ul><li><p>The SQL repository will become the default repository in 5.2 (JCR storage will still be supported).</p></li>

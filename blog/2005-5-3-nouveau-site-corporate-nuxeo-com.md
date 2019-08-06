@@ -2,6 +2,8 @@
 title: "Nouveau site \"corporate\" nuxeo.com"
 date: 2005-05-03
 path: 2005/5/nouveau-site-corporate-nuxeo-com
+summary: "Youpi, nous avons un nouveau site."
+tags: ['CPS']
 ---
 
 Youpi, nous avons un <a href="http://www.nuxeo.com/">nouveau site</a>.

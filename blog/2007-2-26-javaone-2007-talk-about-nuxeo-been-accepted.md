@@ -2,6 +2,8 @@
 title: "JavaOne 2007: our talk about Nuxeo has been accepted"
 date: 2007-02-26
 path: 2007/2/javaone-2007-talk-about-nuxeo-been-accepted
+summary: "I&#8217;m very happy (some would say \"ecstatic\" ;) ) to report that our talk proposal for the JavaOne conference has been accepted by the program committee."
+tags: ['Nuxeo', 'Java', 'Eclipse']
 ---
 
 <p>I&#8217;m very happy (some would say "ecstatic" ;) ) to report that our talk proposal for the <a href="http://java.sun.com/javaone/sf/">JavaOne conference</a> has been accepted by the program committee.</p><p>It will be called &#8220;Building an embeddable Enterprise Content Management core&#8221; and will be an in-depth overview of the <a href="http://www.nuxeo.org/sections/projects">Nuxeo 5</a> architecture, as proposed in our abstract:</p><blockquote>

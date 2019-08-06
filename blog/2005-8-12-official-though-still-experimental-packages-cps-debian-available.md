@@ -2,6 +2,8 @@
 title: "\"Official\" (though still experimental) packages of CPS for Debian available"
 date: 2005-08-12
 path: 2005/8/official-though-still-experimental-packages-cps-debian-available
+summary: "Fabio Tranchitella wrote me this morning that Debian packages for CPS were available at his experimental Debian Zope packages web site."
+tags: ['Debian', 'Zope', 'CPS']
 ---
 
 Fabio Tranchitella wrote me this morning that Debian packages for CPS were available at his <a href="http://www.kobold.it/debian/experimental/">experimental Debian Zope

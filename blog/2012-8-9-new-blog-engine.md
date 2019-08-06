@@ -2,6 +2,8 @@
 title: "New blog engine"
 date: 2012-08-09
 path: 2012/8/new-blog-engine
+summary: "This blog has a new blog engine, the fifth one since I've started blogging in 1997."
+tags: ['Nuxeo', 'Python', 'Java', 'CPS']
 ---
 
 This blog has a new blog engine, the fifth one since I've started blogging in 1997.

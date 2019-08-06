@@ -2,6 +2,8 @@
 title: "Linux à l'oeuvre en Rhône-Alpes"
 date: 1998-08-11
 path: 1998/8/linux-oeuvre-rhone-alpes
+summary: "La GUILDE (Groupement des Utilisateurs Linux du Dauphiné) a eu la bonne idée de créer une page recensant des entreprises et administrations rhônes-alpines qui utilisent Linux."
+tags: ['Linux']
 ---
 
 <P>

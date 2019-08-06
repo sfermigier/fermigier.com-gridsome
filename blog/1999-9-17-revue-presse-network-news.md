@@ -2,6 +2,8 @@
 title: "Revue de presse: Network News"
 date: 1999-09-17
 path: 1999/9/revue-presse-network-news
+summary: "Un coup d'oeil dans \"Network News\" numéro 21 du 10 septembre 1999."
+tags: ['Linux', 'Debian', 'Mandrake']
 ---
 
 <P>Un coup d'oeil dans "Network News" numéro 21 du 10 septembre 1999.</P>

@@ -2,6 +2,8 @@
 title: "Video interview shot during the Open World Forum"
 date: 2009-10-27
 path: 2009/10/video-interview-shot-during-open-world-forum
+summary: "Here is a video interview of me shot by TiViPro during the recent Open World Forum un Paris."
+tags: ['Nuxeo', 'Java']
 ---
 
 <p>

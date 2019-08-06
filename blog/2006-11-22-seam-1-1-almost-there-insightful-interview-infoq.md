@@ -2,6 +2,8 @@
 title: "Seam 1.1 almost there + insightful interview on InfoQ"
 date: 2006-11-22
 path: 2006/11/seam-1-1-almost-there-insightful-interview-infoq
+summary: "As everyone should know now, Seam is an important part of our Nuxeo 5 ECM stack."
+tags: ['Nuxeo']
 ---
 
 <p>As everyone should know now, <a href="http://www.jboss.com/products/seam">Seam</a> is an important part of our <a href="http://www.nuxeo.org/">Nuxeo 5</a> ECM stack.</p>

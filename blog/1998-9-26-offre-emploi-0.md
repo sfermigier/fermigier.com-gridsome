@@ -2,6 +2,8 @@
 title: "Offre d'emploi"
 date: 1998-09-26
 path: 1998/9/offre-emploi-0
+summary: "Alcove recherche un développeur Linux connaissant Perl, HTML et si possible WML."
+tags: ['Linux']
 ---
 
 <P>

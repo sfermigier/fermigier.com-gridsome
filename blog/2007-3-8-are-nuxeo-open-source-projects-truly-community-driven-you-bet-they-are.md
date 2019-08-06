@@ -2,6 +2,8 @@
 title: "Are Nuxeo's open source projects truly community-driven? You bet they are!"
 date: 2007-03-08
 path: 2007/3/are-nuxeo-open-source-projects-truly-community-driven-you-bet-they-are
+summary: "Dion Almaer wrote yesterday a blog entry with a list of criteria that, in his opinion, make an open source project truly community-driven (which is, of course, a Good Thing(tm))."
+tags: ['Nuxeo', 'Eclipse']
 ---
 
 <p>Dion Almaer wrote yesterday a <a href="http://www.almaer.com/blog/archives/001412.html">blog entry</a> with a list of criteria that, in his opinion, make an open source project truly <a href="http://www.nuxeo.org/sections/community/">community-driven</a> (which is, of course, a <a href="http://en.wikipedia.org/wiki/Good_thing">Good Thing(tm)</a>). </p><p>I had some apprehension, while reading the blog entry&#8217;s title, because, of course, we <em>want</em> to be community-driven (that&#8217;s one of the criteria BTW), but what if we had forgotten something important?</p><p>Fortunately, the short answer is &#8220;of course we are community-driven&#8221;. With Dion&#8217;s criteria, I can confidently self-grade us at A+ (or 20/20, for french-educated people). Here are the criteria and my comments:</p><blockquote>

@@ -2,6 +2,8 @@
 title: "Discours de Fleur Pellerin sur le logiciel libre"
 date: 2013-06-18
 path: 2013/6/discours-de-fleur-pellerin-sur-le-logiciel-libre
+summary: "Le 13 juin dernier, Fleur Pellerin était invitée à l'inauguration des nouveaux bureaux de Mozilla à Paris, et y a prononcé le discours, très remarqué, suivant : Que vous pouvez également télécharger directement (fichier .m4v, taille: 84Mo)."
+tags: ['Misc']
 ---
 
 Le 13 juin dernier, Fleur Pellerin était invitée à l'inauguration des nouveaux bureaux de Mozilla à Paris, et y a prononcé le discours, très remarqué, suivant :

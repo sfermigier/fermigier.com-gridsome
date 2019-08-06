@@ -2,6 +2,8 @@
 title: "Quelques transparents de Linux Expo"
 date: 1999-06-27
 path: 1999/6/quelques-transparents-linux-expo
+summary: "Quelques transparents de présentations réalisées lors de la Linux Expo à Paris: Développer pour le Web sous Linux avec Perl (Emmanuel Pierre)."
+tags: ['Linux', 'Python']
 ---
 
 <P>Quelques transparents de présentations réalisées lors de la Linux Expo

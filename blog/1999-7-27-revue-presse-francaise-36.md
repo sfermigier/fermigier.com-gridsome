@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-07-27
 path: 1999/7/revue-presse-francaise-36
+summary: "Le mensuel PC Fun de juillet, n°51, 42 F, met Linux en couverture: \"Oublier Windows."
+tags: ['Linux', 'Mandrake']
 ---
 
 <P>Le mensuel <B>PC Fun</B> de juillet, n°51, 42 F, met Linux en couverture:

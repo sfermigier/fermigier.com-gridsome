@@ -2,6 +2,8 @@
 title: "R&D work on the semantic web"
 date: 2009-01-30
 path: 2009/1/r-work-semantic-web
+summary: "Work has started on two large scale R&amp;D projects, financed in part by the French Government and Paris Region (for Scribo), and by the European Commission (for IKS)."
+tags: ['Misc']
 ---
 
 <p>Work has started on two large scale R&amp;D projects, financed in part by the French Government and Paris Region (for Scribo), and by the European Commission (for IKS).</p><ul><li><p>Scribo (<a href="http://www.scribo.ws/xwiki/bin/view/Main/WebHome">http://www.scribo.ws/xwiki/bin/view/Main/WebHome</a>) aims at integrating language and image analysis technologies, as well as ontologies extractions and annotation techniques, into content management systems.

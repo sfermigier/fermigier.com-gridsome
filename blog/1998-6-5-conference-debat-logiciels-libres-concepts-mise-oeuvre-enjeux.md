@@ -2,6 +2,8 @@
 title: "Conference-debat ``logiciels libres : concepts, mise en oeuvre et enjeux''"
 date: 1998-06-05
 path: 1998/6/conference-debat-logiciels-libres-concepts-mise-oeuvre-enjeux
+summary: ""
+tags: ['Misc']
 ---
 
 L'Association pour la Promotion et la Recherche en Informatique Libre

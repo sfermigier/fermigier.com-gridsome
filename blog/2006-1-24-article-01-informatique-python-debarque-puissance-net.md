@@ -2,6 +2,8 @@
 title: "Article dans 01 Informatique: \"Python débarque en puissance sur .Net\""
 date: 2006-01-24
 path: 2006/1/article-01-informatique-python-debarque-puissance-net
+summary: "un papier sur Python."
+tags: ['Python']
 ---
 
 <a href="http://www.01net.com/editorial/302185/developpement/python-debarque-en-puissance-sur-.net/">

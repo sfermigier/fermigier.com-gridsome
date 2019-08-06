@@ -2,6 +2,8 @@
 title: "CPS 3.4.0beta1 released"
 date: 2006-01-24
 path: 2006/1/cps-3-4-0beta1-released
+summary: "announcements for theCPS 3.4.0 beta1 release."
+tags: ['CPS']
 ---
 
 <a href="http://www.cps-project.org/sections/news/cps-3-4-0beta1-released">announcements</a>

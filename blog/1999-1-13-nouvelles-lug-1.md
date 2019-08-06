@@ -2,6 +2,8 @@
 title: "Nouvelles des LUG"
 date: 1999-01-13
 path: 1999/1/nouvelles-lug-1
+summary: "Le 22 janvier, assemblée générale constitutive de l'ABUL (Bordeaux)."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Proposition de stage à la Réunion"
 date: 1999-03-25
 path: 1999/3/proposition-stage-reunion
+summary: "poulot@aide-info.com nous écrit: Nous recherchons un étudiant ayant à effectuer un stage de fin d'année (DESS ou autres) pour une mission de 2 à 4 mois."
+tags: ['Linux']
 ---
 
 <P>

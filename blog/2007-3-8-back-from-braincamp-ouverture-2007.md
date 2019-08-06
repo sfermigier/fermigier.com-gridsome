@@ -2,6 +2,8 @@
 title: "Back from BrainCamp Ouverture 2007"
 date: 2007-03-08
 path: 2007/3/back-from-braincamp-ouverture-2007
+summary: "As some people know already, I have participated in the creation of Ouverture (n&#233; &#8220;Open Source Valley&#8221;), the Competitiveness cluster dedicated to Free and Open Source Software in the Paris area."
+tags: ['Nuxeo', 'Eclipse', 'Mandriva']
 ---
 
 <p>As some people know already, I have participated in the creation of <a href="http://www.ouverture-paris-region.org/xwiki/bin/Main/">Ouverture</a> (n&#233; &#8220;Open Source Valley&#8221;), the Competitiveness cluster dedicated to Free and Open Source Software in the Paris area.</p><p>We are still waiting for the official stamp of the French Government, which will start the operational life of the cluster by bringing Government funding to R&amp;D projects carried out by the cluster&#8217;s members: public research labs, universities and companies. Since there seems to be some, let&#8217;s say &#8220;bureaucratic delays&#8221;, we had decided to start some activities that don&#8217;t depend on the official stamp, namely bringing together all the cluster&#8217;s participants to brainstorm ideas for projects that would be later submitted to the cluster.</p><p>This first event was christened &#8220;<a href="http://www.ouverture-paris-region.org/xwiki/bin/view/Main/BrainCamp0207">BrainCamp 2007</a>&#8221; and happened today at ENSTA, a Parisian engineering school that has been a pionneer in the use of open source software in higher education in France.</p>

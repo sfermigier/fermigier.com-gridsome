@@ -2,6 +2,8 @@
 title: "Revue de presse américaine"
 date: 1998-09-12
 path: 1998/9/revue-presse-americaine
+summary: "Quelques articles particulièrement positifs et publiés dans des media américains importants: Linux: The Back Door Is Open, ZDNN, 11 spet 1998."
+tags: ['Linux']
 ---
 
 <P>

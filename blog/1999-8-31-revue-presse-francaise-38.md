@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-08-31
 path: 1999/8/revue-presse-francaise-38
+summary: "Décision Micro n°391 du 30/08/1999: Interview de Richard Stallman."
+tags: ['Linux', 'GNU']
 ---
 
 <P><B>Décision Micro</B> n°391 du 30/08/1999: Interview de Richard Stallman.

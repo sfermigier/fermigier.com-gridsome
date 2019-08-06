@@ -2,6 +2,8 @@
 title: "Revue de presse française: Linux Magazine France n. 4"
 date: 1999-03-04
 path: 1999/3/revue-presse-francaise-linux-magazine-france-n-4
+summary: "Le numéro 4 de \"Linux Magazine France\" est déjà en kiosque."
+tags: ['Linux']
 ---
 
 <P>Le numéro 4 de "Linux Magazine France" est déjà en kiosque!

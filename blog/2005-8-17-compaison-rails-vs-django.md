@@ -2,6 +2,8 @@
 title: "Compaison Rails vs. Django"
 date: 2005-08-17
 path: 2005/8/compaison-rails-vs-django
+summary: "Rails est un framework web MVC pour le langage Ruby qui connait une certaine popularit&#233; en ce moment."
+tags: ['Python', 'Zope']
 ---
 
 <a href="http://www.rubyonrails.org/">Rails</a> est un framework web MVC

@@ -2,6 +2,8 @@
 title: "Revue de presse"
 date: 1998-08-03
 path: 1998/8/revue-presse-6
+summary: "Will Ballmer take the fall when Linux supplants Windows NT 5.0?, Nicholas Petreley, Infoworld, 27 juillet 1998."
+tags: ['Linux', 'Java']
 ---
 
 <UL>

@@ -2,6 +2,8 @@
 title: "Revue de presse française"
 date: 1998-08-23
 path: 1998/8/revue-presse-francaise-7
+summary: "Micro Hebdo: Après l'article général de présentation de Linux dans son numéro 12, l'hebdomadaire Micro Hebdo n°17-18 du 13 au 26 août, 9,50 F, parle à nouveau de Linux dans sa rubrique \"Ca vient de sortir\" sous le titre \"Dans les méandres de Linux\"."
+tags: ['Linux']
 ---
 
 <UL>

@@ -2,6 +2,8 @@
 title: "Journées \"logiciel libre\" à Lyon"
 date: 1998-06-05
 path: 1998/6/journees-logiciel-libre-lyon
+summary: "Les 26 et 27 juin, Jean-Charles Delépine et Thierry Dumont organisent des Journées du Logiciel Libre à la faculté de la DOUA (LYON I)."
+tags: ['Linux']
 ---
 
 <P>

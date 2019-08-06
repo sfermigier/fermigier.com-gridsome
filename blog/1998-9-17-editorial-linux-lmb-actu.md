@@ -2,6 +2,8 @@
 title: "Editorial sur Linux dans LMB Actu"
 date: 1998-09-17
 path: 1998/9/editorial-linux-lmb-actu
+summary: "La toujours excellente liste de diffusion LMB Actu a un éditorial sur Linux cette semaine: Le 30 avril dernier, dans LMB Actu 107, nous avancions qu'Intel contribuerait au portage de Linux sur son prochain processeur 64 bits Merced, dont la sortie n'est pas prévue avant début 2000."
+tags: ['Linux']
 ---
 
 <P>

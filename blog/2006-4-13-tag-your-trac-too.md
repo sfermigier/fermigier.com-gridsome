@@ -2,6 +2,8 @@
 title: "Tag your Trac too!"
 date: 2006-04-13
 path: 2006/4/tag-your-trac-too
+summary: "As you already know, I have started two weeks ago tagging (and asking others to tag) their CPS sites on del.icio.us with the tag \"cps-site\"."
+tags: ['Python', 'CPS']
 ---
 
 <p>

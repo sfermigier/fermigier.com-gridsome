@@ -2,6 +2,8 @@
 title: "Why you should come to Nuxeo World next November"
 date: 2010-07-21
 path: 2010/7/why-you-should-come-nuxeo-world-next-november
+summary: "Here's a short movie I made recently to give you an idea of what you should expect from Nuxeo World 2010 that will take place in Paris on November 17-18."
+tags: ['Nuxeo']
 ---
 
 <p>Here's a short movie I made recently to give you an idea of what you should expect from Nuxeo World 2010 that will take place in Paris on November 17-18.</p><p><embed src="http://blip.tv/play/g5Vpge7IQQA" type="application/x-shockwave-flash" width="470" height="313" allowscriptaccess="always" allowfullscreen="true"></embed></p>

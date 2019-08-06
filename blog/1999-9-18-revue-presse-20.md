@@ -2,6 +2,8 @@
 title: "Revue de presse"
 date: 1999-09-18
 path: 1999/9/revue-presse-20
+summary: "Le quotidien Libération de vendredi 17 septembre, 7 F, annonce la Linux Demo."
+tags: ['Linux']
 ---
 
 <P>Le quotidien <B>Libération</B> de vendredi 17 septembre, 7 F, annonce la

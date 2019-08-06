@@ -2,6 +2,8 @@
 title: "Netscape libère les sources de Navigator 5.0"
 date: 1998-01-01
 path: 1998/1/netscape-libere-sources-navigator-5-0
+summary: "Je viens d'apprendre (via l'excellent slashdot.org) que Netscape avait décidé de rendre publiques d'ici quelques mois les sources du futur Navigator 5.0, avec une licence inspirée de la GPL."
+tags: ['Misc']
 ---
 
 <P>Je viens d'apprendre (via l'excellent

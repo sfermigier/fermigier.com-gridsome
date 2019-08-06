@@ -2,6 +2,8 @@
 title: "Some Zope 3 Quick Starts and Resources"
 date: 2005-10-11
 path: 2005/10/some-zope-3-quick-starts-resources
+summary: "reminder for several introductory documents and tutorials about Zope 3."
+tags: ['Nuxeo', 'Zope']
 ---
 
 <a href="http://griddlenoise.blogspot.com/2005/10/some-zope-3-quick-starts-and-resources.html">

@@ -2,6 +2,8 @@
 title: "Encore des nouvelles des LUG"
 date: 1998-12-08
 path: 1998/12/encore-nouvelles-lug
+summary: "1) ``Un LUG (GULLIVER, pour Groupe des Utilisateurs de Linux et des Logiciels Libres en Ille et Vilaine et dans les environs de Rennes) a récemment été créé."
+tags: ['Linux']
 ---
 
 <P>

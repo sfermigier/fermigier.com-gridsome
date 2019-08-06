@@ -2,6 +2,8 @@
 title: "Revue de presse: La Tribune"
 date: 1998-09-11
 path: 1998/9/revue-presse-tribune
+summary: "Le très sérieux quotidien économique La Tribune consacrait hier un important (et très bien fait) dossier aux logiciels libres: Les logiciels libres passent la porte de l'entreprise."
+tags: ['Linux']
 ---
 
 <P>

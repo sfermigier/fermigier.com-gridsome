@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-09-11
 path: 1999/9/revue-presse-francaise-39
+summary: "Le magazine L'Expansion du 9 au 23 septembre, n°604 , 20 F, consacre un article d'une page à l'AFUL."
+tags: ['Linux', 'GNU', 'Mandrake']
 ---
 
 <P>Le magazine <B>L'Expansion</B> du 9 au 23 septembre, n°604 , 20 F, consacre

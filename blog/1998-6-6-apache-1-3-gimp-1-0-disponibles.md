@@ -2,6 +2,8 @@
 title: "Apache 1.3 et GIMP 1.0 disponibles"
 date: 1998-06-06
 path: 1998/6/apache-1-3-gimp-1-0-disponibles
+summary: "La version 1.0 du logiciel de retouche d'image et de création graphique GIMP vient d'être annoncée par l'équipe de développement qui la qualifie d'``extrêmement stable et fiable''."
+tags: ['Linux']
 ---
 
 <P>

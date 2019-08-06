@@ -2,6 +2,8 @@
 title: "Lionel Jospin et les logiciels libres"
 date: 1999-03-18
 path: 1999/3/lionel-jospin-logiciels-libres
+summary: "Au cours de la conférence de lancement de la Fête de l'Internet, le premier ministre, Lionel Jospin, a fait aujourd'hui le point sur la situation de l'Internet en France."
+tags: ['Misc']
 ---
 
 <P>

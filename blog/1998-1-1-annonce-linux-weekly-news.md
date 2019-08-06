@@ -2,6 +2,8 @@
 title: "Annonce de Linux Weekly News"
 date: 1998-01-01
 path: 1998/1/annonce-linux-weekly-news
+summary: "Linux Weekly News est un hebdomadaire Web sur Linux, dont les deux premiers numéros me semblent excellents."
+tags: ['Linux', 'Debian']
 ---
 
 <EM>Linux Weekly News</EM> est un hebdomadaire Web sur Linux, dont les

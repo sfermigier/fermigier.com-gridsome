@@ -2,6 +2,8 @@
 title: "Revue de presse"
 date: 1999-08-03
 path: 1999/8/revue-presse-18
+summary: "Le magazine Contact des adhérents de la FNAC de juillet-août, n°353, consacre 3 pages aux logiciels libres dans son dossier sur la gratuité dans le multimédia."
+tags: ['Linux', 'GNU', 'Debian', 'Mandrake']
 ---
 
 <P>Le magazine <B>Contact</B> des adhérents de la FNAC de juillet-août,

@@ -2,6 +2,8 @@
 title: "Linux parties à Strasbourg et Grenoble"
 date: 1998-05-22
 path: 1998/5/linux-parties-strasbourg-grenoble
+summary: "Il y aura une Journée de présentations Unix et Logiciel Libres à Strasbourg le 28 mai 1998, organisée par le LUG de Strasbourg, ``flammekueche connection''."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "glibc 2.1 et KDE 1.1 disponibles + nouvelles distribs"
 date: 1999-02-09
 path: 1999/2/glibc-2-1-kde-1-1-disponibles-nouvelles-distribs
+summary: "Une nouvelle version de la librairie C GNU, un élément clef de tout système Linux, vient d'être annoncée."
+tags: ['Linux', 'GNU']
 ---
 
 <P>

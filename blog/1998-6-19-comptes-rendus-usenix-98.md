@@ -2,6 +2,8 @@
 title: "Comptes-rendus de USENIX 98"
 date: 1998-06-19
 path: 1998/6/comptes-rendus-usenix-98
+summary: "Linux Weekly News vient de poster des compte-rendus du congrès USENIX 98 (à la Nouvelles Orléans) qui faisait la part belle aux Unix libres: 17 juin."
+tags: ['Linux']
 ---
 
 <P>

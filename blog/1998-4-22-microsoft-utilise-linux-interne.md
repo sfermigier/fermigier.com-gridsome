@@ -2,6 +2,8 @@
 title: "Microsoft utilise Linux en interne!"
 date: 1998-04-22
 path: 1998/4/microsoft-utilise-linux-interne
+summary: "``Chapman agrees with Dawson that one of the best-kept secrets here at the home of DOS and Windows is the widespread use of UNIX by a variety of developers in a variety of circumstances."
+tags: ['Linux']
 ---
 
 <P>

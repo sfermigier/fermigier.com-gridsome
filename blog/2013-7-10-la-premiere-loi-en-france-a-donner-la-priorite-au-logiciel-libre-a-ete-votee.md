@@ -2,6 +2,8 @@
 title: "La première loi en France à donner la priorité au logiciel libre a été votée"
 date: 2013-07-10
 path: 2013/7/la-premiere-loi-en-france-a-donner-la-priorite-au-logiciel-libre-a-ete-votee
+summary: "Le Parlement a voté hier la loi \"ESR\" (Enseignement Supérieur et Recherche) dont l'article 9 indique qu'une priorité sera donnée au logiciel libre: Le service public de l'enseignement supérieur met à disposition de ses usagers des services et des ressources pédagogiques numériques."
+tags: ['Misc']
 ---
 
 Le Parlement a voté hier la loi "ESR" (Enseignement Supérieur et Recherche) dont l'article 9 indique qu'une priorité sera donnée au logiciel libre:

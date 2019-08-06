@@ -2,6 +2,8 @@
 title: "Appel pour un groupe de travail sur l'ergonomie de GNOME "
 date: 1999-08-02
 path: 1999/8/appel-groupe-travail-ergonomie-gnome
+summary: "Dans un message posté le 1er août, Miguel de Icaza appelle les utilisateurs de GNOME à former une équipe qui pourrait donner des avis pour rendre GNOME plus simple, plus cohérent, plus intuitif et mieux documenté."
+tags: ['Misc']
 ---
 
 <P>Dans un <A HREF="http://www.linux-center.org/articles/9908/gnome-crit.txt">message

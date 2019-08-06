@@ -2,6 +2,8 @@
 title: "Nouveaux articles sur Linux Center"
 date: 1998-12-07
 path: 1998/12/nouveaux-articles-linux-center
+summary: "Stéphane Alnet m'a fait parvenir une traduction (non officielle) en français de l'article récemment paru dans SAP Mag au sujet du portage de SAP R/3 sous Linux."
+tags: ['Linux', 'Python']
 ---
 
 <P>

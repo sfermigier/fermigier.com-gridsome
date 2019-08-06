@@ -2,6 +2,8 @@
 title: "La mailing list \"libre\" fête son centième adhérent."
 date: 1998-03-25
 path: 1998/3/mailing-list-libre-fete-centieme-adherent
+summary: "La liste de diffusion \"libre\" réunit les personnes intéressées par les actions concernant les solutions logicielles libres en général et Linux en particulier."
+tags: ['Linux']
 ---
 
 La liste de diffusion "libre" réunit les

@@ -2,6 +2,8 @@
 title: "De nouvelles entreprises rejoignent Linux"
 date: 1998-05-02
 path: 1998/5/nouvelles-entreprises-rejoignent-linux
+summary: "Quelques annonces récentes: Sun Microsystems rejoint Linux International."
+tags: ['Linux']
 ---
 
 <P>

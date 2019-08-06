@@ -2,6 +2,8 @@
 title: "JBoss World Berlin 2006 slides on SlideShare"
 date: 2007-01-13
 path: 2007/1/jboss-world-berlin-2006-slides-slideshare
+summary: ""
+tags: ['Nuxeo']
 ---
 
 <p>I have recently published the slides for Nuxeo&#8217;s presentations at JBoss World Berlin on Slideshare, </p>

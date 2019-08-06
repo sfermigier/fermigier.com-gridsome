@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-03-29
 path: 1999/3/revue-presse-francaise-24
+summary: "La Lettre Informatique et Collectivités Locales publiait la semaine dans son numéro 308 un article intitulé ``Linux et les logiciels libres : des solutions pour les collectivités locales'', que nous republions ici avec l'aimable autorisation de l'éditeur."
+tags: ['Linux']
 ---
 
 <P>

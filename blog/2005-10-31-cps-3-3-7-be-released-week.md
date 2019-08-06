@@ -2,6 +2,8 @@
 title: "CPS 3.3.7 to be released this week"
 date: 2005-10-31
 path: 2005/10/cps-3-3-7-be-released-week
+summary: "http://svn.nuxeo.org/trac/pub/ticket/1029 It won't include Jean-Marc Orliaguet's work on \"boxless setup\" (rendering based only on portlets) which is still a bit instable and should wait for theCMFSetup Geddon."
+tags: ['CPS']
 ---
 
 <a class="moz-txt-link-freetext" href="http://svn.nuxeo.org/trac/pub/ticket/1029">http://svn.nuxeo.org/trac/pub/ticket/1029</a>

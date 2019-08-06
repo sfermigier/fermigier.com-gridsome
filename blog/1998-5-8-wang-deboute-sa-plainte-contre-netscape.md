@@ -2,6 +2,8 @@
 title: "Wang débouté dans sa plainte contre Netscape"
 date: 1998-05-08
 path: 1998/5/wang-deboute-sa-plainte-contre-netscape
+summary: "Wang a récemment essayé de soutirer de l'argent à Netscape en prétendant que les boîtes de dialogues ``Save As'' et les Bookmarks (signets) étaient protégés par un brevet datant de 1985."
+tags: ['Misc']
 ---
 
 <P>

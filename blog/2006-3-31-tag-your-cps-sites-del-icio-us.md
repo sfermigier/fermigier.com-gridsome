@@ -2,6 +2,8 @@
 title: "Tag your CPS sites on del.icio.us"
 date: 2006-03-31
 path: 2006/3/tag-your-cps-sites-del-icio-us
+summary: "Yesterday, following a suggestion of Tarek, we have started tagging public (internet) websites developped with CPS on del.icio.us with the tag cps-site."
+tags: ['CPS']
 ---
 
 

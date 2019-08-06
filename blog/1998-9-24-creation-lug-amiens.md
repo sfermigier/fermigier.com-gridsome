@@ -2,6 +2,8 @@
 title: "Création d'un LUG à Amiens"
 date: 1998-09-24
 path: 1998/9/creation-lug-amiens
+summary: "C'est le début du commencement d'un lancement d'une éventuelle Linux-Party à Amiens (le 10 octobre 1998): Thomas Noël vient de créer un LUG pour regrouper les utilisateurs de Linux de la Picardie."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Two new releases this week, one more coming up next week"
 date: 2010-07-22
 path: 2010/7/two-new-releases-week-one-more-coming-up-next-week
+summary: "There's nothing I like more in this business that a successful software or customer project launch."
+tags: ['Nuxeo']
 ---
 
 <p>There's nothing I like more in this business that a successful software or customer project launch.</p>

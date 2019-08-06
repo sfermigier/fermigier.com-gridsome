@@ -2,6 +2,8 @@
 title: "Articles du Monde en ligne"
 date: 1998-09-29
 path: 1998/9/articles-monde-ligne
+summary: "Les excellents articles du Monde sont maintenant en ligne: Linux, agitateur informatique depuis 1991."
+tags: ['Linux']
 ---
 
 <P>

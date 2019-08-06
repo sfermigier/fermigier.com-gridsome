@@ -2,6 +2,8 @@
 title: "Revue de presse"
 date: 1998-08-05
 path: 1998/8/revue-presse-8
+summary: "As It Catches On, Linux To Get Graphical Face-Lift, Computer Reseller News, 27 juillet 1998."
+tags: ['Linux']
 ---
 
 <UL>

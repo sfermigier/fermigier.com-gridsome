@@ -2,6 +2,8 @@
 title: "Sprint wrapup"
 date: 2005-06-26
 path: 2005/6/sprint-wrapup
+summary: "Jean-Marc Orliaguet: has ported (in fact totally rewrote) CPSSkins for Zope3."
+tags: ['Python', 'Zope', 'Java', 'CPS']
 ---
 
 <br><p><strong>Jean-Marc Orliaguet</strong>: has ported (in fact totally rewrote) <a href="http://www.medic.chalmers.se/%7Ejmo/CPS/">CPSSkins</a> for Zope3. The

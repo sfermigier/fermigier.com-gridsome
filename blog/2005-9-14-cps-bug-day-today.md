@@ -2,6 +2,8 @@
 title: "CPS Bug Day today !"
 date: 2005-09-14
 path: 2005/9/cps-bug-day-today
+summary: "As anounced in the mailing lists, but not on this blog, today is the first \"CPS Bug Day\"."
+tags: ['CPS']
 ---
 
 As anounced in the <a href="http://lists.nuxeo.com/">mailing lists</a>, but not on this blog, today is the first "CPS Bug Day".

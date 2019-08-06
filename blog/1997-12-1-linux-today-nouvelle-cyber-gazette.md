@@ -2,6 +2,8 @@
 title: "Linux Today, une nouvelle cyber-gazette"
 date: 1997-12-01
 path: 1997/12/linux-today-nouvelle-cyber-gazette
+summary: "Linux Today est un magazine Web bimensuel en anglais qui vient de se créer."
+tags: ['Linux']
 ---
 
 <P>

@@ -2,6 +2,8 @@
 title: "Mise à jour 2015 du Manuel de Frascati"
 date: 2016-01-06
 path: 2016/1/mise-a-jour-2015-du-manuel-de-frascati
+summary: "Publié par l'OCDE, le manuel de Frascati est une référence méthodologique internationale pour les études statistiques des activités de recherche et développement (R&amp;D)."
+tags: ['Misc']
 ---
 
 Publié par l'OCDE, le manuel de Frascati est une référence méthodologique internationale pour les études statistiques des activités de recherche et développement (R&D). Il standardise la façon dont les gouvernements recueillent l'information sur les investissements en recherche et développement (R&D). Ce Manuel traite exclusivement de la mesure des ressources humaines et financières consacrées à la recherche et au développement expérimental (R&D) souvent qualifiées « d’intrants » de la R&D.

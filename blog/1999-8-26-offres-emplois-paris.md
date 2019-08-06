@@ -2,6 +2,8 @@
 title: "Offres d'emplois a Paris"
 date: 1999-08-26
 path: 1999/8/offres-emplois-paris
+summary: "[Message transmis par Jacques Lemarois.] Mandrakesoft recrute."
+tags: ['Linux', 'Python', 'Debian', 'Mandrake']
 ---
 
 <P>[Message transmis par <A HREF="mailto:lemarois@mandrakesoft.com">Jacques Lemarois</A>.]</P>

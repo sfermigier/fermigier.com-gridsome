@@ -2,6 +2,8 @@
 title: "Revue de presse française"
 date: 1998-11-07
 path: 1998/11/revue-presse-francaise-1
+summary: "Quelques articles intéressants m'ont échappé hier: Dans L'express de cette semaine (no 2470), une pleine page sur Linux intitulée Le poil à gratter de Microsoft."
+tags: ['Linux']
 ---
 
 <P>

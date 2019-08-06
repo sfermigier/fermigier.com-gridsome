@@ -2,6 +2,8 @@
 title: "Linux sauve le Titanic"
 date: 1998-01-01
 path: 1998/1/linux-sauve-titanic
+summary: "On apprend dans cette article du Linux Journal comment les effet spéciaux du film de James Cameron Titanic ont été réalisé grace à une ``ferme'' de 160 DEC Alpha sous Linux."
+tags: ['Linux']
 ---
 
 <P>

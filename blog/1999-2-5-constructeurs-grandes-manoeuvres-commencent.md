@@ -2,6 +2,8 @@
 title: "Constructeurs: les grandes manoeuvres commencent"
 date: 1999-02-05
 path: 1999/2/constructeurs-grandes-manoeuvres-commencent
+summary: "Quelques nouvelles parmi d'autres: HP a l'intention de porter Linux sur l'architecture IA64 (Merced) qu'elle développe avec Intel et de supporter Linux à la fois sur architectures Pentium et IA64."
+tags: ['Linux']
 ---
 
 <P>

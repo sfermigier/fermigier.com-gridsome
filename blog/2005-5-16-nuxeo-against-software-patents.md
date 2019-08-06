@@ -2,6 +2,8 @@
 title: "Nuxeo against software patents"
 date: 2005-05-16
 path: 2005/5/nuxeo-against-software-patents
+summary: "Here is a text that I&#39;ve just written in support of the latest campaign against software patents in europe."
+tags: ['Nuxeo']
 ---
 
 Here is a text that I&#39;ve just written in support of the latest <a href="http://www.economic-majority.com/">campaign against software patents in europe</a>.

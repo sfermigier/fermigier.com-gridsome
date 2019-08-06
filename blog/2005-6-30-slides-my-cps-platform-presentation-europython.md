@@ -2,6 +2,8 @@
 title: "Slides for my CPS Platform presentation at EuroPython"
 date: 2005-06-30
 path: 2005/6/slides-my-cps-platform-presentation-europython
+summary: "My slides are now online."
+tags: ['Zope', 'CPS']
 ---
 
 <a href="http://www.nuxeo.com/publications/slides/cps-plateform-an-open/downloadFile/file/cps-ep2005-5.pdf">

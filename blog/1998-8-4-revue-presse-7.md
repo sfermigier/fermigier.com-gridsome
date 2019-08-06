@@ -2,6 +2,8 @@
 title: "Revue de presse"
 date: 1998-08-04
 path: 1998/8/revue-presse-7
+summary: "La Linux Gazette No 31 vient de paraître, avec en particulier un très bon article d'Eric Raymond intitulé Open Source's First Six Months et un essai de la Debian 2.0."
+tags: ['Linux', 'Debian']
 ---
 
 <UL>

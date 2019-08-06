@@ -2,6 +2,8 @@
 title: "Le MIT organise un concours de programmation"
 date: 1998-07-21
 path: 1998/7/mit-organise-concours-programmation
+summary: "Le laboratoire de programmation fonctionelle du MIT organise, dans le cadre de la conférence ICFP, un concours de programmation ouvert à tous via l'Internet."
+tags: ['Linux']
 ---
 
 <P>

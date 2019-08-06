@@ -2,6 +2,8 @@
 title: "Revue de presse francaise"
 date: 1999-06-07
 path: 1999/6/revue-presse-francaise-34
+summary: "Dans Windows NT Mag (juin 99 / N26), page 58, ``Linux et les entreprises'', un comparatif NT / Linux."
+tags: ['Linux', 'Debian']
 ---
 
 <P>

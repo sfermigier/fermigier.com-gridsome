@@ -2,6 +2,8 @@
 title: "Le magazine Programmez! est en kiosques"
 date: 1998-05-08
 path: 1998/5/magazine-programmez-kiosques
+summary: "Le magazine Programmez."
+tags: ['Linux', 'Java']
 ---
 
 <P>

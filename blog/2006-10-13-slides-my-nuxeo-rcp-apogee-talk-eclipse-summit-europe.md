@@ -2,6 +2,8 @@
 title: "Slides for my Nuxeo RCP and Apogee talk at the Eclipse Summit Europe"
 date: 2006-10-13
 path: 2006/10/slides-my-nuxeo-rcp-apogee-talk-eclipse-summit-europe
+summary: "I&#8217;m just coming back from the Eclipse Summit Europe 2006 which was a great conference (more reports on this blog later)."
+tags: ['Nuxeo', 'Eclipse']
 ---
 
 I&#8217;m just coming back from the <a href="http://www.eclipsecon.org/summiteurope2006/">Eclipse Summit Europe 2006</a> which was a great conference (more reports on this blog later).

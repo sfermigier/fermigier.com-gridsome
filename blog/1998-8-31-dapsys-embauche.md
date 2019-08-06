@@ -2,6 +2,8 @@
 title: "Dapsys embauche"
 date: 1998-08-31
 path: 1998/8/dapsys-embauche
+summary: "Profil du candidat: Formation: Scientifique (Ingenieur ou universitaire)."
+tags: ['Java']
 ---
 
 <P>

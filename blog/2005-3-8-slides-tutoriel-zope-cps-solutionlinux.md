@@ -2,6 +2,8 @@
 title: "Slides tutoriel Zope/CPS @SolutionLinux"
 date: 2005-03-08
 path: 2005/3/slides-tutoriel-zope-cps-solutionlinux
+summary: "Voici mes slides."
+tags: ['Zope']
 ---
 
 Voici <a href="http://blogs.nuxeo.com/sections/blogs/fermigier/2005_02_04_slides_tutoriel_zope_cps/downloadFile/attachedFile/sl2005.sxi">

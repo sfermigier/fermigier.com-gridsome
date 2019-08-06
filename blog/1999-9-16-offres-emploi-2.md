@@ -2,6 +2,8 @@
 title: "Offres d'emploi"
 date: 1999-09-16
 path: 1999/9/offres-emploi-2
+summary: "Christophe Le Bars nous écrit: Depuis sa création en 1996, Alcôve (www.alcove.fr) s'est imposée comme leader français de l'informatique libre."
+tags: ['Misc']
 ---
 
 <P>

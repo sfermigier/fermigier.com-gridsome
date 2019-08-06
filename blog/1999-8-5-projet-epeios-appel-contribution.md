@@ -2,6 +2,8 @@
 title: "Projet Epeios: Appel à contribution"
 date: 1999-08-05
 path: 1999/8/projet-epeios-appel-contribution
+summary: "Le projet Epeios, proposant un ensemble de librairies et de logiciels sous licence GNU GPL, est en pleine phase d'expansion."
+tags: ['GNU']
 ---
 
 <P>Le projet <A HREF="http://www.epeios.org/">Epeios</A>, proposant un

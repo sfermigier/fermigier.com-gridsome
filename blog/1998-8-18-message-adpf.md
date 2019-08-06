@@ -2,6 +2,8 @@
 title: "Message de l'ADPF"
 date: 1998-08-18
 path: 1998/8/message-adpf
+summary: "Alain Bétut, président de l'ADPF (Association Des Programmeurs Francophones), qui organise notamment la JavaCup (concours international de programmation Java), me signale que son association travaille actuellement sur un projet de CD-ROM de sources et d'outils de programmation."
+tags: ['Java']
 ---
 
 <P>

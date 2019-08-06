@@ -2,6 +2,8 @@
 title: "Digital: l'intox"
 date: 1998-03-29
 path: 1998/3/digital-intox
+summary: "Digital lance une campagne sur le thème ``c'est nous qu'on a fait le film Titanic'': Oscar Winner Titanic's Special Effects Dramatize Sizzle of Alpha Power for Business Computing et DIGITAL AlphaServer: Titanic the Movie."
+tags: ['Linux']
 ---
 
 <P>Digital lance une campagne sur le thème ``c'est nous qu'on a fait le
