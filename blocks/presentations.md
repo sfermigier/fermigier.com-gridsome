@@ -84,15 +84,15 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### November
 
-*   "Nuxeo, an open source platform for content-centric business applications", OW2Con 2011, Paris. (With Laurent Doguin.) [[PDF](/assets/pdf/nuxeo-ow2-2011.pdf), [SlideShare](http://www.slideshare.net/sfermigier/nuxeo-an-open-source-platform-for-contentcentric-business-applications)].
+*   "Nuxeo, an open source platform for content-centric business applications", OW2Con 2011, Paris. (With Laurent Doguin.) [[PDF](/assets/pdf/nuxeo-ow2-2011.pdf), [SlideShare](https://www.slideshare.net/sfermigier/nuxeo-an-open-source-platform-for-contentcentric-business-applications)].
 
 ### October
 
-* "[Nuxeo on the Cloud](http://www.slideshare.net/sfermigier/nuxeo-on-the-cloud-nuxeo-world-2011)", Nuxeo World 2011, Paris. (With Nicolas Barcet.) [[PDF](/assets/pdf/cloud-nxw2011.pdf), [SlideShare](http://www.slideshare.net/sfermigier/nuxeo-on-the-cloud-nuxeo-world-2011)].
+* "[Nuxeo on the Cloud](https://www.slideshare.net/sfermigier/nuxeo-on-the-cloud-nuxeo-world-2011)", Nuxeo World 2011, Paris. (With Nicolas Barcet.) [[PDF](/assets/pdf/cloud-nxw2011.pdf), [SlideShare](https://www.slideshare.net/sfermigier/nuxeo-on-the-cloud-nuxeo-world-2011)].
 
-* "[When ECM Meets the Semantic Web](http://www.slideshare.net/sfermigier/ecm-meets-the-semantic-web-nuxeo-world-2011)", Nuxeo World 2011, Paris. (With Olivier Grisel.) [[PDF](/assets/pdf/semantic-ecm-nxw2011.pdf), [SlideShare](http://www.slideshare.net/sfermigier/ecm-meets-the-semantic-web-nuxeo-world-2011)].
+* "[When ECM Meets the Semantic Web](https://www.slideshare.net/sfermigier/ecm-meets-the-semantic-web-nuxeo-world-2011)", Nuxeo World 2011, Paris. (With Olivier Grisel.) [[PDF](/assets/pdf/semantic-ecm-nxw2011.pdf), [SlideShare](https://www.slideshare.net/sfermigier/ecm-meets-the-semantic-web-nuxeo-world-2011)].
 
-* "Introduction à la GED et à l’ECM", Lecture at EPITA engineering school, Paris. [[PDF](/assets/pdf/cours-ecm-epita-2011.pdf), [SlideShare](http://www.slideshare.net/sfermigier/cours-ecm-lepita)].
+* "Introduction à la GED et à l’ECM", Lecture at EPITA engineering school, Paris. [[PDF](/assets/pdf/cours-ecm-epita-2011.pdf), [SlideShare](https://www.slideshare.net/sfermigier/cours-ecm-lepita)].
 
 ### September
 
@@ -100,9 +100,9 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### June
 
-* "Sommes-nous entrés dans l’ère du “Post-PC”?", Convention Systematic 2011, Paris. [[SlideShare](http://www.slideshare.net/sfermigier/gt-logiciel-libre-convention-systematic-2011)].
+* "Sommes-nous entrés dans l’ère du “Post-PC”?", Convention Systematic 2011, Paris. [[SlideShare](https://www.slideshare.net/sfermigier/gt-logiciel-libre-convention-systematic-2011)].
 
-* "Challenges du recrutement pour un éditeur de logiciel libre", réunion PLOSS, Paris. [[SlideShare](http://www.slideshare.net/sfermigier/challenges-du-recrutement-pour-un-editeur-de-logiciel-libre)]
+* "Challenges du recrutement pour un éditeur de logiciel libre", réunion PLOSS, Paris. [[SlideShare](https://www.slideshare.net/sfermigier/challenges-du-recrutement-pour-un-editeur-de-logiciel-libre)]
 
 ### May
 
@@ -116,7 +116,7 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### February
 
-* "[Nuxeo at 10](http://www.slideshare.net/sfermigier/nuxeo-at-10)", lecture à Evry University. [[PDF](/assets/pdf/nuxeo-10years.pdf), [SlideShare](http://www.slideshare.net/sfermigier/nuxeo-at-10)].
+* "[Nuxeo at 10](https://www.slideshare.net/sfermigier/nuxeo-at-10)", lecture à Evry University. [[PDF](/assets/pdf/nuxeo-10years.pdf), [SlideShare](https://www.slideshare.net/sfermigier/nuxeo-at-10)].
 
 ### January
 
@@ -126,23 +126,23 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### December
 
-* "Lessons Learned Building Nuxeo EP", ICSSEA 2010, Paris. [[PDF](/assets/pdf/icssea2010.pdf), [SlideShare](http://www.slideshare.net/nuxeo/lessons-learned-building-nuxeo-ep-componentbase-open-source-ecm-platform)]
+* "Lessons Learned Building Nuxeo EP", ICSSEA 2010, Paris. [[PDF](/assets/pdf/icssea2010.pdf), [SlideShare](https://www.slideshare.net/nuxeo/lessons-learned-building-nuxeo-ep-componentbase-open-source-ecm-platform)]
 
 ### November
 
 * "Semantic ECM @ Nuxeo - A progress report", Semantic Co-Lab, Paris. With Olivier Grisel.
 
-* "Mobile ECM Apps with Nuxeo EP - An experience report", Nuxeo World 2010, Paris. [[SlideShare](http://www.slideshare.net/nuxeo/mobile-5861167)].
+* "Mobile ECM Apps with Nuxeo EP - An experience report", Nuxeo World 2010, Paris. [[SlideShare](https://www.slideshare.net/nuxeo/mobile-5861167)].
 
-* "Towards semantic ECM: report on the IKS and Scribo projects", Nuxeo World 2010, Paris. (With Olivier Grisel.) [[SlideShare](http://www.slideshare.net/nuxeo/semantic-technologies-update-on-recent-research)].
+* "Towards semantic ECM: report on the IKS and Scribo projects", Nuxeo World 2010, Paris. (With Olivier Grisel.) [[SlideShare](https://www.slideshare.net/nuxeo/semantic-technologies-update-on-recent-research)].
 
 ### June
 
-*   "Le Marché du Logiciel Libre en France en 2010", Convention Systematic 2010, Paris. [[SlideShare](http://www.slideshare.net/sfermigier/le-marche-du-logiciel-libre-en-france-en-2010)].
+*   "Le Marché du Logiciel Libre en France en 2010", Convention Systematic 2010, Paris. [[SlideShare](https://www.slideshare.net/sfermigier/le-marche-du-logiciel-libre-en-france-en-2010)].
 
 ### May
 
-*   "Open Cloud @ GT LL - Pour un cloud ouvert et interopérable", Paris. [[SlideShare](http://www.slideshare.net/sfermigier/open-cloud-computing-gtll)].
+*   "Open Cloud @ GT LL - Pour un cloud ouvert et interopérable", Paris. [[SlideShare](https://www.slideshare.net/sfermigier/open-cloud-computing-gtll)].
 
 ### Mars
 
@@ -152,13 +152,13 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### October
 
-* "A Quick Tour of JVM Languages", [Open World Forum](http://www.openworldforum.org/) 2009, Paris. [[PDF](/assets/pdf/jvm-languages-owf2009.pdf), [SlideShare](http://www.slideshare.net/sfermigier/a-quick-tour-of-jvm-languages)].
+* "A Quick Tour of JVM Languages", [Open World Forum](http://www.openworldforum.org/) 2009, Paris. [[PDF](/assets/pdf/jvm-languages-owf2009.pdf), [SlideShare](https://www.slideshare.net/sfermigier/a-quick-tour-of-jvm-languages)].
 
 * "The Open Source WG", [Open World Forum](http://www.openworldforum.org/) 2009, Paris. [[PDF](/assets/pdf/gtll-owf2009.pdf)].
 
 ### April
 
-*   "What's new in Nuxeo 5.2?", Solutions Linux 2009, Paris. [[PDF](/assets/pdf/tuto-solutions-linux-2009.pdf), [SlideShare](http://www.slideshare.net/sfermigier/whats-new-in-nuxeo-52-solutions-linux-2009)].
+*   "What's new in Nuxeo 5.2?", Solutions Linux 2009, Paris. [[PDF](/assets/pdf/tuto-solutions-linux-2009.pdf), [SlideShare](https://www.slideshare.net/sfermigier/whats-new-in-nuxeo-52-solutions-linux-2009)].
 
 ### February
 
@@ -169,7 +169,7 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 ## November
 
 *   "The Nuxeo Way", Nuxeo DevDay 2008, Paris.
-[[SlideShare](http://www.slideshare.net/nuxeo/1-keynote-devday-sf-presentation),
+[[SlideShare](https://www.slideshare.net/nuxeo/1-keynote-devday-sf-presentation),
 [PDF](/assets/pdf/the-nuxeo-way-2008.pdf)].
 
 ### July
@@ -190,7 +190,7 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### October
 
-*   "Apogée & Nuxeo RCP", Eclipse Now You Can 2006, Paris, France. [[SlideShare](http://www.slideshare.net/sfermigier/eclipse-apogee-and-nuxeo-rcp)].
+*   "Apogée & Nuxeo RCP", Eclipse Now You Can 2006, Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/eclipse-apogee-and-nuxeo-rcp)].
 *   "Apogée & Nuxeo RCP", Eclipse Summit Europe 2006, Ludwigsburg, Germany.
 
 ### July

@@ -33,7 +33,7 @@
       </div>
 
       <ul
-        class="uppercase tracking-wide font-bold text-sm	 w-full block flex-grow lg:flex lg:flex-initial lg:w-auto items-center mt-8 lg:mt-0"
+        class="uppercase tracking-wide font-bold w-full block flex-grow lg:flex lg:flex-initial lg:w-auto items-center mt-8 lg:mt-0"
         :class="isOpen ? 'block' : 'hidden'"
       >
         <li v-for="entry in menu" class="mr-8 mb-6 lg:mb-0">

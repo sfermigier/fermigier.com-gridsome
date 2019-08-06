@@ -6,7 +6,7 @@ summary: "Je viens de mettre en ligne les slides de la pr&#233;sentation de Bogd
 tags: ['Nuxeo', 'Linux']
 ---
 
-Je viens de mettre en ligne les <a href="http://www.slideshare.net/sfermigier/nuxeo-runtime-solutions-linux-2007-version-francaise/">slides</a> de la pr&#233;sentation de Bogdan sur Nuxeo Runtime.
+Je viens de mettre en ligne les <a href="https://www.slideshare.net/sfermigier/nuxeo-runtime-solutions-linux-2007-version-francaise/">slides</a> de la pr&#233;sentation de Bogdan sur Nuxeo Runtime.
 
 <object type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=21536&amp;doc=nuxeo-runtime-solutions-linux-2007-version-francaise-19822" width="425" height="348"><param name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=21536&amp;doc=nuxeo-runtime-solutions-linux-2007-version-francaise-19822"></object>
 

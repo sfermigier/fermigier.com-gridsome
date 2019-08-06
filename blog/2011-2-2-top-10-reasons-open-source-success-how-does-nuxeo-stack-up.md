@@ -66,7 +66,7 @@ We're LGPL. See:
 
 <h3>8. You don't reach out to me</h3>
 
-Besides <a href="http://twitter.com/nuxeo">Twitter (@nuxeo)</a>, we also encourage you to join the <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=43314">Nuxeo User group on LinkedIn</a>, watch <a href="https://www.youtube.com/nuxeo/">videos and screencasts on Nuxeo.TV</a>, look at <a href="http://www.slideshare.net/nuxeo/presentations">our slide deck collection on SlideShare</a> or subscribe to <a href="http://community.nuxeo.com/rss">our RSS feed</a>.
+Besides <a href="http://twitter.com/nuxeo">Twitter (@nuxeo)</a>, we also encourage you to join the <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=43314">Nuxeo User group on LinkedIn</a>, watch <a href="https://www.youtube.com/nuxeo/">videos and screencasts on Nuxeo.TV</a>, look at <a href="https://www.slideshare.net/nuxeo/presentations">our slide deck collection on SlideShare</a> or subscribe to <a href="http://community.nuxeo.com/rss">our RSS feed</a>.
 
 <h3>9. You don't speak about your project at conferences and meetups</h3>
 

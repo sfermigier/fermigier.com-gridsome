@@ -10,12 +10,12 @@ const purgecss = require("@fullhuman/postcss-purgecss");
 const postcssPlugins = [tailwind()];
 
 if (process.env.NODE_ENV === "production") {
-  postcssPlugins.push(purgecss());
+  // postcssPlugins.push(purgecss());
 }
 
 module.exports = {
   siteName: "Stefane Fermigier, tech entrepreneur",
-  siteDescription: "xxx",
+  siteDescription: "",
   siteUrl: "https://fermigier.com",
   icon: {
     favicon: "./static/favicon-192x192.png",
@@ -60,15 +60,15 @@ module.exports = {
       options: {
         contentTypeName: "Post",
         feedOptions: {
-          title: "Gridsome Portfolio Starter Blog",
-          feed_url: "https://gridsome-portfolio-starter.netlify.com/rss.xml",
-          site_url: "https://gridsome-portfolio-starter.netlify.com/",
+          title: "Stefane Fermigier's Blog",
+          feed_url: "https://fermigier.com/rss.xml",
+          site_url: "https://fermigier.com/",
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: "https://gridsome-portfolio-starter.netlify.com" + node.path,
-          author: "Andre Madarang",
+          url: "https://fermigier.com" + node.path,
+          author: "Stefane Fermigier",
           date: node.date,
         }),
         output: {

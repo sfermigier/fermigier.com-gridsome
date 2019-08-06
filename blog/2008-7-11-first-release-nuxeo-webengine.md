@@ -18,7 +18,7 @@ tags: ['Nuxeo', 'Python', 'Java']
 
 <p>WebEngine can run either standalone (with startup time &lt;4s) using the Nuxeo Runtime launcher and the embedded <a href="http://www.mortbay.org/jetty-6/">Jetty 6</a>, or in a full-blown Java EE app server such as <a href="http://www.jboss.org/">JBoss</a>. WebEngine can also be connected to any Nuxeo EP instance (and Nuxeo Core repository) and be used to expose / publish its content to the web.</p>
 
-<div style="width:425px;text-align:left" id="__ss_496662"><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=nuxeowebenginetechnicalbriefing-1215039688940196-9"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=nuxeowebenginetechnicalbriefing-1215039688940196-9" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="http://www.slideshare.net/?src=embed"><img src="http://static.slideshare.net/swf/logo_embd.png" style="border:0px none;margin-bottom:-5px" alt="SlideShare"></a> | <a href="http://www.slideshare.net/ebarroca/nuxeo-webengine-unveiled-496662?src=embed" title="View Nuxeo WebEngine unveiled on SlideShare">View</a> | <a href="http://www.slideshare.net/upload?src=embed">Upload your own</a></div></div>
+<div style="width:425px;text-align:left" id="__ss_496662"><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=nuxeowebenginetechnicalbriefing-1215039688940196-9"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=nuxeowebenginetechnicalbriefing-1215039688940196-9" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="https://www.slideshare.net/?src=embed"><img src="http://static.slideshare.net/swf/logo_embd.png" style="border:0px none;margin-bottom:-5px" alt="SlideShare"></a> | <a href="https://www.slideshare.net/ebarroca/nuxeo-webengine-unveiled-496662?src=embed" title="View Nuxeo WebEngine unveiled on SlideShare">View</a> | <a href="https://www.slideshare.net/upload?src=embed">Upload your own</a></div></div>
 
 ## Features highlights
 
@@ -35,7 +35,7 @@ tags: ['Nuxeo', 'Python', 'Java']
 
 <ul>
 <li><p><a href="http://www.nuxeo.org/webengine/Download">Download</a> it and give it a try</p></li>
-<li><p>Check out the <a href="http://www.slideshare.net/ebarroca/nuxeo-webengine-unveiled-496662">presentation on SlideShare</a></p></li>
+<li><p>Check out the <a href="https://www.slideshare.net/ebarroca/nuxeo-webengine-unveiled-496662">presentation on SlideShare</a></p></li>
 <li><p>Read the <a href="http://doc.nuxeo.com/display/NXDOC/WebEngine+(JAX-RS)">reference documentation</a></p></li>
 <li><p><a href="http://www.nuxeo.org/discussions/">Join the discussion</a> to get help and give feedback on the forums</p></li>
 <li><p>Learn how WebEngine fits in the overall Nuxeo <a href="http://www.nuxeo.org/sections/about/roadmap/">roadmap</a></p></li>

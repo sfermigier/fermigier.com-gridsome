@@ -36,7 +36,7 @@ In 2006, we did a full rewrite of our software stack using libraries and framewo
 
 <p>You will find more insight on our early history in this presentation I gave to students at Evry University this year:</p>
 
-<div style="width:425px" id="__ss_8513686"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/sfermigier/nuxeo-at-10" title="Nuxeo at 10" target="_blank">Nuxeo at 10</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/8513686" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/sfermigier" target="_blank">Stefane Fermigier</a> </div> </div>
+<div style="width:425px" id="__ss_8513686"> <strong style="display:block;margin:12px 0 4px"><a href="https://www.slideshare.net/sfermigier/nuxeo-at-10" title="Nuxeo at 10" target="_blank">Nuxeo at 10</a></strong> <iframe src="https://www.slideshare.net/slideshow/embed_code/8513686" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="https://www.slideshare.net/" target="_blank">presentations</a> from <a href="https://www.slideshare.net/sfermigier" target="_blank">Stefane Fermigier</a> </div> </div>
 
 <h2>Nuxeo, the open source project</h2>
 
@@ -98,7 +98,7 @@ In 2006, we did a full rewrite of our software stack using libraries and framewo
 
 <p>More info:</p>
 
-<div style="width:425px" id="__ss_5308176"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/nuxeo/aiim-2010-roadshow-8-things-you-should-know-about-open-source-ecm-nuxeo-2" title="Aiim 2010 roadshow - 8 things you should know about open source ecm - nuxeo (2)" target="_blank">Aiim 2010 roadshow - 8 things you should know about open source ecm - nuxeo (2)</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/5308176" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more presentations from <a href="http://www.slideshare.net/nuxeo" target="_blank">Nuxeo - Open Source ECM</a> </div> </div>
+<div style="width:425px" id="__ss_5308176"> <strong style="display:block;margin:12px 0 4px"><a href="https://www.slideshare.net/nuxeo/aiim-2010-roadshow-8-things-you-should-know-about-open-source-ecm-nuxeo-2" title="Aiim 2010 roadshow - 8 things you should know about open source ecm - nuxeo (2)" target="_blank">Aiim 2010 roadshow - 8 things you should know about open source ecm - nuxeo (2)</a></strong> <iframe src="https://www.slideshare.net/slideshow/embed_code/5308176" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more presentations from <a href="https://www.slideshare.net/nuxeo" target="_blank">Nuxeo - Open Source ECM</a> </div> </div>
 
 <h2>Related information</h2>
 
@@ -110,7 +110,7 @@ In 2006, we did a full rewrite of our software stack using libraries and framewo
 
 <li><a href="http://www.nuxeo.com/en/services/connect">Our subscription offer, Nuxeo Connect</a></li>
 
-<li><a href="http://www.slideshare.net/nuxeo/1-keynote-devday-sf-presentation">The Nuxeo Way: leveraging open source to build a world-class ECM platform</a> (Older presentation, from 2008, on SlideShare)</li>
+<li><a href="https://www.slideshare.net/nuxeo/1-keynote-devday-sf-presentation">The Nuxeo Way: leveraging open source to build a world-class ECM platform</a> (Older presentation, from 2008, on SlideShare)</li>
 
 </ul>
 

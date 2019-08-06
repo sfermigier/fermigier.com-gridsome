@@ -115,9 +115,9 @@ There are many reasons why you would want to use Nuxeo EP as the basis of your n
 
 <li><p><a href="http://doc.nuxeo.com/display/MAIN/Getting+started+with+Nuxeo+--+a+beginner%27s+page">Getting started with Nuxeo - a beginner's page</a> (Nuxeo Documentation).</p></li>
 
-<li><p><a href="http://www.slideshare.net/norwiz/what-is-ecm-presentation">What is ECM?</a> (Atle Skjekkeland - AIIM).</p></li>
+<li><p><a href="https://www.slideshare.net/norwiz/what-is-ecm-presentation">What is ECM?</a> (Atle Skjekkeland - AIIM).</p></li>
 
-<li><p><a href="http://www.slideshare.net/jmancini77/8-reasons-you-need-a-strategy-for-managing-informationbefore-its-too-late">8 reasons you need a strategy for managing information...before it's too late</a> (John Mancini - AIIM).</p></li>
+<li><p><a href="https://www.slideshare.net/jmancini77/8-reasons-you-need-a-strategy-for-managing-informationbefore-its-too-late">8 reasons you need a strategy for managing information...before it's too late</a> (John Mancini - AIIM).</p></li>
 
 <li><p><a href="http://en.wikipedia.org/wiki/Enterprise_content_management">Enterprise Content Management</a> (Wikipedia).</p></li>
 

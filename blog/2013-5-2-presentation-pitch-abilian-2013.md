@@ -8,7 +8,7 @@ tags: ['Abilian', 'Linux']
 
 Je viens de mettre à jour et de publier une présentation sur ma nouvelle société, [Abilian](http://www.abilian.com):
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/20388692" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/sfermigier/pitch-abilian-mai-2013" title="Pitch Abilian mai 2013" target="_blank">Pitch Abilian mai 2013</a> </strong> from <strong><a href="http://www.slideshare.net/sfermigier" target="_blank">Stefane Fermigier</a></strong> </div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/20388692" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/sfermigier/pitch-abilian-mai-2013" title="Pitch Abilian mai 2013" target="_blank">Pitch Abilian mai 2013</a> </strong> from <strong><a href="https://www.slideshare.net/sfermigier" target="_blank">Stefane Fermigier</a></strong> </div>
 
 Il s'agit d'une présentation qui a été faite à plusieurs reprises l'an dernier (Solutions Linux, pitch clients...) avec quelques mises à jour pour tenir compte des évolutions tactiques récentes, notamment la *roadmap*.
 
