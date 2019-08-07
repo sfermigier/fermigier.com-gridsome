@@ -1,7 +1,7 @@
 <template>
   <header class="border-t-14 border-brand-500">
     <nav
-      class="container mx-auto flex flex-wrap justify-between items-center py-8"
+      class="container mx-auto flex flex-wrap justify-center items-center py-8"
     >
       <!--      <div :class="isOpen ? 'block' : 'hidden'">-->
       <!--        <g-link v-if="theme === 'theme-light'" to="/" class="text-brand-800">-->

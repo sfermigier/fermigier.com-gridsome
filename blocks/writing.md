@@ -10,9 +10,13 @@ After a few years off, I resumed blogging in 2005, with a focus on [my business]
 
 You can read these posts, most of them about companies and ideas that have either passed away, or are now considered mainstream, in the [archives](http://fermigier.com/blog/).
 
-## White papers
+## Technical White Papers and Booklets
 
 I have authored or co-authored several white papers, including:
+
+* *Modèles économiques du logiciel libre* (2014) [[PDF](https://cnll.fr/media/LivretBleu_ModelesEconomiques_GT-LogicielLibre_Systematic.pdf)].
+
+* Logiciel libre pour les étudiants* (2013) [[PDF](https://cnll.fr/media/LivretBleu_Etudiants_GT-LogicielLibre_Systematic.pdf)]
 
 * *Big Data et Open Source: une convergence inévitable?* (Big Data and Open Source: an inevitable convergence?). 2012. [[PDF](/assets/pdf/bigdata-opensource.pdf)]
 
@@ -20,16 +24,38 @@ I have authored or co-authored several white papers, including:
 
 * *OpenOffice.org : l'avantage XML !* (OpenOffice.org: the XML advantage). 2004. [[PDF](/assets/pdf/ooo-avantage-xml.pdf)]
 
-## Press releases
+I also wrote the forewords of the following booklets:
+
+* *Open source pour  l'IoT* (2016) [[PDF](https://cnll.fr/media/LivretBleu_IoT_GT-LogicielLibre_Systematic_2016.pdf)]
+
+* *Fondamentaux juridiques du logiciel libre - Collaboration industrielle et innovation ouverte* (2016) [[PDF](https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf)] 
+
+* *Logiciel libre pour la qualité logicielle* (2014) [[PDF](https://cnll.fr/media/LivretBleu_QualiteLogicielle_GT-LogicielLibre_Systematic.pdf)]
+
+
+## Market Studies and Policy Papers
+
+I have contributed to the following studies:
+
+* *Grande enquête 2018: quelles perspectives pour le marché du travail dans l'open source?* (2018) [[PDF](https://cnll.fr/media/enquete-cnll-2018-marche-travail-open-source.pdf)]
+
+* *Impact du Logiciel Libre &amp; Open Source en France 2017-2020* (2017) [[PDF](https://cnll.fr/media/etude-2017.pdf)]
+
+* *Impact du Logiciel Libre / Open Source Software en France 2015-2020* (2015) [[PDF](https://cnll.fr/media/pac-logiciels-libres-2015.pdf)]
+
+* *10 propositions pour une politique industrielle du logiciel libre* (2012) [[PDF](https://cnll.fr/media/propositions_cnll_fleurpellerin.pdf)]
+
+
+## Press Releases
 
 I wrote or co-wrote most of the press releases for Nuxeo between 2000 and 2008. See [the archive on LinuxPR](https://www.google.com/search?q=%22stefane+Fermigier%22+site%3Alinuxpr.com&hl=en&num=30) for some examples (in English).
 
 As the president of [AFUL](http://www.aful.org/), the French speaking Linux and Free Software Users Association, from 1998 to 2003, I wrote or co-wrote most the press releases during this period. See [this list](http://aful.org/communiques/folder_view?b_start:int=90&-C=) on the AFUL website.
 
 
-## Scientific papers
+## Scientific Papers
 
-### Computer science
+### Computer Science
 
 I have written (or contributed to) a small number of scientific papers on computer science (more specifically, on software engineering and information management) since 1999:
 
@@ -75,7 +101,7 @@ I wrote the prefaces for two programming books about Python:
 * Gérard Swinnen - Apprendre à programmer avec Python. Second edition. O'Reilly France, Paris, 2005. ISBN: 2-841-77299-3.
 [[Amazon](http://www.amazon.fr/dp/2841772993/)]
 
-Back in the 90s, I co-wrote three ungraduate level mathematics books, with my friends Antoine Chambert-Loir and Vincent Maillot:
+Back in the 90s, I co-wrote three undergraduate level mathematics books, with my friends Antoine Chambert-Loir and Vincent Maillot:
 
 * Chambert-Loir, Antoine; Fermigier, Stéfane; Maillot, Vincent - Exercices de mathématiques pour l'agrégation. (French) [Mathematics exercises for the Agrégation] Analyse 1. [Analysis 1] Second edition. Agrégation de Mathématiques. Masson, Paris, 1997. ISBN: 2-225-85516-1. [[Amazon](http://www.amazon.fr/dp/2225855161)].
 

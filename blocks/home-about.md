@@ -48,3 +48,11 @@ I'm also the founder or a cofounder of several [open source projects](/open-sour
 * [Apache Chemistry](http://chemistry.apache.org/)
 
 [➜ More about my open source activities](/open-source/)
+
+## Additional resources
+
+[➜ Talks I have given](/presentations/) (presentations, lectures...)
+
+[➜ Things I have written](/writing/) (articles, books, papers...)
+
+[➜ My blog](/blog/) (including ancient and outdated stuff)
