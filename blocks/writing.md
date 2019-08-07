@@ -1,16 +1,20 @@
+---
+title: Writings
+---
+
 ## Blogging
 
-I started "blogging" (I don't think the term had been invented yet) in December 1997, at the time when [Linux](/blog/categories/linux/) and [free software](/blog/categories/open-source/) were starting to take of as credible alternatives to [Unix](/blog/categories/unix/) and [Windows NT](/blog/categories/microsoft/) for business IT. I stopped in October 1999, for reasons I don't remember.
+I started "blogging" (I don't think the term had been invented yet) in December 1997, at the time when [Linux](/blog/tag/Linux/) and [free software](/blog/tag/Open Source/) were starting to take of as credible alternatives to [Unix](/blog/tag/Unix/) and [Windows NT](/blog/tag/Microsoft/) for business IT. I stopped in October 1999, for reasons I don't remember.
 
-After a few years off, I resumed blogging in 2005, with a focus on [my business](/blog/categories/nuxeo/) as a [Python](/blog/categories/python/) and [Zope](/blog/categories/zope/), then later [Java](/blog/categories/java/), company, but also covering other subjects related to free / open source software, including [software patents](/blog/categories/software-patents/).
+After a few years off, I resumed blogging in 2005, with a focus on [my business](/blog/tag/Nuxeo/) as a [Python](/blog/tag/Python/) and [Zope](/blog/tag/Zope/), then later [Java](/blog/tag/Java/), company, but also covering other subjects related to free / open source software, including [software patents](/blog/tag/Brevets/).
 
-You can read these posts, most of them about companies and ideas that have either passed away, or are now considered mainstream, in the [archives](http://fermigier.com/blog/archives/).
+You can read these posts, most of them about companies and ideas that have either passed away, or are now considered mainstream, in the [archives](http://fermigier.com/blog/).
 
 ## White papers
 
 I have authored or co-authored several white papers, including:
 
-* *Big Data et Open Source: une convergence inévitable?* (Big Data and Open Source: an inevitable convergence?). 2012. [[PDF](http://www.fermigier.com/assets/pdf/bigdata-opensource.pdf)]
+* *Big Data et Open Source: une convergence inévitable?* (Big Data and Open Source: an inevitable convergence?). 2012. [[PDF](/assets/pdf/bigdata-opensource.pdf)]
 
 * *10 raisons de choisir l'open source professionnel* (10 reasons to choose professional open source). 2011. [[PDF](/assets/pdf/10-raisons-open-source-professionnel.pdf)]
 
@@ -27,13 +31,13 @@ As the president of [AFUL](http://www.aful.org/), the French speaking Linux and 
 
 ### Computer science
 
-I have written a small number of scientific papers on computer science (more specifically, on software engineering and information management) since 1999:
+I have written (or contributed to) a small number of scientific papers on computer science (more specifically, on software engineering and information management) since 1999:
 
 * *Lessons learned developing the Nuxeo EP open source, component-based, ECM platform*, ICSSEA 2010 Conference. [[PDF](/assets/pdf/icssea2010.pdf)].
 
 * *Nuxeo CPS: an open source framework for the development of enterprise content management and collaboration applications*, Proceedings of the 2005 EuroPython conference. [[PDF](/assets/pdf/europython2005.pdf)].
 
-* *EDOS: Environment for the Development and Distribution of Open Source Software*, 2005.
+* *EDOS: Environment for the Development and Distribution of Open Source Software*, 2005. [[PDF](/assets/pdf/edos-oss05.pdf)]
 
 * *Le moteur de recherche FermiVista!*, in L'information scientifique et l'outil Internet, Le Micro Bulletin Thématique, CNRS, 1999.
 

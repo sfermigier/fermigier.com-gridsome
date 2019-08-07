@@ -15,7 +15,7 @@ and served as its CEO from 2000 to 2008, then as its executive chairman
 from 2008 to 2011. Nuxeo is now one of the largest open source software
 vendors in France.
 
-[More about my business activities](/business/)
+[➜ More about my business activities](/business/)
 
 ## My involvement in the open source ecosystem
 
@@ -26,7 +26,7 @@ developing the open source ecosystem in France and Europe:
 
 * **GTLL** (2007), the business and innovation cluster for open source in
 the Paris Region (part of the Systematic Paris Region cluster). I've
-bee serving as its president between 2009 and 2019.
+been serving as its president between 2009 and 2019.
 
 * The [Open World Forum / Paris Open Source Summit](http://www.opensourcesummit.paris/) (2008), yearly conference dedicated to open source and "open everything" in
 Paris (since 2008).
@@ -47,4 +47,4 @@ I'm also the founder or a cofounder of several [open source projects](/open-sour
 
 * [Apache Chemistry](http://chemistry.apache.org/)
 
-[More about my open source activities](/open-source/)
+[➜ More about my open source activities](/open-source/)

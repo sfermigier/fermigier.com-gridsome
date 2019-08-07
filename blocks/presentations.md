@@ -10,7 +10,7 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 ### May
 
-* "Why and how to open source you software (when you're not a software company)". Private seminar.
+* "Why and how to open source your software (when you're not a software company)". Private seminar.
 
 ## 2017
 
