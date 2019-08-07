@@ -3,7 +3,7 @@ title: "10 design business lessons that mostly apply to software business too"
 date: 2014-03-01
 path: blog/2014/3/10-design-business-lessons-that-mostly-apply-to-software-business-too
 summary: "From What Bill Knew: Focusing on making a partnership work is more profitable than focusing on making money."
-tags: ['Misc']
+tags: ['Business']
 ---
 
 From [What Bill Knew](http://observatory.designobserver.com/feature/what-bill-knew/38338/):

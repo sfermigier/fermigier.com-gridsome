@@ -14,7 +14,7 @@ tags: ['Flask', 'Week-end readings']
 
 ## Front-End
 
-[Scribe](https://github.com/luwes/selection-polyfill), a new in browser editor from the Guardian.
+[Scribe](https://github.com/guardian/scribe), a new in-browser editor from the Guardian.
 
 ## Data Modeling
 

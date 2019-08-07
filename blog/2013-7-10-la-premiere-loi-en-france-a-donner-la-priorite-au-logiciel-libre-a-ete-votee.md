@@ -3,7 +3,7 @@ title: "La première loi en France à donner la priorité au logiciel libre a é
 date: 2013-07-10
 path: blog/2013/7/la-premiere-loi-en-france-a-donner-la-priorite-au-logiciel-libre-a-ete-votee
 summary: "Le Parlement a voté hier la loi \"ESR\" (Enseignement Supérieur et Recherche) dont l'article 9 indique qu'une priorité sera donnée au logiciel libre: Le service public de l'enseignement supérieur met à disposition de ses usagers des services et des ressources pédagogiques numériques."
-tags: ['CNLL']
+tags: ['CNLL', 'Politique publique']
 ---
 
 Le Parlement a voté hier la loi "ESR" (Enseignement Supérieur et Recherche) dont l'article 9 indique qu'une priorité sera donnée au logiciel libre:
@@ -17,7 +17,7 @@ Quelques remarques:
 
 ## Un lobbying effrénés des éditeurs propriétaires
 
-Les éditeurs propriétaires, représentés par l'AFDEL, se sont arc-boutés contre cet article, sans succès cette fois-ci, contrairement à ce qui [s'était passé](http://cnll.fr/news/refondation-ecole-logiciel-libre/) dans des circonstances similaires pour la loi sur la refondation de l'école.
+Les éditeurs propriétaires, représentés par l'AFDEL, se sont arc-boutés contre cet article, sans succès cette fois-ci, contrairement à ce qui [s'était passé](https://cnll.fr/news/refondation-ecole-logiciel-libre/) dans des circonstances similaires pour la loi sur la refondation de l'école.
 
 ## Le mensonge de Syntec Numérique
 
@@ -37,13 +37,13 @@ Les arguments de l'AFDEL relèvent du sophisme de l'homme de paille. Il importe 
 
 - "priorité" n'est pas "obligation".
 
-- Le fait d'inscrire une préférence pour le logiciel libre dans la loi - tout comme dans une directive, dans un marché public, etc. - est compatible avec les principes du droit français et européen, comme cela a été souligné dans [les propositions du CNLL](http://cnll.fr/static/pdf/propositions_cnll_fleurpellerin.pdf).
+- Le fait d'inscrire une préférence pour le logiciel libre dans la loi - tout comme dans une directive, dans un marché public, etc. - est compatible avec les principes du droit français et européen, comme cela a été souligné dans [les propositions du CNLL](https://cnll.fr/static/pdf/propositions_cnll_fleurpellerin.pdf).
 
 - Le logiciel libre / open source en France est un secteur dynamique, en pleine croissance, créateur d'emplois locaux. Donner un coup de pouce au logiciel libre dans la commande publique, c'est aussi favoriser la compétitivité de notre économie.
 
 ## Une promesse électorale de François Hollande à moitié tenue
 
-Comme nous l'avions souligné en juin dernier, [la priorité au logiciel libre dans l'éducation était une promesse électorale de F. Hollande](http://cnll.fr/news/refondation-ecole-logiciel-libre/).
+Comme nous l'avions souligné en juin dernier, [la priorité au logiciel libre dans l'éducation était une promesse électorale de F. Hollande](https://cnll.fr/news/refondation-ecole-logiciel-libre/).
 
-On peut a présent dire que cette promesse a été tenue pour le supérieur, et non-tenue pour l'enseignement scolaire.
+On peut à présent dire que cette promesse a été tenue pour le supérieur, et non-tenue pour l'enseignement scolaire.
 

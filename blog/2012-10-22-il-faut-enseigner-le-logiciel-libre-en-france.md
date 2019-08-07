@@ -3,7 +3,7 @@ title: "Il faut enseigner le logiciel libre en France"
 date: 2012-10-22
 path: blog/2012/10/il-faut-enseigner-le-logiciel-libre-en-france
 summary: "Je suis le co-auteur d'une tribune parue dans le quotidien le Monde la semaine dernière, intitul&eacute;e \"Il faut enseigner le logiciel libre en France\"."
-tags: ['Misc']
+tags: ['Open Source', 'Formation']
 ---
 
 Je suis le co-auteur d'une tribune parue dans le quotidien le Monde la semaine dernière, intitul&eacute;e "[Il faut enseigner le logiciel libre en France](http://www.lemonde.fr/sciences/article/2012/10/18/il-faut-enseigner-le-logiciel-libre-en-france_1777703_1650684.html)".

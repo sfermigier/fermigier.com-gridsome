@@ -7,7 +7,7 @@ tags: ['Nuxeo', 'Apache']
 ---
 
 <p>We&#8217;ve been working recently on a CMIS command-line client, called
-&#8220;cmissh&#8221;, based on the <a href="http://incubator.apache.org/chemistry">Apache Chemistry</a>
+&#8220;cmissh&#8221;, based on the <a href="https://chemistry.apache.org/">Apache Chemistry</a>
 client code.</p> 
 <p>We have decided to donate the code to the Apache Chemistry project, as
 there are no dependencies on Nuxeo code in it.</p> 

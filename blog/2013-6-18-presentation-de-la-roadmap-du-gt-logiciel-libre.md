@@ -2,8 +2,8 @@
 title: "Présentation de la roadmap du GT Logiciel Libre"
 date: 2013-06-18
 path: blog/2013/6/presentation-de-la-roadmap-du-gt-logiciel-libre
-summary: ""
-tags: ['Misc']
+summary: "Retrouvez la présentation de la roadmap du GT Logiciel Libre que j'ai donnée hier (17 juin 2013) à la convention du Pôle de compétitivité Systematic."
+tags: ['GTLL']
 ---
 
 Retrouvez la présentation de la roadmap du GT Logiciel Libre que j'ai donnée hier (17 juin 2013) à la convention du Pôle de compétitivité Systematic :

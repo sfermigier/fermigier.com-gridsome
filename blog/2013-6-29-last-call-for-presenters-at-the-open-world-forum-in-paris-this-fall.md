@@ -19,8 +19,8 @@ More info: <http://openworldforum.org/en/>
 
 The Beffroi, where the event will take place this year:
 
-<img src="http://fermigier.com/images/1372509915.89-beffroi_de_montrouge_2.jpg" alt="Beffroi de montrouge 2" title="beffroi_de_montrouge_2.jpg" border="0" width="600" height="400" />
+<img src="/images/1372509915.89-beffroi_de_montrouge_2.jpg" alt="Beffroi de montrouge 2" title="beffroi_de_montrouge_2.jpg" border="0" width="600" height="400" />
 
 A picture of last year's organization team:
 
-<img src="http://fermigier.com/images/1372509918.67-8112869557_faab3059a5_c.jpg" alt="8112869557 faab3059a5 c" title="8112869557_faab3059a5_c.jpg" border="0" width="600" height="400" />
+<img src="/images/1372509918.67-8112869557_faab3059a5_c.jpg" alt="8112869557 faab3059a5 c" title="8112869557_faab3059a5_c.jpg" border="0" width="600" height="400" />

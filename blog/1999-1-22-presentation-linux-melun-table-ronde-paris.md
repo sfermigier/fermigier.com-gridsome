@@ -65,7 +65,7 @@ télécoms'' un table ronde sur ``Les logiciels libres: quels
 enjeux économiques et sociaux'', avec Lucien Petit, directeur d'<A HREF="http://www.alcove.fr/">Alcove</A>, Dominique Chatelin, directeur
 général de <A HREF="http://www.netscape.com/">Netscape France</A>,
 Cédric Thomas de <A HREF="http://www.frontierassociates.com/">Frontier
-Associates</A> et <A HREF="http://fermigier.com/">moi-même</A>.
+Associates</A> et <A HREF="/">moi-même</A>.
 </P>
 
 <P>

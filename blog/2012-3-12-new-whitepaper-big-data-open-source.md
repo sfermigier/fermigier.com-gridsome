@@ -3,7 +3,7 @@ title: "New white paper on Big Data and Open Source (in French)"
 date: 2012-03-12
 path: blog/2012/3/new-whitepaper-big-data-open-source
 summary: "I have just finished writing a new white paper on the convergence of Big Data and Open Source."
-tags: ['Open Source']
+tags: ['Open Source', 'Big Data']
 ---
 
 
