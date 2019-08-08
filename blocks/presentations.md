@@ -12,6 +12,12 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 * "Why and how to open source your software (when you're not a software company)". Private seminar.
 
+## 2018
+
+### December
+
+* "From values to value creation in the French F/OSS industry", presented during POSS 2018. [[PDF](/assets/pdf/cnll-community-summit-2018.pdf)]
+
 ## 2017
 
 ### December
@@ -26,6 +32,12 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 
 * "Résultats de l'enquête Big Data / IA auprès des pôles de compétitivité". [[Speakerdeck](https://speakerdeck.com/sfermigier/ia-aupres-des-poles-de-competitivite)]
 
+## 2016
+
+### February
+
+* "Le développement front-end en 2016", présenté lors d'un meetup PLOSS. [[PDF](/assets/pdf/dev-front-end-2016.pdf)]
+
 ## 2015
 
 ### November
@@ -37,6 +49,10 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 ### December
 
 * "15 ans de politiques publiques du logiciel libre en France". Séminaire privé. [[SlideShare](https://www.slideshare.net/sfermigier/15-anspolitiquelogiciellibre)]
+
+### June
+
+* "Benchmark: place du numérique dans la stratégie de plusieurs établissements d’enseignement supérieur". [[PDF](/assets/pdf/mooc-benchmark-2014.pdf)]
 
 ### May
 
@@ -75,6 +91,8 @@ Here's a (partial) list of the talks and lectures I have given over the last ten
 ### April
 
 * "Four Python pains" [[SlideShare](https://www.slideshare.net/sfermigier/four-python-pains)]
+
+* "Open Source en Entreprise: retour d’expérience(s)" [[PDF](/assets/pdf/open-source-rex-2012.pdf)]
 
 ### March
 
