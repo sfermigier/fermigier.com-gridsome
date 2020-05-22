@@ -1,7 +1,7 @@
 ---
 title: "Un logiciel libre apparaît, un autre disparaît"
 date: 1998-04-09
-path: blog/1998/4/logiciel-libre-apparait-autre-disparait
+path: /blog/1998/4/logiciel-libre-apparait-autre-disparait
 summary: "Une bonne et une mauvaise nouvelle sur slashdot ce matin: Le Open Group a annoncé (c'était prévu depuis un certain temps) que la prochaine version de X11 (X11R6.4) ne serait plus libre, mais nécessiterait le paiement d'un licence."
 tags: ['KDE']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Conversation about Enterprise 2.0"
 date: 2009-06-23
-path: blog/2009/6/conversation-about-enterprise-2-0
+path: /blog/2009/6/conversation-about-enterprise-2-0
 summary: "Tony Byrne has started a conversation (warning: website is down at present) about Enterprise 2.0 (aka Enterprise Social Software) on CMSWatch."
 tags: ['Misc']
 ---

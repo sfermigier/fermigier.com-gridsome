@@ -1,7 +1,7 @@
 ---
 title: "Un article sur Richard Stallman dans Salon"
 date: 1998-09-01
-path: blog/1998/9/article-richard-stallman-salon
+path: /blog/1998/9/article-richard-stallman-salon
 summary: "Il y a un portrait assez poignant de Richard ``RMS'' Stallman dans le magazine électronique américain Salon su 31 Août."
 tags: ['Misc']
 ---

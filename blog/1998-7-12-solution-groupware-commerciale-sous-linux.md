@@ -1,7 +1,7 @@
 ---
 title: "Solution groupware commerciale sous Linux"
 date: 1998-07-12
-path: blog/1998/7/solution-groupware-commerciale-sous-linux
+path: /blog/1998/7/solution-groupware-commerciale-sous-linux
 summary: "Lu dans LMB Actu en ligne n0177: Control Data Systems (CDS), concepteur de solutions de gestion pour les systèmes d'information, a annoncé une version Linux de son serveur Intrastore Server 98."
 tags: ['Linux', 'Unix']
 ---

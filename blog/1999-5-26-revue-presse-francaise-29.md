@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse francaise"
 date: 1999-05-26
-path: blog/1999/5/revue-presse-francaise-29
+path: /blog/1999/5/revue-presse-francaise-29
 summary: "Dans L'essentiel du Management, numero 52 de Juin 1999, dedie a \"Reduire les couts jusqu'ou?\", a la page 49, dans la section \"Niveau 2: lancer la grande chasse au gaspi\", on a une jolie moitie de colonne intitulee \"-30% Installer sur ses ordinateurs des logiciels libres\"."
 tags: ['Linux', 'Red Hat', 'Unix', 'AFUL', 'Microsoft']
 ---

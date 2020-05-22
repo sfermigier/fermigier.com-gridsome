@@ -1,7 +1,7 @@
 ---
 title: "Mise à jour 2015 du Manuel de Frascati"
 date: 2016-01-06
-path: blog/2016/1/mise-a-jour-2015-du-manuel-de-frascati
+path: /blog/2016/1/mise-a-jour-2015-du-manuel-de-frascati
 summary: "Publié par l'OCDE, le manuel de Frascati est une référence méthodologique internationale pour les études statistiques des activités de recherche et développement (R&amp;D)."
 tags: ['Innovation']
 ---

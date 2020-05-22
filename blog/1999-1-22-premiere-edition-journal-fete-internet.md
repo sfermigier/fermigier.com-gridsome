@@ -1,7 +1,7 @@
 ---
 title: "Première édition du journal de la fête de l'Internet"
 date: 1999-01-22
-path: blog/1999/1/premiere-edition-journal-fete-internet
+path: /blog/1999/1/premiere-edition-journal-fete-internet
 summary: "La fête de l'Internet 99 sera, du 19 au 21 mars, l'occasion de faire découvrir l'Internet à un public le plus large possible (et aussi de présenter les logiciels libres, puisque ceux-ci sont au coeur même de l'infrastructure du réseau, et très présents aussi sur les postes clients)."
 tags: ['Misc']
 ---

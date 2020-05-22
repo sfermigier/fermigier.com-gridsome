@@ -1,7 +1,7 @@
 ---
 title: "Python megaframeworks concept map"
 date: 2006-01-14
-path: blog/2006/1/python-megaframeworks-concept-map
+path: /blog/2006/1/python-megaframeworks-concept-map
 summary: "png, pdf) that I've just drawn to try to clarify the dependencies between the so-called frameworks and \"megaframeworks\" and other Python packages."
 tags: ['Python', 'Zope', 'CPS']
 ---

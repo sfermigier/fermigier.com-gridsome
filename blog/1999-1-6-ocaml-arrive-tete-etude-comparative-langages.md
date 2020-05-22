@@ -1,7 +1,7 @@
 ---
 title: "OCAML arrive en tête d'une étude comparative de langages"
 date: 1999-01-06
-path: blog/1999/1/ocaml-arrive-tete-etude-comparative-langages
+path: /blog/1999/1/ocaml-arrive-tete-etude-comparative-langages
 summary: "Selon une étude comparative menée récemment par D.McClain, le langage OCAML est le mieux adapté aux calculs scientifiques, loin devant C/C++ (crédité d'un note négative!)."
 tags: ['Misc']
 ---

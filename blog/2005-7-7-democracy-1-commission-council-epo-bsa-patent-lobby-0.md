@@ -1,7 +1,7 @@
 ---
 title: "Democracy 1 - Commission/Council/EPO/BSA/Patent Lobby 0"
 date: 2005-07-07
-path: blog/2005/7/democracy-1-commission-council-epo-bsa-patent-lobby-0
+path: /blog/2005/7/democracy-1-commission-council-epo-bsa-patent-lobby-0
 summary: "The directive was rejected by a majority of 648 votes against 14, something unprecedented in the EU history."
 tags: ['Misc']
 ---

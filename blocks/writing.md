@@ -16,7 +16,7 @@ I have authored or co-authored several white papers, including:
 
 * *Modèles économiques du logiciel libre* (2014) [[PDF](https://cnll.fr/media/LivretBleu_ModelesEconomiques_GT-LogicielLibre_Systematic.pdf)].
 
-* Logiciel libre pour les étudiants* (2013) [[PDF](https://cnll.fr/media/LivretBleu_Etudiants_GT-LogicielLibre_Systematic.pdf)]
+* *Logiciel libre pour les étudiants* (2013) [[PDF](https://cnll.fr/media/LivretBleu_Etudiants_GT-LogicielLibre_Systematic.pdf)]
 
 * *Big Data et Open Source: une convergence inévitable?* (Big Data and Open Source: an inevitable convergence?). 2012. [[PDF](/assets/pdf/bigdata-opensource.pdf)]
 

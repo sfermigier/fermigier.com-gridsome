@@ -1,7 +1,7 @@
 ---
 title: "A sample Python library for the Nuxeo Content Automation JSON-RPC API"
 date: 2010-08-10
-path: blog/2010/8/sample-python-library-nuxeo-content-automation-json-rpc-api
+path: /blog/2010/8/sample-python-library-nuxeo-content-automation-json-rpc-api
 summary: "I have created a sample Python library to illustrate the use of the Content Automation JSON-RPC API (described here: https://doc.nuxeo.com/display/NXDOC/REST+API)."
 tags: ['Nuxeo', 'Python']
 ---

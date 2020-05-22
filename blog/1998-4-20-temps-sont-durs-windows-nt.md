@@ -1,7 +1,7 @@
 ---
 title: "Les temps sont durs pour Windows NT"
 date: 1998-04-20
-path: blog/1998/4/temps-sont-durs-windows-nt
+path: /blog/1998/4/temps-sont-durs-windows-nt
 summary: "Il y a 3 mois encore, la presse informatique enterrait Unix et ignorait complètement Linux."
 tags: ['Linux', 'Unix', 'Microsoft']
 ---

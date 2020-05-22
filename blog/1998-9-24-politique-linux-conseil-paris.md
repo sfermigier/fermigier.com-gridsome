@@ -1,7 +1,7 @@
 ---
 title: "Politique: Linux au conseil de Paris"
 date: 1998-09-24
-path: blog/1998/9/politique-linux-conseil-paris
+path: /blog/1998/9/politique-linux-conseil-paris
 summary: "Eric Ferrand, conseiller de Paris appartenant au Mouvement des Citoyens, a parlé de Linux récemment lors d'une réunion du conseil de Pari."
 tags: ['Linux']
 ---

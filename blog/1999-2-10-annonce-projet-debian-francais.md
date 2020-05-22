@@ -1,7 +1,7 @@
 ---
 title: "Annonce du projet 'Debian en Francais'"
 date: 1999-02-10
-path: blog/1999/2/annonce-projet-debian-francais
+path: /blog/1999/2/annonce-projet-debian-francais
 summary: "Participez au projet de traduction de Debian."
 tags: ['GNU', 'Debian']
 ---

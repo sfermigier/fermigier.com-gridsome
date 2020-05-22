@@ -1,7 +1,7 @@
 ---
 title: "Nuxeo EP 5.4 has been released!"
 date: 2010-11-09
-path: blog/2010/11/nuxeo-ep-5-4-been-released
+path: /blog/2010/11/nuxeo-ep-5-4-been-released
 summary: "We have announced today the release of Nuxeo EP 5.4 (or 5.4.0)."
 tags: ['Nuxeo']
 ---

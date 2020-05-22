@@ -1,7 +1,7 @@
 ---
 title: "Linux: What is it, Where is it, and Why?"
 date: 1998-03-20
-path: blog/1998/3/linux-what-where-why
+path: /blog/1998/3/linux-what-where-why
 summary: "Le groupe IDC, l'un des principaux cabinets de consultants en informatique au monde, publie une note sur Linux."
 tags: ['Linux']
 ---

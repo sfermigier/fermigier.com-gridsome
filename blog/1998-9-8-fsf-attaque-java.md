@@ -1,7 +1,7 @@
 ---
 title: "La FSF s'attaque à Java"
 date: 1998-09-08
-path: blog/1998/9/fsf-attaque-java
+path: /blog/1998/9/fsf-attaque-java
 summary: "Le projet GNU Classpath vise à produire une version 100% GPL de la librairie standard Java telle qu'elle est spécifiée par SUN."
 tags: ['Java', 'GNU']
 ---

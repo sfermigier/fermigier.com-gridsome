@@ -1,7 +1,7 @@
 ---
 title: "Week-end readings #1"
 date: 2013-12-16
-path: blog/2013/12/week-end-reading-1
+path: /blog/2013/12/week-end-reading-1
 summary: "(A new series of post dedicated to interesting stuff found on the web)."
 tags: ['Python', 'Week-end readings']
 ---

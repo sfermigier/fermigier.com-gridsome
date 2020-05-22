@@ -1,7 +1,7 @@
 ---
 title: "Question d'actualité au gouvernement français sur les standards ouverts et les logiciels libres"
 date: 1999-03-24
-path: blog/1999/3/question-actualite-gouvernement-francais-standards-ouverts-logiciels-libres
+path: /blog/1999/3/question-actualite-gouvernement-francais-standards-ouverts-logiciels-libres
 summary: "Dans cette question d'actualité au gouvernement, le sénateur Pierre Laffite attire l'attention du Premier Ministre sur l'utilisation d'Internet en matière de correspondance administrative et sur ses conséquences quant au choix des logiciels utilisés par l'administration."
 tags: ['Misc']
 ---

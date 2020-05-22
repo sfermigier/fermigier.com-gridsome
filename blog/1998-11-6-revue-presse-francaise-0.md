@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1998-11-06
-path: blog/1998/11/revue-presse-francaise-0
+path: /blog/1998/11/revue-presse-francaise-0
 summary: "Dans Décision Micro no 358, 2 Nov 1998, Interview de Jean Louis Gassée, PDG de Be: \"Nous voulons être le Linux de l'audiovisuel\" Q: que pensez vous de Linux."
 tags: ['Linux', 'AFUL', 'Microsoft']
 ---

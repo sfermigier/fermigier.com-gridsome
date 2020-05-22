@@ -1,7 +1,7 @@
 ---
 title: "Lessons learned building Nuxeo EP: the slides are now available"
 date: 2010-12-08
-path: blog/2010/12/lessons-learned-building-nuxeo-ep-slides-are-available
+path: /blog/2010/12/lessons-learned-building-nuxeo-ep-slides-are-available
 summary: "So I was today speaking at the ICSSEA conference on software engineering about our experience building Nuxeo EP."
 tags: ['Nuxeo', 'Open Source']
 ---

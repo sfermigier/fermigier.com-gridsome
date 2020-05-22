@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1998-11-09
-path: blog/1998/11/revue-presse-0
+path: /blog/1998/11/revue-presse-0
 summary: "L'excellent journal Web électronique Québecquois Multimédium se lance dans une expérience qui promet d'être intéressante: Michel Dumais, chroniqueur au quotidien Le Soleil de Québec, a décidé d'abandonner Windows et MacOS à partir du 8 novembre 1998 pour ne vivre, autant que possible, qu'avec une machine équipée du système d'exploitation Linux jusqu'à la fin de l'année."
 tags: ['Linux']
 ---

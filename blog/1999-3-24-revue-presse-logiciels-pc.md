@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse: Logiciels PC"
 date: 1999-03-24
-path: blog/1999/3/revue-presse-logiciels-pc
+path: /blog/1999/3/revue-presse-logiciels-pc
 summary: "Le magazine Logiciels PC n°7, 20 F, dans son numéro de mars-avril 99, traite de Linux."
 tags: ['Linux', 'Mandrake', 'KDE']
 ---

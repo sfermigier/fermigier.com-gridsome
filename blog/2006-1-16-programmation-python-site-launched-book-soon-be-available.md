@@ -1,7 +1,7 @@
 ---
 title: "\"Programmation Python\": site launched and book soon to be available"
 date: 2006-01-16
-path: blog/2006/1/programmation-python-site-launched-book-soon-be-available
+path: /blog/2006/1/programmation-python-site-launched-book-soon-be-available
 summary: "Tarek has put some finishing touches this week-end on the programmation-python.org website, which is going to support the book he has recently finished for Editions Eyrolles, which is going to be available in bookshops on jan 19th."
 tags: ['Python']
 ---

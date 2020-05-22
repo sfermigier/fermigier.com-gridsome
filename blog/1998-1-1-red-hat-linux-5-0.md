@@ -1,7 +1,7 @@
 ---
 title: "Red Hat Linux 5.0"
 date: 1998-01-01
-path: blog/1998/1/red-hat-linux-5-0
+path: /blog/1998/1/red-hat-linux-5-0
 summary: "Présentation très favorable de Linux Red Hat 5.0 dans PC Magazine."
 tags: ['Linux', 'Red Hat', 'Unix']
 ---

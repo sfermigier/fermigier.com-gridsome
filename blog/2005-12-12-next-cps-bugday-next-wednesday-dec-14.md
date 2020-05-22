@@ -1,7 +1,7 @@
 ---
 title: "Next CPS Bugday: next Wednesday (dec 14)"
 date: 2005-12-12
-path: blog/2005/12/next-cps-bugday-next-wednesday-dec-14
+path: /blog/2005/12/next-cps-bugday-next-wednesday-dec-14
 summary: "Next CPS bugday will happen on IRC channel #cps next wednesday (dec 14)."
 tags: ['CPS']
 ---

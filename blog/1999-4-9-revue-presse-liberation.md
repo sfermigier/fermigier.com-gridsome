@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse: Libération"
 date: 1999-04-09
-path: blog/1999/4/revue-presse-liberation
+path: /blog/1999/4/revue-presse-liberation
 summary: "Surprise en recevant Libération aujourd'hui : sur un coin de la Une est marqué le titre du dossier multimédia de la semaine : \"J'ai installé Linux sur mon PC !\" Le chapeau : \"Linux, c'est le système d'exploitation qui monte : il est libre , gratuit, mais il faut l'installer soi-même sur son ordinateur personnel."
 tags: ['Linux', 'AFUL', 'Microsoft']
 ---

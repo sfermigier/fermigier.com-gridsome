@@ -1,7 +1,7 @@
 ---
 title: "Offre d'emploi a Levallois"
 date: 1999-08-31
-path: blog/1999/8/offre-emploi-levallois
+path: /blog/1999/8/offre-emploi-levallois
 summary: "Société : SOLSOFT Poste : Responsable Systeme &amp; Réseau Role : Au sein de l'équipe technique, il devra gérer et faire fonctionner : un réseau de machines Unix (Linux, FreeBSD, Solaris, AIX) : il aura en charge le DNS, les comptes utilisateurs, l'email, la bonne connectivité avec les autres ordinateurs (Domaine Windows NT) et l'extérieur : connection Internet, VPN, Apache, ftp, l'aide aux utilisateurs unix."
 tags: ['Apache', 'Linux', 'Unix', 'Solaris']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1999-10-01
-path: blog/1999/10/revue-presse-11
+path: /blog/1999/10/revue-presse-11
 summary: "PC Expert d'octobre, n°89, 29 F met Linux et les \"OS alternatifs\" à Windows en couverture."
 tags: ['Apache', 'Linux', 'Mandrake', 'Red Hat', 'Unix', 'Solaris', 'Open Source']
 ---

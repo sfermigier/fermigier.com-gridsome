@@ -1,7 +1,7 @@
 ---
 title: "GNOME 1.0 disponible"
 date: 1999-03-04
-path: blog/1999/3/gnome-1-0-disponible
+path: /blog/1999/3/gnome-1-0-disponible
 summary: "L'équipe de développement de GNOME vient d'annoncer officiellement la version 1.0 de son environnement graphique."
 tags: ['Linux', 'GNU', 'GNOME', 'Unix']
 ---

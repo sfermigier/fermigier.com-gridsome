@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1999-01-28
-path: blog/1999/1/revue-presse-francaise-13
+path: /blog/1999/1/revue-presse-francaise-13
 summary: "Dans Computer Reseller News revue française malgré son titre, du 14/01/99 no 24, 15 FF: StarOffice : le grossiste Lucisoft reprend la distribution de la suite StarOffice dans sa version anglaise."
 tags: ['Apache', 'Linux', 'KDE', 'Unix', 'Microsoft']
 ---

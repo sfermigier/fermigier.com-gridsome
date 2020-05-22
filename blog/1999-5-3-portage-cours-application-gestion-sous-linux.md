@@ -1,7 +1,7 @@
 ---
 title: "Portage en cours d'une application de gestion sous Linux"
 date: 1999-05-03
-path: blog/1999/5/portage-cours-application-gestion-sous-linux
+path: /blog/1999/5/portage-cours-application-gestion-sous-linux
 summary: "Michel Wathelet nous a récemment signalé qu'il avait commencé à porter son application de gestion commerciale GESTECO sous Linux."
 tags: ['Linux']
 ---

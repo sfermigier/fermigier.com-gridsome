@@ -1,7 +1,7 @@
 ---
 title: "WEBDAV: un standard pour l'edition de documents sur le Web "
 date: 1999-02-20
-path: blog/1999/2/webdav-standard-edition-documents-web
+path: /blog/1999/2/webdav-standard-edition-documents-web
 summary: "Le projet WEBDAV vise à développer des extensions au standard HTTP pour supporter des mécanismes de travail collaboratif sur le Web (gestion de versions, verrous, espaces nominaux, metadonnées...)."
 tags: ['Misc']
 ---

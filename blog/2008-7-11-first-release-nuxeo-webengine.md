@@ -1,7 +1,7 @@
 ---
 title: "First Release of Nuxeo WebEngine"
 date: 2008-07-11
-path: blog/2008/7/first-release-nuxeo-webengine
+path: /blog/2008/7/first-release-nuxeo-webengine
 summary: "WebEngine is a lightweight, versatile, content-centric, open source web framework to quickly build and deliver next generation content-oriented web applications."
 tags: ['Nuxeo', 'Python', 'Java']
 ---

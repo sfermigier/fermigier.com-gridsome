@@ -1,7 +1,7 @@
 ---
 title: "Logiciels libres et éducation"
 date: 1998-06-12
-path: blog/1998/6/logiciels-libres-education
+path: /blog/1998/6/logiciels-libres-education
 summary: "Lu dans la presse récemment: Des monopoles mis à mal en France, Multimédium, 9 juin 1998."
 tags: ['Apache', 'Linux', 'AFUL']
 ---

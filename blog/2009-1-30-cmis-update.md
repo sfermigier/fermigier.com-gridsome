@@ -1,7 +1,7 @@
 ---
 title: "CMIS Update"
 date: 2009-01-30
-path: blog/2009/1/cmis-update
+path: /blog/2009/1/cmis-update
 summary: "Florent Guillaume is in the US this week for the first face-to-face meeting of the CMIS working group since the project got accepted by OASIS a few months ago."
 tags: ['Nuxeo']
 ---

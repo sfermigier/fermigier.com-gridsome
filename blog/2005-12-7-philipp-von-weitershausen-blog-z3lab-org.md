@@ -1,7 +1,7 @@
 ---
 title: "Philipp von Weitershausen has a blog on z3lab.org"
 date: 2005-12-07
-path: blog/2005/12/philipp-von-weitershausen-blog-z3lab-org
+path: /blog/2005/12/philipp-von-weitershausen-blog-z3lab-org
 summary: "Philipp von Weitershausen, one of the heavyweights of the Zope3 development team, now has a blog on z3lab, the community site for the project aiming at building the next-generation Open Source ECM Platform."
 tags: ['Zope', 'Open Source']
 ---

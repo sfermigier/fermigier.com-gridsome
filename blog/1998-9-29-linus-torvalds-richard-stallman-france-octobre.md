@@ -1,7 +1,7 @@
 ---
 title: "Linus Torvalds et Richard Stallman en France en octobre"
 date: 1998-09-29
-path: blog/1998/9/linus-torvalds-richard-stallman-france-octobre
+path: /blog/1998/9/linus-torvalds-richard-stallman-france-octobre
 summary: "Selon les informations dont je dispose, Linus Torvalds sera à Toulouse pour le colloque ``Droits de l'Homme et technologies de l'information et de la communication'' le 10 octobre 1998."
 tags: ['Misc']
 ---

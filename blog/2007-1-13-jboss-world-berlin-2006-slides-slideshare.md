@@ -1,7 +1,7 @@
 ---
 title: "JBoss World Berlin 2006 slides on SlideShare"
 date: 2007-01-13
-path: blog/2007/1/jboss-world-berlin-2006-slides-slideshare
+path: /blog/2007/1/jboss-world-berlin-2006-slides-slideshare
 summary: ""
 tags: ['Nuxeo', 'Open Source']
 ---

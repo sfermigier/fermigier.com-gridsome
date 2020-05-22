@@ -1,7 +1,7 @@
 ---
 title: "Slides Solutions Linux: \"Connectivité CPS et Eclipse\""
 date: 2006-02-03
-path: blog/2006/2/slides-solutions-linux-connectivite-cps-eclipse
+path: /blog/2006/2/slides-solutions-linux-connectivite-cps-eclipse
 summary: "Bogdan pr&#233;sentait hier lors du salon Solution Linux notre travail autour du client riche pour CPS: le projet Apog&#233;e, bas&#233; sur Eclipse RCP, que nous venons notamment de soumettre &#224; la Eclipse Foundation."
 tags: ['Nuxeo', 'Zope', 'CPS', 'Eclipse', 'Linux']
 ---

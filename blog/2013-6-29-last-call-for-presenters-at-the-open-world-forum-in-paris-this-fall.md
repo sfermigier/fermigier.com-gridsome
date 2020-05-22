@@ -1,7 +1,7 @@
 ---
 title: "Last call for presenters at the Open World Forum in Paris this fall"
 date: 2013-06-29
-path: blog/2013/6/last-call-for-presenters-at-the-open-world-forum-in-paris-this-fall
+path: /blog/2013/6/last-call-for-presenters-at-the-open-world-forum-in-paris-this-fall
 summary: "The CFP (call for participants) at the 6th Open World Forum (Europe's major open source event) ends tomorrow."
 tags: ['Open World Forum']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "DADVSI: lette ouverte des industriels du libre au Premier Ministre"
 date: 2006-03-06
-path: blog/2006/3/dadvsi-lette-ouverte-industriels-libre-premier-ministre
+path: /blog/2006/3/dadvsi-lette-ouverte-industriels-libre-premier-ministre
 summary: "Monsieur le Premier Ministre, Les &#233;v&#233;nements qui ont accompagn&#233; &#224; la fin du mois de d&#233;cembre 2005 le vote de la loi sur les droits d'auteur (DADVSI) ont d&#233;montr&#233; combien ce sujet &#233;tait &#224; la fois sensible etcomplexe."
 tags: ['Misc']
 ---

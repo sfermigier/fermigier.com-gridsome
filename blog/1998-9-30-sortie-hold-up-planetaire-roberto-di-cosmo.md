@@ -1,7 +1,7 @@
 ---
 title: "Sortie du \"Hold-up planétaire\" de Roberto di Cosmo"
 date: 1998-09-30
-path: blog/1998/9/sortie-hold-up-planetaire-roberto-di-cosmo
+path: /blog/1998/9/sortie-hold-up-planetaire-roberto-di-cosmo
 summary: "``Le hold-up planétaire'', le livre d'entretiens entre Roberto di Cosmo, chercheur à l'ENS, et Dominique Nora, journaliste au Nouvel Observateur, est maintenant disponible en librairies."
 tags: ['Microsoft']
 ---

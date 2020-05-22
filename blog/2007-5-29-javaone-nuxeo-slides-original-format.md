@@ -1,7 +1,7 @@
 ---
 title: "JavaOne Nuxeo Slides: now in original format"
 date: 2007-05-29
-path: blog/2007/5/javaone-nuxeo-slides-original-format
+path: /blog/2007/5/javaone-nuxeo-slides-original-format
 summary: "The slides of our presentation at JavaOne have now been published by Sun (minus an URL error from this page which I hope they will correct soon)."
 tags: ['Nuxeo']
 ---

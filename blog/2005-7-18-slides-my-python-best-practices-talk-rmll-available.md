@@ -1,7 +1,7 @@
 ---
 title: "Slides for my \"Python best practices\" talk at RMLL available"
 date: 2005-07-18
-path: blog/2005/7/slides-my-python-best-practices-talk-rmll-available
+path: /blog/2005/7/slides-my-python-best-practices-talk-rmll-available
 summary: "The slides for my \"Python best practices\" talk at the \"libre software meeting\" in Dijon 10 days ago are now online after some minor polishing."
 tags: ['Nuxeo', 'Python']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Première conférence Apache"
 date: 1998-07-24
-path: blog/1998/7/premiere-conference-apache
+path: /blog/1998/7/premiere-conference-apache
 summary: "Le Apache Group organise la première conférence Apache à San Francisco, du 14 au 16 octobre 1998."
 tags: ['Apache']
 ---

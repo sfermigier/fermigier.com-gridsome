@@ -1,7 +1,7 @@
 ---
 title: "Fiche de lecture: Informatiques Magazine no 50"
 date: 1998-06-15
-path: blog/1998/6/fiche-lecture-informatiques-magazine-no-50
+path: /blog/1998/6/fiche-lecture-informatiques-magazine-no-50
 summary: "Le dernier numéro d'Informatiques Magazine contient plusieurs articles qui traitent directement ou indirectement des logiciels libres: (P."
 tags: ['SQL', 'Linux', 'Unix', 'SCO', 'AFUL']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Economie du logiciel libre: une étude sérieuse"
 date: 1998-07-01
-path: blog/1998/7/economie-logiciel-libre-etude-serieuse
+path: /blog/1998/7/economie-logiciel-libre-etude-serieuse
 summary: "Le site Web d'information Multimédium (qui utilise notamment Apache et MySQL pour son fonctionnement interne) publie aujourd'hui un important dossier signé par Jean-Paul Smets (docteur en sciences informatiques et consultant à l'École des Mines de Paris) et intitulé L'économie du logiciel libre."
 tags: ['Apache']
 ---

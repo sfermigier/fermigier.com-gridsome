@@ -1,7 +1,7 @@
 ---
 title: "Présentation Linux à Melun et table ronde à Paris"
 date: 1999-01-22
-path: blog/1999/1/presentation-linux-melun-table-ronde-paris
+path: /blog/1999/1/presentation-linux-melun-table-ronde-paris
 summary: "Nous (l'AFUL) avons participé mercredi 20 à une journée de présentation \"Linux et les logiciels libres\" à Melun."
 tags: ['Linux', 'Unix', 'AFUL', 'Brevets']
 ---

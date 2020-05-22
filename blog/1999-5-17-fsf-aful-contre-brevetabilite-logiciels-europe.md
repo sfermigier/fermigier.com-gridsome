@@ -1,7 +1,7 @@
 ---
 title: "La FSF et l'AFUL contre la brevétabilité des logiciels en Europe"
 date: 1999-05-17
-path: blog/1999/5/fsf-aful-contre-brevetabilite-logiciels-europe
+path: /blog/1999/5/fsf-aful-contre-brevetabilite-logiciels-europe
 summary: "Dans un article de Linux today aujourd'hui, RMS [Richard Stallman] fait un plaidoyer pour \"Sauver l'Europe des brevets sur les logiciels\"."
 tags: ['Linux', 'AFUL', 'Brevets']
 ---

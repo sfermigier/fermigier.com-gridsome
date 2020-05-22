@@ -1,7 +1,7 @@
 ---
 title: "Débat animé autour de la standardisation de Linux"
 date: 1998-08-19
-path: blog/1998/8/debat-anime-autour-standardisation-linux
+path: /blog/1998/8/debat-anime-autour-standardisation-linux
 summary: "Le débat autour de la nécessaire standardisation de Linux a pris un tour nouveau et pour tout dire un peu inquiétant ces derniers jours."
 tags: ['Linux', 'Debian', 'Red Hat']
 ---

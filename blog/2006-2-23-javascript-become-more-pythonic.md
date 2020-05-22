@@ -1,7 +1,7 @@
 ---
 title: "JavaScript to become more pythonic"
 date: 2006-02-23
-path: blog/2006/2/javascript-become-more-pythonic
+path: /blog/2006/2/javascript-become-more-pythonic
 summary: "Brendan Eich blog: Given the years of development in Python and similarities to ECMAScript in application domains and programmer communities, we would rather follow than lead."
 tags: ['Python', 'Mozilla']
 ---

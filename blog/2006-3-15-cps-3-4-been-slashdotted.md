@@ -1,7 +1,7 @@
 ---
 title: "CPS 3.4 has been slashdotted :)"
 date: 2006-03-15
-path: blog/2006/3/cps-3-4-been-slashdotted
+path: /blog/2006/3/cps-3-4-been-slashdotted
 summary: "slasdotted today."
 tags: ['Nuxeo', 'CPS']
 ---

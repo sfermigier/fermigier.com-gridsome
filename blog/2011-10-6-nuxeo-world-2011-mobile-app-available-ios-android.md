@@ -1,7 +1,7 @@
 ---
 title: "Nuxeo World 2011 mobile app available for iOS and Android"
 date: 2011-10-06
-path: blog/2011/10/nuxeo-world-2011-mobile-app-available-ios-android
+path: /blog/2011/10/nuxeo-world-2011-mobile-app-available-ios-android
 summary: "Apple has just approved the first release of our Nuxeo World 2011 companion app for general availability on the iTune App Store."
 tags: ['Nuxeo']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Annonce de Mandrake 6.0"
 date: 1999-05-27
-path: blog/1999/5/annonce-mandrake-6-0
+path: /blog/1999/5/annonce-mandrake-6-0
 summary: "La version 6.0 finale de la distribution Mandrake est annoncée et d'ors et déjà disponible au téléchargement sur certains sites (2 versions: classique ou image ISO9660)."
 tags: ['Apache', 'Mandrake', 'GNOME', 'KDE']
 ---

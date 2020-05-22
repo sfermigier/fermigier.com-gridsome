@@ -1,7 +1,7 @@
 ---
 title: "VisualAge pour Java"
 date: 1999-06-27
-path: blog/1999/6/visualage-java
+path: /blog/1999/6/visualage-java
 summary: "IBM distribue en ce moment une version beta Linux de son environnement de développement \"VisualAge for Java\" version professionnelle."
 tags: ['Java', 'Linux']
 ---

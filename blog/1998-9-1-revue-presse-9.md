@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1998-09-01
-path: blog/1998/9/revue-presse-9
+path: /blog/1998/9/revue-presse-9
 summary: "L'hebdomadaire \"Décison Micro et Réseaux\" du lundi 31 août (n°349 - 20 F) parle de Linux à deux reprises dans sa rubrique \"L'essentiel de l'été\": tout d'abord sous le titre \"Mandala propose SuSE Linux 5.3\", quelques lignes en bas de colonne sur le fait que l'éditeur Mandala, qui propose des machines sous Linux, propose aussi pour 282 F HT une nouvelle version de Linux SuSE qui intègre les mises à jour du serveur Apache, un studio d'animation 3D et d'enregistrement audio ainsi qu'une gamme d'outils pour Internet."
 tags: ['Apache', 'Linux', 'Red Hat']
 ---

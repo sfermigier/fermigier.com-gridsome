@@ -1,7 +1,7 @@
 ---
 title: "About the Eclipse Dynamic Languages Toolkit proposal"
 date: 2006-02-22
-path: blog/2006/2/about-eclipse-dynamic-languages-toolkit-proposal
+path: /blog/2006/2/about-eclipse-dynamic-languages-toolkit-proposal
 summary: "Xored software has submitted a while ago an Eclipse project proposal for a \"Dynamic Languages Toolkit\"."
 tags: ['Python', 'Eclipse']
 ---

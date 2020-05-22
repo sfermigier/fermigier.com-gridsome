@@ -1,7 +1,7 @@
 ---
 title: "The Economic Majority website want your support (against software patents)"
 date: 2005-06-29
-path: blog/2005/6/economic-majority-website-want-your-support-against-software-patents
+path: /blog/2005/6/economic-majority-website-want-your-support-against-software-patents
 summary: "Economic Majority (against software patents) webstite now has more than 1500 supporters which is already a fair number, but could use even more support before the software patents directive get voted by the European Parliament next week."
 tags: ['Misc']
 ---

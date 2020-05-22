@@ -1,7 +1,7 @@
 ---
 title: "Nuxeo recrute"
 date: 2006-04-11
-path: blog/2006/4/nuxeo-recrute
+path: /blog/2006/4/nuxeo-recrute
 summary: "d&#233;veloppeurs Zope/CPS (profil: IUT ou ing&#233;nieur, un go&#251;t prononc&#233; pour la d&#233;veloppement d'applications open-source) et une pour unsysadmin."
 tags: ['Nuxeo', 'Zope', 'CPS']
 ---

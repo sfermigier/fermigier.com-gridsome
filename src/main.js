@@ -19,7 +19,7 @@ export default function(Vue, { router, head, isClient }) {
   head.meta.push({
     name: "keywords",
     content:
-      "Stefane Fermigier, Logiciel Libre, Open Source, Python, Abilian, Nuxeo",
+      "Stefane Fermigier, Logiciel Libre, Open Source, Python, Abilian",
   });
 
   head.meta.push({

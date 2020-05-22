@@ -1,7 +1,7 @@
 ---
 title: "New Nuxeo Architecture Slides Published"
 date: 2008-04-30
-path: blog/2008/4/new-nuxeo-architecture-slides-published
+path: /blog/2008/4/new-nuxeo-architecture-slides-published
 summary: "I&#8217;ve just posted on slideshare a set of slides that have been used at recent customers and partners presentations about the Nuxeo architecture."
 tags: ['Nuxeo']
 ---

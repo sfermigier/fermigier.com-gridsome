@@ -1,7 +1,7 @@
 ---
 title: "Des magnétoscopes numériques sous Linux"
 date: 1999-01-06
-path: blog/1999/1/magnetoscopes-numeriques-sous-linux
+path: /blog/1999/1/magnetoscopes-numeriques-sous-linux
 summary: "Selon cet article de Multimédium, deux sociétés californiennes sont sur le point de commercialiser des magnétoscopes complètement numériques (i.e."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Compte-rendu de la premiere Journee Python France"
 date: 1999-06-07
-path: blog/1999/6/compte-rendu-premiere-journee-python-france
+path: /blog/1999/6/compte-rendu-premiere-journee-python-france
 summary: "J'ai eu le bonheur d'assister la semaine dernière, contre la modique somme de 250 FF, à la première Journée Python France organisée par l'ONERA à Châtillon."
 tags: ['Python']
 ---

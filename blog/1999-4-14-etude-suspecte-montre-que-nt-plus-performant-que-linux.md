@@ -1,7 +1,7 @@
 ---
 title: "Une étude suspecte montre que NT est plus performant que Linux"
 date: 1999-04-14
-path: blog/1999/4/etude-suspecte-montre-que-nt-plus-performant-que-linux
+path: /blog/1999/4/etude-suspecte-montre-que-nt-plus-performant-que-linux
 summary: "Un laboratoire de test ``indépendant'' vient de publier une étude qui montre que NT Server serait 2.5 fois plus rapide que Linux 5.2 (avec noyau 2.2) comme serveur SMB et 3.5 fois plus rapide avec IIS comme serveur Web que Linux avec Apache."
 tags: ['Apache', 'Linux', 'Microsoft']
 ---

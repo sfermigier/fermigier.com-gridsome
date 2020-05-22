@@ -1,7 +1,7 @@
 ---
 title: "CPS chez Areva: alternative à Documentum pour la GED"
 date: 2006-02-22
-path: blog/2006/2/cps-chez-areva-alternative-documentum-ged
+path: /blog/2006/2/cps-chez-areva-alternative-documentum-ged
 summary: "Une petite recherche sur Google sur le th&#232;me \"areva nuxeo\", fait ressortir des slides de Christophe Le Cannellier, de la DSI du groupe Areva, sur le th&#232;me \"retour d'exp&#233;riences sur le logiciel libre\", correspondant &#224; une pr&#233;sentation donn&#233;e il y a 6 mois."
 tags: ['Nuxeo', 'CPS']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1999-01-19
-path: blog/1999/1/revue-presse-francaise-11
+path: /blog/1999/1/revue-presse-francaise-11
 summary: "Le Décision Micro et Réseaux de cette semaine (no 366) contient un article très élogieux sur Linux, qui annonce la sortie imminente du noyau 2.2."
 tags: ['Linux', 'Unix', 'Microsoft']
 ---

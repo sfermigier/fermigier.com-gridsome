@@ -1,7 +1,7 @@
 ---
 title: "Top 10 reasons to use CPSSkins according to Jean-Marc Orliaguet"
 date: 2005-06-30
-path: blog/2005/6/top-10-reasons-use-cpsskins-according-jean-marc-orliaguet
+path: /blog/2005/6/top-10-reasons-use-cpsskins-according-jean-marc-orliaguet
 summary: "Jean-Marc&#39;s slides for his Europython 2005 talk are now online."
 tags: ['Misc']
 ---

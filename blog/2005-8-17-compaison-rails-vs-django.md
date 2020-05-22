@@ -1,7 +1,7 @@
 ---
 title: "Compaison Rails vs. Django"
 date: 2005-08-17
-path: blog/2005/8/compaison-rails-vs-django
+path: /blog/2005/8/compaison-rails-vs-django
 summary: "Rails est un framework web MVC pour le langage Ruby qui connait une certaine popularit&#233; en ce moment."
 tags: ['Python']
 ---

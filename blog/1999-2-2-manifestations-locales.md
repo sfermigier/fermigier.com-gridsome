@@ -1,7 +1,7 @@
 ---
 title: "Manifestations locales"
 date: 1999-02-02
-path: blog/1999/2/manifestations-locales
+path: /blog/1999/2/manifestations-locales
 summary: "L'association EpX organise à l'EPITA (école d'informatique parisienne) le 5 février une grande soirée ``Linux et logiciels libres'' avec une conférence réunissant Fred Couchet (APRIL) et moi-même (AFUL), ainsi que plusieurs utilisateurs de Linux, et des démonstrations."
 tags: ['Linux', 'AFUL']
 ---

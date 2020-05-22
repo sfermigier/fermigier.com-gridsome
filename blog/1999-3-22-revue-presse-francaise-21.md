@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1999-03-22
-path: blog/1999/3/revue-presse-francaise-21
+path: /blog/1999/3/revue-presse-francaise-21
 summary: "Le Virus Informatique n°12, mars 99, 10 F, cite à plusieurs reprises Linux, à propos de linux.com, de WordPerfect pour Linux, de NT 4.0 qui équipe le porte-avions Charles-de-Gaulle ou de Sybex et son Kit pour Linux..."
 tags: ['Linux', 'Open Source']
 ---

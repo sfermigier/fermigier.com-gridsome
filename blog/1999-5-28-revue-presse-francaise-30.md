@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse francaise"
 date: 1999-05-28
-path: blog/1999/5/revue-presse-francaise-30
+path: /blog/1999/5/revue-presse-francaise-30
 summary: "Le numéro 58 de l'hebdomadaire grand public Micro Hebdo, 9,50 F, met Linux en couverture : un rectangle en haut à droite avec Tux et \"Pas à pas - Installer Linux\" écrit à l'intérieur."
 tags: ['Linux', 'Mandrake', 'GNOME', 'KDE']
 ---

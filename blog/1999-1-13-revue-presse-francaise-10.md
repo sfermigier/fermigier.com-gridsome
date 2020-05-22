@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1999-01-13
-path: blog/1999/1/revue-presse-francaise-10
+path: /blog/1999/1/revue-presse-francaise-10
 summary: "Sur le site de RFI, la transcription d'une interview de Jean-Paul Smets-Solanes ``L'Europe et les logiciels libres'', réalisée à Autrans."
 tags: ['Apache', 'Linux', 'Microsoft']
 ---

@@ -81,7 +81,7 @@
 
 <static-query>
   {
-    metaData{
+    metadata{
       pathPrefix
     }
   }
@@ -96,7 +96,7 @@ export default {
     SearchFocus,
   },
   created() {
-    axios(this.$static.metaData.pathPrefix + "/search.json")
+    axios(this.$static.metadata.pathPrefix + "/search.json")
       .then(response => {
         this.posts = response.data;
       })

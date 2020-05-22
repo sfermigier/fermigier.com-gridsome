@@ -1,7 +1,7 @@
 ---
 title: "Sortie de la Mandrake 6.0 Beta"
 date: 1999-05-17
-path: blog/1999/5/sortie-mandrake-6-0-beta
+path: /blog/1999/5/sortie-mandrake-6-0-beta
 summary: "La version bêta 6.0 de Mandrake est sortie."
 tags: ['Linux', 'Mandrake', 'GNOME', 'KDE']
 ---

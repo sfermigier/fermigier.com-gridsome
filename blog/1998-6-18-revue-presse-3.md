@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1998-06-18
-path: blog/1998/6/revue-presse-3
+path: /blog/1998/6/revue-presse-3
 summary: "Le Nouvel Observateur de cette semaine (numéro 1754 du 18 au 24 juin, 20F) consacre sa couverture à Bill Gates, mais pas dans les termes habituels: \"Pourquoi cet homme est dangereux?\"."
 tags: ['Linux', 'GNU', 'AFUL', 'Microsoft']
 ---

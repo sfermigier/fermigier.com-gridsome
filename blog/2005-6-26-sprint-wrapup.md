@@ -1,7 +1,7 @@
 ---
 title: "Sprint wrapup"
 date: 2005-06-26
-path: blog/2005/6/sprint-wrapup
+path: /blog/2005/6/sprint-wrapup
 summary: "Jean-Marc Orliaguet: has ported (in fact totally rewrote) CPSSkins for Zope3."
 tags: ['Zope']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Offre d'emploi à Paris"
 date: 1998-09-28
-path: blog/1998/9/offre-emploi-paris
+path: /blog/1998/9/offre-emploi-paris
 summary: "Idea Net cherche un programmeur Linux/Perl/Java/C++ sur Paris."
 tags: ['Java', 'Apache', 'Linux', 'Red Hat', 'Unix', 'Solaris']
 ---

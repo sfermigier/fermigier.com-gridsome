@@ -1,7 +1,7 @@
 ---
 title: "New (experimental) Ubuntu packages for Nuxeo DM and DAM"
 date: 2010-06-28
-path: blog/2010/6/new-experimental-ubuntu-packages-nuxeo-dm-dam
+path: /blog/2010/6/new-experimental-ubuntu-packages-nuxeo-dm-dam
 summary: "We've restarted work on Debian/Ubuntu packages."
 tags: ['Nuxeo', 'Debian', 'Ubuntu']
 ---

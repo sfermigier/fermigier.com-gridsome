@@ -1,7 +1,7 @@
 ---
 title: "Nouvelles des LUG"
 date: 1998-11-09
-path: blog/1998/11/nouvelles-lug
+path: /blog/1998/11/nouvelles-lug
 summary: "Il va y avoir une présentation Linux et des logiciels libres pour le secteur de Morlaix (une suite délocalisée de la journée du 10 Octobre à Brest), avec le concours de l'association FINIX."
 tags: ['Linux', 'AFUL']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Logiciel libre et emploi"
 date: 1998-06-12
-path: blog/1998/6/logiciel-libre-emploi
+path: /blog/1998/6/logiciel-libre-emploi
 summary: "Philippe Chaléat m'écrit: Je m'apprête à rentrer en France courant Juillet et souhaiterais pouvoir travailler dans la région Rhônes-Alpes dès Septembre."
 tags: ['Linux']
 ---

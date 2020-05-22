@@ -1,7 +1,7 @@
 ---
 title: "Un nouveau LUG à Paris"
 date: 1998-09-10
-path: blog/1998/9/nouveau-lug-paris
+path: /blog/1998/9/nouveau-lug-paris
 summary: "Michael Mestre me signale son intention de créer un nouveau groupe d'utilisateurs de Linux à Paris."
 tags: ['Linux']
 ---

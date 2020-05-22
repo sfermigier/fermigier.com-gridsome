@@ -1,7 +1,7 @@
 ---
 title: "Slides for my CPS Platform presentation at EuroPython"
 date: 2005-06-30
-path: blog/2005/6/slides-my-cps-platform-presentation-europython
+path: /blog/2005/6/slides-my-cps-platform-presentation-europython
 summary: "My slides are now online."
 tags: ['Zope', 'CPS']
 ---

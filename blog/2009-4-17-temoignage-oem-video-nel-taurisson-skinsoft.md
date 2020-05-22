@@ -1,7 +1,7 @@
 ---
 title: "Témoignage OEM en vidéo - Nel Taurisson (SkinSoft)"
 date: 2009-04-17
-path: blog/2009/4/temoignage-oem-video-nel-taurisson-skinsoft
+path: /blog/2009/4/temoignage-oem-video-nel-taurisson-skinsoft
 summary: "J&#8217;&#233;tais hier &#224; une pr&#233;sentation de SkinMuseum, application de gestion de collections de mus&#233;es d&#233;velop&#233;es par la jeune entreprise innovante SkinSoft."
 tags: ['Nuxeo']
 ---

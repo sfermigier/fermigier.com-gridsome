@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse francophone"
 date: 1999-04-28
-path: blog/1999/4/revue-presse-francophone
+path: /blog/1999/4/revue-presse-francophone
 summary: "Comme prévu, le dernier numéro de PC Expert contient un dossier sur ``les logiciels gratuits'' (en fait les logiciels libres, surtout Linux et un tout petit peu FreeBSD) et la Mandrake 5.3 sur CD-ROM."
 tags: ['Linux', 'Mandrake', 'Open Source', 'Microsoft']
 ---

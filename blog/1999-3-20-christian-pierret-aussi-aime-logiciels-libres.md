@@ -1,7 +1,7 @@
 ---
 title: "Christian Pierret aussi aime les logiciels libres"
 date: 1999-03-20
-path: blog/1999/3/christian-pierret-aussi-aime-logiciels-libres
+path: /blog/1999/3/christian-pierret-aussi-aime-logiciels-libres
 summary: "Au cours du lancement par l'AFUL de sa première antenne régionale en Lorraine, Christian Pierret, Secrétaire d'Etat à l'industrie, a présenté l'action du gouvernement dans le domaine des nouvelles technologies de l'information."
 tags: ['Linux', 'AFUL']
 ---

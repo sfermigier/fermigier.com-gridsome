@@ -1,7 +1,7 @@
 ---
 title: "Linux à l'université d'été \"Internet et les technologies de l'information\" d'Archamps"
 date: 1998-06-30
-path: blog/1998/6/linux-universite-ete-internet-technologies-information-archamps
+path: /blog/1998/6/linux-universite-ete-internet-technologies-information-archamps
 summary: "Le Centre de Ressources Informatiques d'Archamps (CRI) et l'Agence Economique Départementale de Haute-Savoie organisaient les 29 et 30 juin et le 1er juillet une université d'été sur Internet et les technologies de l'information."
 tags: ['Linux']
 ---

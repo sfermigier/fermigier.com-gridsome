@@ -1,7 +1,7 @@
 ---
 title: "Projet Independence: "
 date: 1998-05-22
-path: blog/1998/5/projet-independence
+path: /blog/1998/5/projet-independence
 summary: "Le projet Independence est un projet de distribution basé sur Red Hat qui vise à rendre Linux accessible à un public plus large que les distributions traditionnelles."
 tags: ['Linux', 'Red Hat']
 ---

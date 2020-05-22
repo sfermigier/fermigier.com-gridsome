@@ -1,7 +1,7 @@
 ---
 title: "Red Hat Linux 5.0 is Here At Last!"
 date: 1997-12-01
-path: blog/1997/12/red-hat-linux-5-0-here-last
+path: /blog/1997/12/red-hat-linux-5-0-here-last
 summary: "Annonce de la nouvelle distribution Red Hat 5.0, dont les principales nouveautés sont d'être basée sur la nouvelle librairie C glibC et de bénéficier d'une procédure d'installation et de configuration simplifiée, en particulier en ce qui concerne le (re)partitionnement du disque dur."
 tags: ['Linux', 'Red Hat']
 ---

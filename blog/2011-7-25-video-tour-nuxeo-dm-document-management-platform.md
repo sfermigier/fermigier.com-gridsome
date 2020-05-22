@@ -1,7 +1,7 @@
 ---
 title: "Tour the Nuxeo, stage 4: A video tour of the Nuxeo DM document management platform"
 date: 2011-07-25
-path: blog/2011/7/video-tour-nuxeo-dm-document-management-platform
+path: /blog/2011/7/video-tour-nuxeo-dm-document-management-platform
 summary: "The Tour de France 2011 is already over (congratulations to Cadel Evans, Mark Cavendish, Samuel Sanchez and Pierre Roland, winners of the four distinctive jerseys this year), but the Tour de Nuxeo is far from over."
 tags: ['Nuxeo']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Réaction à la publication du plan Besson \"France Numérique 2012\""
 date: 2008-10-22
-path: blog/2008/10/reaction-publication-plan-besson-france-numerique-2012
+path: /blog/2008/10/reaction-publication-plan-besson-france-numerique-2012
 summary: "Le plan &#8220;France num&#233;rique 2012&#8221; pr&#233;sent&#233; hier par Eric Besson fait l&#8217;impasse sur le secteur du logiciel."
 tags: ['Linux']
 ---

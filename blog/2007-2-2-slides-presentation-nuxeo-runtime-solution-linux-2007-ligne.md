@@ -1,7 +1,7 @@
 ---
 title: "Slides de la présentation \"Nuxeo Runtime\" de Solution Linux 2007 en ligne"
 date: 2007-02-02
-path: blog/2007/2/slides-presentation-nuxeo-runtime-solution-linux-2007-ligne
+path: /blog/2007/2/slides-presentation-nuxeo-runtime-solution-linux-2007-ligne
 summary: "Je viens de mettre en ligne les slides de la pr&#233;sentation de Bogdan sur Nuxeo Runtime."
 tags: ['Nuxeo', 'Linux']
 ---

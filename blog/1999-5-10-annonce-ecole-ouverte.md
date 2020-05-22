@@ -1,7 +1,7 @@
 ---
 title: "Annonce de l'Ecole Ouverte"
 date: 1999-05-10
-path: blog/1999/5/annonce-ecole-ouverte
+path: /blog/1999/5/annonce-ecole-ouverte
 summary: "L'École Ouverte commence sa série de cours ``à la carte'' à l'École d'Architecture de la Villette (UP6) mardi prochain (le 11 mai) à 18h."
 tags: ['Linux', 'Debian']
 ---

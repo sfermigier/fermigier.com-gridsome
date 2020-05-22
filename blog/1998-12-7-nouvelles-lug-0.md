@@ -1,7 +1,7 @@
 ---
 title: "Nouvelles des LUG"
 date: 1998-12-07
-path: blog/1998/12/nouvelles-lug-0
+path: /blog/1998/12/nouvelles-lug-0
 summary: "Il va y avoir une présentation de Linux le 10 décembre de 14h30 à 17h à l'IUT Informatique de Bayonne (Amphi B, 3, avenue Jean Darrigrand, 64115 BAYONNE)."
 tags: ['Linux', 'GNU']
 ---

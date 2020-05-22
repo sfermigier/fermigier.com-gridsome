@@ -1,7 +1,7 @@
 ---
 title: "New beta Nuxeo DM package for Debian / Ubuntu"
 date: 2010-12-13
-path: blog/2010/12/new-beta-nuxeo-dm-package-debian-ubuntu
+path: /blog/2010/12/new-beta-nuxeo-dm-package-debian-ubuntu
 summary: "We have made a new .deb package of Nuxeo DM for Debian and Ubuntu."
 tags: ['Nuxeo', 'SQL', 'Linux', 'Debian', 'Ubuntu', 'Mandriva', 'Red Hat']
 ---

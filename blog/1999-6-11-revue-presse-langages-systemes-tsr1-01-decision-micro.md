@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse: Langages et systemes, TSR1, 01, Decision Micro"
 date: 1999-06-11
-path: blog/1999/6/revue-presse-langages-systemes-tsr1-01-decision-micro
+path: /blog/1999/6/revue-presse-langages-systemes-tsr1-01-decision-micro
 summary: "Le magazine Langages &amp; Systèmes de juin/juillet, n°12, 35 F, contient un long article inhabituel sur Linux : une interview \"exclusive\" de Linus Torvalds."
 tags: ['Python', 'Linux', 'Open Source']
 ---

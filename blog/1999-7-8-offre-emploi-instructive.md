@@ -1,7 +1,7 @@
 ---
 title: "Offre d'emploi instructive"
 date: 1999-07-08
-path: blog/1999/7/offre-emploi-instructive
+path: /blog/1999/7/offre-emploi-instructive
 summary: "Marc Serrau nous signale une nouvelle fort instructive: Inprise (ex-Borland) a récemment fait passer une annonce pour recruter un développeur senior responsable du portage de Delphi sous Linux."
 tags: ['Linux']
 ---

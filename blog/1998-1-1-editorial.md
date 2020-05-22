@@ -1,7 +1,7 @@
 ---
 title: "Éditorial"
 date: 1998-01-01
-path: blog/1998/1/editorial
+path: /blog/1998/1/editorial
 summary: "Le premier mois de la nouvelle année 1998 (an 7 de l'ère du Pingouin) a été très riche en événements intéressants, et semble indiquer que cette année sera cruciale pour l'avenir (il me semble raisonnable de tabler sur 10 millions d'utilisateurs à la fin de l'année)."
 tags: ['Apache', 'Linux', 'Debian', 'Red Hat', 'GNOME', 'KDE', 'Unix']
 ---

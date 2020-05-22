@@ -1,7 +1,7 @@
 ---
 title: "Transparents du séminaire \"Perspectives 2006\" publiés sur nuxeo.com"
 date: 2005-11-22
-path: blog/2005/11/transparents-seminaire-perspectives-2006-publies-nuxeo-com
+path: /blog/2005/11/transparents-seminaire-perspectives-2006-publies-nuxeo-com
 summary: "Je viens de mettre en ligne sur le site de Nuxeo les transparents de nos pr&#233;sentations (ainsi que celle de la CNCC) lors du s&#233;minaire \"Perspectives 2006\" que nous avons fait fin septembre."
 tags: ['Nuxeo', 'CPS', 'Microsoft']
 ---

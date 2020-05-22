@@ -1,7 +1,7 @@
 ---
 title: "Urgent: appel a communications pour Linux Expo"
 date: 1999-03-30
-path: blog/1999/3/urgent-appel-communications-linux-expo
+path: /blog/1999/3/urgent-appel-communications-linux-expo
 summary: "Je vous rappelle l'existence d'un appel à communications pour Linux Expo (17-18 juin, Paris)."
 tags: ['Python', 'Java', 'Apache', 'Linux', 'GNOME', 'KDE']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nuxeo EP 5.1.3 and 5.1.3.1 released"
 date: 2008-02-18
-path: blog/2008/2/nuxeo-ep-5-1-3-5-1-3-1-released
+path: /blog/2008/2/nuxeo-ep-5-1-3-5-1-3-1-released
 summary: "Nuxeo EP 5.1.3 has been released in January, with 235 enhancements over the previous version, Nuxeo EP 5.1.2, which had been released in October."
 tags: ['Nuxeo']
 ---

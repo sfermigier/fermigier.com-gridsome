@@ -1,7 +1,7 @@
 ---
 title: "Peut-on faire confiance à Linux?"
 date: 1998-02-01
-path: blog/1998/2/peut-faire-confiance-linux
+path: /blog/1998/2/peut-faire-confiance-linux
 summary: "La question est déjà tendancieuse, et ce dossier de la revue Informatiques Magazine contient de nombreuses erreurs factuelles ou de terminologie, présente des omissions importantes et rapporte quelques clichés éculés."
 tags: ['Linux']
 ---

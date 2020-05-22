@@ -1,7 +1,7 @@
 ---
 title: "Linux et les logiciels libres aux fêtes de l'Internet"
 date: 1998-02-01
-path: blog/1998/2/linux-logiciels-libres-fetes-internet
+path: /blog/1998/2/linux-logiciels-libres-fetes-internet
 summary: "Les 20 et 21 mars prochains auront lieu les fêtes de l'Internet."
 tags: ['Linux', 'Red Hat']
 ---

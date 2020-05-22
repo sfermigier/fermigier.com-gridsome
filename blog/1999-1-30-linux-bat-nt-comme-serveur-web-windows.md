@@ -1,7 +1,7 @@
 ---
 title: "Linux bat NT comme serveur Web et Windows"
 date: 1999-01-30
-path: blog/1999/1/linux-bat-nt-comme-serveur-web-windows
+path: /blog/1999/1/linux-bat-nt-comme-serveur-web-windows
 summary: "Selon cet article de Sm@rt Reseller, Linux surpasse largement NT comme serveur Web (avec l'aide d'Apache) et de fichiers pour clients Windows (avec Samba)."
 tags: ['Apache', 'Linux']
 ---

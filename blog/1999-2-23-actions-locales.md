@@ -1,7 +1,7 @@
 ---
 title: "Actions locales"
 date: 1999-02-23
-path: blog/1999/2/actions-locales
+path: /blog/1999/2/actions-locales
 summary: "Install Party à Tour les 26 et 27 février."
 tags: ['Linux', 'Debian']
 ---

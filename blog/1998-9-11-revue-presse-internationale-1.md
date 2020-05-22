@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse internationale"
 date: 1998-09-11
-path: blog/1998/9/revue-presse-internationale-1
+path: /blog/1998/9/revue-presse-internationale-1
 summary: "Deux articles sortent du lot dans la moisson habituelle: A Fight to the Finnish, Robert X."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Appels à communications pour Linux Expo et LinuxWorld Expo"
 date: 1999-09-28
-path: blog/1999/9/appels-communications-linux-expo-linuxworld-expo
+path: /blog/1999/9/appels-communications-linux-expo-linuxworld-expo
 summary: "On le sait, en janvier et février prochain auront lieu à Paris deux importants salons professionels consacrés à Linux et aux logiciels libres, respectivement LinuxWorld Expo et Linux Expo."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1999-01-21
-path: blog/1999/1/revue-presse-francaise-12
+path: /blog/1999/1/revue-presse-francaise-12
 summary: "Langages &amp; Systèmes est le nom du hors série n°9 d'Info PC, janvier/févier 99 (35 F avec un CD ROM), qui se veut être \"plus qu'un simple hors série\", mais un \"véritable magazine récurrent\" qui propose une information \"pratique et utile\" et \"introuvable dans tout autre magazine\"."
 tags: ['Apache', 'Linux', 'Debian', 'Red Hat', 'AFUL']
 ---

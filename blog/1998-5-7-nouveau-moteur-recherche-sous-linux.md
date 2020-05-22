@@ -1,7 +1,7 @@
 ---
 title: "Un nouveau moteur de recherche, sous Linux"
 date: 1998-05-07
-path: blog/1998/5/nouveau-moteur-recherche-sous-linux
+path: /blog/1998/5/nouveau-moteur-recherche-sous-linux
 summary: "Google est un nouveau moteur de recherche sur le Web (25 millions de pages), expérimental, développé par l'université de Stanford."
 tags: ['Python', 'Linux', 'GNU']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse francaise"
 date: 1999-04-22
-path: blog/1999/4/revue-presse-francaise-26
+path: /blog/1999/4/revue-presse-francaise-26
 summary: "Xavier Benmoussa / AZAR nous signale que le magazine Computer Arts sort un hors série avec deux CD-ROM dont l'un est totalement consacré à Linux avec : \"Red Hat LinuxPPC\" [à noter que LinuxPPC est édité par LinuxPPC inc."
 tags: ['Linux', 'Red Hat', 'KDE']
 ---

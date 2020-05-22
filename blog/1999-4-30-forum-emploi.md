@@ -1,7 +1,7 @@
 ---
 title: "Forum de l'emploi"
 date: 1999-04-30
-path: blog/1999/4/forum-emploi
+path: /blog/1999/4/forum-emploi
 summary: "Plusieurs demandes et offres d'emploi reçues récemment: Cyril BOUTHORS cherche un emploi en administration réseaux et système, de préférence sous Linux."
 tags: ['Apache', 'Linux']
 ---

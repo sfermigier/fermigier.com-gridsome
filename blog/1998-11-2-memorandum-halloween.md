@@ -1,7 +1,7 @@
 ---
 title: "Le mémorandum d'Halloween"
 date: 1998-11-02
-path: blog/1998/11/memorandum-halloween
+path: /blog/1998/11/memorandum-halloween
 summary: "C'était dans Linux Daily News ce matin: Eric S."
 tags: ['Linux', 'Microsoft']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Linux 2.2 pour lundi et samba 2.0 depuis une semaine"
 date: 1999-01-22
-path: blog/1999/1/linux-2-2-lundi-samba-2-0-depuis-semaine
+path: /blog/1999/1/linux-2-2-lundi-samba-2-0-depuis-semaine
 summary: "Selon ce message de Linus Torvalds, le noyau 2.2.0-pre9 (disponible sur ftp.kernel.org et bientôt sur des sites mirroirs à travers le monde, doit être considéré comme le dernier avant le 2.2.0 qui sera diffusé probablement lundi prochain."
 tags: ['Java', 'Apache', 'Linux', 'Unix']
 ---

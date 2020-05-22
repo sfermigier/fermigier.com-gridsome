@@ -1,7 +1,7 @@
 ---
 title: "Transparents de la OOoRegiCon de San Diego 2005"
 date: 2005-03-08
-path: blog/2005/3/transparents-oooregicon-san-diego-2005
+path: /blog/2005/3/transparents-oooregicon-san-diego-2005
 summary: ""
 tags: ['Linux', 'Open Source', 'OpenOffice']
 ---

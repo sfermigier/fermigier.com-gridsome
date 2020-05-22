@@ -1,7 +1,7 @@
 ---
 title: "Linux dans la presse PC française, enfin!"
 date: 1998-04-30
-path: blog/1998/4/linux-presse-pc-francaise-enfin
+path: /blog/1998/4/linux-presse-pc-francaise-enfin
 summary: "Le dernier numéro de PC Expert propose une nouvelle rubrique permanente sur Linux (3 pages, plutot bien)."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1998-09-02
-path: blog/1998/9/revue-presse-10
+path: /blog/1998/9/revue-presse-10
 summary: "In Linux we..., un très bon dossier dans Software Magazine."
 tags: ['Linux']
 ---

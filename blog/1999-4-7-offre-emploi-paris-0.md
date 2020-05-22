@@ -1,7 +1,7 @@
 ---
 title: "Offre d'emploi à Paris"
 date: 1999-04-07
-path: blog/1999/4/offre-emploi-paris-0
+path: /blog/1999/4/offre-emploi-paris-0
 summary: "La société MandrakeSoft S.A."
 tags: ['Linux', 'Mandrake']
 ---

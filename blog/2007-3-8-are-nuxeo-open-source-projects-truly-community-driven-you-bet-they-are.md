@@ -1,7 +1,7 @@
 ---
 title: "Are Nuxeo's open source projects truly community-driven? You bet they are!"
 date: 2007-03-08
-path: blog/2007/3/are-nuxeo-open-source-projects-truly-community-driven-you-bet-they-are
+path: /blog/2007/3/are-nuxeo-open-source-projects-truly-community-driven-you-bet-they-are
 summary: "Dion Almaer wrote yesterday a blog entry with a list of criteria that, in his opinion, make an open source project truly community-driven (which is, of course, a Good Thing(tm))."
 tags: ['Nuxeo', 'Eclipse', 'Mozilla']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1999-09-29
-path: blog/1999/9/revue-presse-21
+path: /blog/1999/9/revue-presse-21
 summary: "L'hebdomadaire L'Express du 2 au 8 septembre, n°2513, 18 F, traitait de Linux."
 tags: ['Java', 'Linux', 'Debian', 'Red Hat', 'KDE', 'Unix', 'Microsoft']
 ---

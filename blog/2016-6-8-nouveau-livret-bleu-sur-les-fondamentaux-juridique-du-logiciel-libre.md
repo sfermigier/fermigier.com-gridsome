@@ -1,7 +1,7 @@
 ---
 title: "Nouveau livret bleu sur les fondamentaux juridique du logiciel libre"
 date: 2016-06-08
-path: blog/2016/6/nouveau-livret-bleu-sur-les-fondamentaux-juridique-du-logiciel-libre
+path: /blog/2016/6/nouveau-livret-bleu-sur-les-fondamentaux-juridique-du-logiciel-libre
 summary: "Le Groupe Thématique Logiciel Libre vient de publier un \"livret bleu\" sur les fondamentaux juridiques du logiciel libre."
 tags: ['Brevets', 'Innovation', 'GTLL']
 ---

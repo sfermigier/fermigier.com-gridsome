@@ -1,7 +1,7 @@
 ---
 title: "Linux dans l'administration: une nouvelle avancee"
 date: 1999-02-16
-path: blog/1999/2/linux-administration-nouvelle-avancee
+path: /blog/1999/2/linux-administration-nouvelle-avancee
 summary: "Le groupe américain NetAction vient de publier un livre blanc, A Case for Government Promotion of Open Source Software."
 tags: ['Linux', 'Open Source']
 ---

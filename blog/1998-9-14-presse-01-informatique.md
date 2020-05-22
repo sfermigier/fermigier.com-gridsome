@@ -1,7 +1,7 @@
 ---
 title: "Presse: 01 Informatique"
 date: 1998-09-14
-path: blog/1998/9/presse-01-informatique
+path: /blog/1998/9/presse-01-informatique
 summary: "L'hebdomadaire 01 Informatique du 11 au 17 septembre, n°1510, 22 F, consacre 2 articles à Linux ou aux logiciels libres."
 tags: ['Apache', 'Linux', 'GNU', 'Red Hat', 'Unix', 'Microsoft']
 ---

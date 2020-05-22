@@ -1,7 +1,7 @@
 ---
 title: "Annonce officielle de la distribution Indépendance"
 date: 1999-03-06
-path: blog/1999/3/annonce-officielle-distribution-independance
+path: /blog/1999/3/annonce-officielle-distribution-independance
 summary: "Jean-François Martinez vient de nous faire parvenir l'annonce officielle (en français) de la sortie de la distribution Independence, qui vise résolument le grand public."
 tags: ['Misc']
 ---

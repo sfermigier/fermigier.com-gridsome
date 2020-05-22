@@ -1,7 +1,7 @@
 ---
 title: "Nuxeo 5.1 RC released - GA release scheduled for next week"
 date: 2007-07-31
-path: blog/2007/7/nuxeo-5-1-rc-released-ga-release-scheduled-next-week
+path: /blog/2007/7/nuxeo-5-1-rc-released-ga-release-scheduled-next-week
 summary: "We have been so busy the last couple of months working on customers projects that the 5.1 release has slipped a bit, but I&#8217;m happy to report that we have just released Nuxeo 5.1 RC."
 tags: ['Nuxeo']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tour de Nuxeo, Stage 1 - Why manage content?"
 date: 2011-07-04
-path: blog/2011/7/why-manage-content
+path: /blog/2011/7/why-manage-content
 summary: "This is stage 1 of the 2011 \"Tour de Nuxeo\"."
 tags: ['Nuxeo', 'Java', 'Unix']
 ---

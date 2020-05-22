@@ -1,7 +1,7 @@
 ---
 title: "Des nouvelles de Linux Expo"
 date: 1998-05-30
-path: blog/1998/5/nouvelles-linux-expo
+path: /blog/1998/5/nouvelles-linux-expo
 summary: "Quelques nouvelle de Linux Expo, l'endroit où il faut être, d'après une dépêche de Dave Whitinger que je traduis mot à mot: J'ai vu le VNC de Corel."
 tags: ['Linux']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1998-06-27
-path: blog/1998/6/revue-presse-4
+path: /blog/1998/6/revue-presse-4
 summary: "The little operating system that could, Salon Magazine, 26 juin 1998."
 tags: ['Linux', 'GNU', 'Debian', 'Red Hat']
 ---

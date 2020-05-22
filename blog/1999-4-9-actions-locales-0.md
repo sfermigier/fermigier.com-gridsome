@@ -1,7 +1,7 @@
 ---
 title: "Actions locales"
 date: 1999-04-09
-path: blog/1999/4/actions-locales-0
+path: /blog/1999/4/actions-locales-0
 summary: "Première initiation Internet ``grand public'' par l'Ecole Ouverte, samedi 10 de 14h à 17h, à la Défense."
 tags: ['Linux', 'GNOME']
 ---

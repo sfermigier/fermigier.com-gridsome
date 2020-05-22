@@ -1,7 +1,7 @@
 ---
 title: "Un dossier Linux dans SunWorld"
 date: 1998-08-03
-path: blog/1998/8/dossier-linux-sunworld
+path: /blog/1998/8/dossier-linux-sunworld
 summary: "On trouve un surprenant dossier spécial sur Linux dans le dernier numéro de la revue SunWorld."
 tags: ['Java', 'Linux', 'Solaris']
 ---

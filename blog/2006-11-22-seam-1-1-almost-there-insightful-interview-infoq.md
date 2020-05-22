@@ -1,7 +1,7 @@
 ---
 title: "Seam 1.1 almost there + insightful interview on InfoQ"
 date: 2006-11-22
-path: blog/2006/11/seam-1-1-almost-there-insightful-interview-infoq
+path: /blog/2006/11/seam-1-1-almost-there-insightful-interview-infoq
 summary: "As everyone should know now, Seam is an important part of our Nuxeo 5 ECM stack."
 tags: ['Nuxeo']
 ---

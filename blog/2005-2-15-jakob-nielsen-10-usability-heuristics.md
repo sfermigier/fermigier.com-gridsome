@@ -1,7 +1,7 @@
 ---
 title: "Jakob Nielsen: 10 usability heuristics"
 date: 2005-02-15
-path: blog/2005/2/jakob-nielsen-10-usability-heuristics
+path: /blog/2005/2/jakob-nielsen-10-usability-heuristics
 summary: "Un vieux (semble-t-il) papier de Jakob Nielsen, qui pr&#233;sente 10 principes fondamentaux d'ergonomie des interfaces informatiques."
 tags: ['Misc']
 ---

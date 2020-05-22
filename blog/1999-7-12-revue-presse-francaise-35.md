@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse francaise"
 date: 1999-07-12
-path: blog/1999/7/revue-presse-francaise-35
+path: /blog/1999/7/revue-presse-francaise-35
 summary: "Le dernier numéro hors-série de Freelog (N°2, août 99, 34 p., 35 F) est sorti."
 tags: ['Linux', 'Mandrake', 'GNOME', 'Microsoft']
 ---

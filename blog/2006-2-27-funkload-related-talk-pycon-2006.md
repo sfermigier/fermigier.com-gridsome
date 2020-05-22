@@ -1,7 +1,7 @@
 ---
 title: "Funkload-related talk at PyCon 2006"
 date: 2006-02-27
-path: blog/2006/2/funkload-related-talk-pycon-2006
+path: /blog/2006/2/funkload-related-talk-pycon-2006
 summary: "Tres Seavers (of CMF fame), has put online the slides of his talk at PyCon \"New Tools for Testing Web Applications with Python\", which covers both Selenium and our ownFunkload (functional and load tester for web applications)."
 tags: ['Python']
 ---

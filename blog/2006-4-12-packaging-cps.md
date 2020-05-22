@@ -1,7 +1,7 @@
 ---
 title: "Packaging CPS"
 date: 2006-04-12
-path: blog/2006/4/packaging-cps
+path: /blog/2006/4/packaging-cps
 summary: "Packaging CPS is important for ease of installation."
 tags: ['Python', 'Zope', 'CPS', 'Linux', 'Debian', 'Ubuntu', 'Mandriva']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Updated megaframeworks concept map"
 date: 2006-01-22
-path: blog/2006/1/updated-megaframeworks-concept-map
+path: /blog/2006/1/updated-megaframeworks-concept-map
 summary: "PDF, PNG) of five Python megaframeworks (Turbogears, CPS, Django, Subway and Pylons) and their relationships to other Python frameworks and libraries."
 tags: ['Python', 'CPS']
 ---

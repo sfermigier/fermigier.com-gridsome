@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française: Windows News et PC Expert"
 date: 1998-10-05
-path: blog/1998/10/revue-presse-francaise-windows-news-pc-expert
+path: /blog/1998/10/revue-presse-francaise-windows-news-pc-expert
 summary: "Windows News Hors Série Spécial Solutions, 49 F, propose sur son CD ROM la version 5.0 de la Red Hat Linux."
 tags: ['Linux', 'Red Hat', 'Microsoft']
 ---

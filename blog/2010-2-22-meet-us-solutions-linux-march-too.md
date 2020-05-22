@@ -1,7 +1,7 @@
 ---
 title: "Meet us at Solutions Linux in March, too"
 date: 2010-02-22
-path: blog/2010/2/meet-us-solutions-linux-march-too
+path: /blog/2010/2/meet-us-solutions-linux-march-too
 summary: "Solutions Linux is the oldest and biggest trade show in France dedicated to the open source ecosystem."
 tags: ['Nuxeo', 'Linux']
 ---

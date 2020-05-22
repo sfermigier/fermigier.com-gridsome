@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1999-05-29
-path: blog/1999/5/revue-presse-francaise-31
+path: /blog/1999/5/revue-presse-francaise-31
 summary: "Le mensuel Info PC (http://www.infopc.fr) de juin, n°160, 35 F, met Linux en couverture : \"Dossier actualité - LINUX le système qui monte..."
 tags: ['Linux', 'GNU', 'Mandrake', 'Red Hat']
 ---

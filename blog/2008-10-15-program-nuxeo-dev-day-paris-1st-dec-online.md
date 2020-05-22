@@ -1,7 +1,7 @@
 ---
 title: "Program for Nuxeo Dev Day (Paris, 1st Dec.) is now online"
 date: 2008-10-15
-path: blog/2008/10/program-nuxeo-dev-day-paris-1st-dec-online
+path: /blog/2008/10/program-nuxeo-dev-day-paris-1st-dec-online
 summary: "I&#8217;m happy to report that we&#8217;ve finished setting up the conference program for the first Nuxeo Developer Day in Paris, which will take place on 1st December, as a &#8220;community session&#8221; during the awesome Open World Forum 2008."
 tags: ['Nuxeo', 'Open World Forum']
 ---

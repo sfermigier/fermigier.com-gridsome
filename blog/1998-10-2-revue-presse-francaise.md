@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1998-10-02
-path: blog/1998/10/revue-presse-francaise
+path: /blog/1998/10/revue-presse-francaise
 summary: "Dans Le Monde Informatique d'aujourd'hui: Linux touché par le virus du commerce, article globalement positif, malgré quelques imprecisions techniques."
 tags: ['Linux', 'Red Hat', 'Unix']
 ---

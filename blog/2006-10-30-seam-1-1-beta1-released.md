@@ -1,7 +1,7 @@
 ---
 title: "Seam 1.1 beta1 released"
 date: 2006-10-30
-path: blog/2006/10/seam-1-1-beta1-released
+path: /blog/2006/10/seam-1-1-beta1-released
 summary: "Gavin King has released last week the first beta of JBoss Seam 1.1, but hasn&#8217;t made any spectacular announcement for it, besides a post in the JBoss Seam forum."
 tags: ['Nuxeo']
 ---

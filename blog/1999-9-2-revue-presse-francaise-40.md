@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1999-09-02
-path: blog/1999/9/revue-presse-francaise-40
+path: /blog/1999/9/revue-presse-francaise-40
 summary: "Publication : Enjeux les Echos, Septembre 1999 (20 F)."
 tags: ['Linux', 'GNU', 'Microsoft']
 ---

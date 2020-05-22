@@ -1,7 +1,7 @@
 ---
 title: "01net: L'open source veut forcer le barrage des PC"
 date: 2005-03-08
-path: blog/2005/3/01net-open-source-veut-forcer-barrage-pc
+path: /blog/2005/3/01net-open-source-veut-forcer-barrage-pc
 summary: "Lu sur 01 net: Bien souvent, ces entreprises ou administrations pr&#233;f&#233;reront une d&#233;marche progressive, o&#249; l'on changera d'abord les applications bureautiques avant d'envisager, peut-&#234;tre, la migration de l'OS, r&#233;put&#233;e plus complexe et plus exigeante."
 tags: ['Nuxeo', 'Mozilla']
 ---

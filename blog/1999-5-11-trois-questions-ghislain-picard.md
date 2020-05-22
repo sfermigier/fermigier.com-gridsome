@@ -1,7 +1,7 @@
 ---
 title: "Trois questions à Ghislain Picard"
 date: 1999-05-11
-path: blog/1999/5/trois-questions-ghislain-picard
+path: /blog/1999/5/trois-questions-ghislain-picard
 summary: "Trois questions à Ghislain Picard (professeur de Sciences Physiques au lycée francais de Berlin)."
 tags: ['Misc']
 ---

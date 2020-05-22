@@ -1,7 +1,7 @@
 ---
 title: "Se faire rembourser Office, c'est possible aussi"
 date: 1999-05-05
-path: blog/1999/5/se-faire-rembourser-office-possible-aussi
+path: /blog/1999/5/se-faire-rembourser-office-possible-aussi
 summary: "On savait déjà qu'on pouvait se faire rembourser une licence Windows (si on n'en a pas l'usage), mais on ne savait pas que c'était aussi possible pour d'autres produits Microsoft couverts par un contrat similaire (le fameux CLUF), comme la suite Office."
 tags: ['Microsoft']
 ---

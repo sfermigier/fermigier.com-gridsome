@@ -1,7 +1,7 @@
 ---
 title: "JavaOne 2007: our talk about Nuxeo has been accepted"
 date: 2007-02-26
-path: blog/2007/2/javaone-2007-talk-about-nuxeo-been-accepted
+path: /blog/2007/2/javaone-2007-talk-about-nuxeo-been-accepted
 summary: "I&#8217;m very happy (some would say \"ecstatic\" ;) ) to report that our talk proposal for the JavaOne conference has been accepted by the program committee."
 tags: ['Nuxeo', 'Java', 'Eclipse']
 ---

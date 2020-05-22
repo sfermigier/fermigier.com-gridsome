@@ -1,7 +1,7 @@
 ---
 title: "Piège dans le cyberespace"
 date: 1998-03-01
-path: blog/1998/3/piege-cyberespace
+path: /blog/1998/3/piege-cyberespace
 summary: "La revue électronique québequoise Multimédium publie un texte de Roberto Di Cosmo, chercheur à l'École normale supérieure de Paris, qui pourfend le « servilisme intellectuel » de la société civile à l'égard d'un certain système d'exploitation -- Windows pour ne pas le nommer -- et de son éditeur, Microsoft."
 tags: ['Microsoft']
 ---

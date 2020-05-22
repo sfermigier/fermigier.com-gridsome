@@ -1,7 +1,7 @@
 ---
 title: "What a month! (Quick reflections two weeks after our Java switch)"
 date: 2006-10-06
-path: blog/2006/10/what-month-quick-reflections-two-weeks-after-java-switch
+path: /blog/2006/10/what-month-quick-reflections-two-weeks-after-java-switch
 summary: "We announced our switch to Java two weeks ago."
 tags: ['Nuxeo', 'Zope', 'Java']
 ---

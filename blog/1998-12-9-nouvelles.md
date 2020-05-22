@@ -1,7 +1,7 @@
 ---
 title: "Nouvelles"
 date: 1998-12-09
-path: blog/1998/12/nouvelles
+path: /blog/1998/12/nouvelles
 summary: "De nombreux articles sur l'annonce du soutien officiel de SUN au portage de Linux sur UtraSPARC."
 tags: ['Java', 'Linux', 'Red Hat', 'Unix', 'Solaris', 'Microsoft']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Slides tutoriel Zope/CPS @SolutionLinux"
 date: 2005-03-08
-path: blog/2005/3/slides-tutoriel-zope-cps-solutionlinux
+path: /blog/2005/3/slides-tutoriel-zope-cps-solutionlinux
 summary: "Voici mes slides."
 tags: ['Zope', 'CPS']
 ---

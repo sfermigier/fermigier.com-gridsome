@@ -1,7 +1,7 @@
 ---
 title: "Open Source / Free Software Summit"
 date: 1998-04-13
-path: blog/1998/4/open-source-free-software-summit
+path: /blog/1998/4/open-source-free-software-summit
 summary: "Un certain nombre de créateurs de logiciels libres se sont réunis le 7 avril à l'initiative de Tim O'Reilly pour discuter du logiciel libre et de son avenir."
 tags: ['Python', 'Open Source']
 ---

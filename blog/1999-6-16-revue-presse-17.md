@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse"
 date: 1999-06-16
-path: blog/1999/6/revue-presse-17
+path: /blog/1999/6/revue-presse-17
 summary: "Le supplément \"Le Monde Interactif\" du Monde du mercredi 16 juin consacre un court article sur les brevets."
 tags: ['Linux', 'Debian', 'Mandrake', 'KDE', 'Unix', 'AFUL', 'Brevets', 'Microsoft']
 ---

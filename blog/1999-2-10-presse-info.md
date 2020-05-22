@@ -1,7 +1,7 @@
 ---
 title: "Presse + info"
 date: 1999-02-10
-path: blog/1999/2/presse-info
+path: /blog/1999/2/presse-info
 summary: "Dans Le Monde d'aujourd'hui, plus précisément dans son supplément `nouvelles technologies', un dossier de plusieurs articles sur la détaxe Windows."
 tags: ['Linux']
 ---

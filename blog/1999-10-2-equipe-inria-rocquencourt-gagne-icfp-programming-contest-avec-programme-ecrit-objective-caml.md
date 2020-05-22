@@ -1,7 +1,7 @@
 ---
 title: "Une équipe de l'INRIA-Rocquencourt gagne le «ICFP Programming Contest» avec un programme écrit en Objective Caml"
 date: 1999-10-02
-path: blog/1999/10/equipe-inria-rocquencourt-gagne-icfp-programming-contest-avec-programme-ecrit-objective-caml
+path: /blog/1999/10/equipe-inria-rocquencourt-gagne-icfp-programming-contest-avec-programme-ecrit-objective-caml
 summary: "Les résultats du concours international de programmation ICFP Programming Contest viennent de couronner une équipe française de chercheurs et doctorants de l'INRIA travaillant avec le language a Objective Caml, language fonctionnel et objet de la famille de ML et par ailleurs logiciel libre."
 tags: ['Linux', 'AFUL']
 ---

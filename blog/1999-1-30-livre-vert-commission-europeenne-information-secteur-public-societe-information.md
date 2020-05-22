@@ -1,7 +1,7 @@
 ---
 title: "Livre vert de la commission européenne sur l'information du secteur public dans la société de l'information "
 date: 1999-01-30
-path: blog/1999/1/livre-vert-commission-europeenne-information-secteur-public-societe-information
+path: /blog/1999/1/livre-vert-commission-europeenne-information-secteur-public-societe-information
 summary: "La Commission européenne a décidé de publier un livre vert sur la meilleure façon d'utiliser l'information détenue par le secteur public afin de permettre aux citoyens et aux entreprises d'Europe d'en tirer le maximum de profit dans le contexte de la société de l'information."
 tags: ['Misc']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Linux fait monter l'action IBM"
 date: 1999-02-20
-path: blog/1999/2/linux-fait-monter-action-ibm
+path: /blog/1999/2/linux-fait-monter-action-ibm
 summary: "Lors de la seance boursiere du 18 fevrier, l'action IBM est montee de 3 3/4."
 tags: ['Linux', 'Microsoft']
 ---

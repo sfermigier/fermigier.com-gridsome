@@ -1,7 +1,7 @@
 ---
 title: "CPS 3.4.0: screencasts and Windows installer available"
 date: 2006-03-10
-path: blog/2006/3/cps-3-4-0-screencasts-windows-installer-available
+path: /blog/2006/3/cps-3-4-0-screencasts-windows-installer-available
 summary: "We've already posted an announcement on nuxeo.com (here in english, andhere in french), as well as on zope.org (here) and freshmeat ( here)."
 tags: ['Nuxeo', 'Python', 'Zope', 'CPS', 'Linux']
 ---

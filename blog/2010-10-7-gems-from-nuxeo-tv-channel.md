@@ -1,7 +1,7 @@
 ---
 title: "Gems from the Nuxeo TV Channel"
 date: 2010-10-07
-path: blog/2010/10/gems-from-nuxeo-tv-channel
+path: /blog/2010/10/gems-from-nuxeo-tv-channel
 summary: "Update: Blip.tv has, in an incredibly unprofessional turn of events, decided to remove all of our content from their platform, with absolutely not notice and no way to get back our videos."
 tags: ['Nuxeo', 'Open Source', 'Microsoft', 'Open World Forum']
 ---

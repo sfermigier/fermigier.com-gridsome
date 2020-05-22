@@ -1,7 +1,7 @@
 ---
 title: "Le pingouin à la une de LMI"
 date: 1998-07-10
-path: blog/1998/7/pingouin-lmi
+path: /blog/1998/7/pingouin-lmi
 summary: "Le Monde Informatique du 10 juillet 1998 illustre sa ``une'' avec une armée de Tux (le pingouin/manchot Linux), et publie un dossier de quatre pages intitulé ``logiciel libre: la subversion gagne''."
 tags: ['Apache', 'Linux', 'Microsoft']
 ---

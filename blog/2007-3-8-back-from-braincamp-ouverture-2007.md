@@ -1,7 +1,7 @@
 ---
 title: "Back from BrainCamp Ouverture 2007"
 date: 2007-03-08
-path: blog/2007/3/back-from-braincamp-ouverture-2007
+path: /blog/2007/3/back-from-braincamp-ouverture-2007
 summary: "As some people know already, I have participated in the creation of Ouverture (n&#233; &#8220;Open Source Valley&#8221;), the Competitiveness cluster dedicated to Free and Open Source Software in the Paris area."
 tags: ['Nuxeo', 'Eclipse', 'Mandriva', 'Open Source']
 ---

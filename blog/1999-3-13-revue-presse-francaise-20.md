@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse francaise"
 date: 1999-03-13
-path: blog/1999/3/revue-presse-francaise-20
+path: /blog/1999/3/revue-presse-francaise-20
 summary: "Le quotidien Libération du vendredi 12 mars consacre dans son supplément Multimédia un long article à Linux."
 tags: ['Apache', 'Linux', 'KDE', 'Unix', 'AFUL', 'Microsoft']
 ---

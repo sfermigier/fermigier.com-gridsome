@@ -1,7 +1,7 @@
 ---
 title: "Slides: Introducing FunkLoad"
 date: 2005-11-17
-path: blog/2005/11/slides-introducing-funkload
+path: /blog/2005/11/slides-introducing-funkload
 summary: "a set of slides (pdf - 200 kb) introducing our web testing tool,FunkLoad."
 tags: ['Python']
 ---

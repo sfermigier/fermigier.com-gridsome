@@ -34,7 +34,7 @@ module.exports = function(api, options) {
     =====
     <static-query>        <!-- or a page-query -->
     {
-      metaData{
+      metadata{
         pathPrefix
       }
     }
@@ -45,7 +45,7 @@ module.exports = function(api, options) {
     Using static-queries: axios( this.$static.metaData.pathPrefix + "/fileName" )
     Using page-queries,   axios( this.$page.metaData.pathPrefix   + "/fileName" )
     */
-    store.addMetaData("pathPrefix", cleanedPathPrefix);
+    store.addMetadata("pathPrefix", cleanedPathPrefix);
   });
 
   api.beforeBuild(({ config, store }) => {

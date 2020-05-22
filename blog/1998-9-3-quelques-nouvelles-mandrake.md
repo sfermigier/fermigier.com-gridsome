@@ -1,7 +1,7 @@
 ---
 title: "Quelques nouvelles de Mandrake"
 date: 1998-09-03
-path: blog/1998/9/quelques-nouvelles-mandrake
+path: /blog/1998/9/quelques-nouvelles-mandrake
 summary: "La nouvelle ``meta-distribution'' Linux Mandrake, qui intègre l'environnement de travail KDE à une distribution d'origine Red Hat (GPL), est maintenant disponible sur CD-ROMs, auprès de plusieurs distributeurs, en France et aux Etats-Unis."
 tags: ['Linux', 'Debian', 'Mandrake', 'Red Hat', 'KDE']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Un article sur nous dans le Journal du Net"
 date: 2005-06-08
-path: blog/2005/6/article-nous-journal-net
+path: /blog/2005/6/article-nous-journal-net
 summary: "Ca fait toujours plaisir :) Le gouvernement s&#233;n&#233;galais s'&#233;quipe librement d'un intranet (JDNet Solutions, 8 juin 2005)."
 tags: ['Nuxeo']
 ---

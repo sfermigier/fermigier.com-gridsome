@@ -1,7 +1,7 @@
 ---
 title: "Linux à DECUS"
 date: 1998-08-03
-path: blog/1998/8/linux-decus
+path: /blog/1998/8/linux-decus
 summary: "Le programme des présentations techniques de eureka98, la ``grande messe'' de DECUS (le groupe des utilisateurs de DEC) qui aura lieu au CNIT à Paris en septembre, propose trois conférences sur Linux: Linux Systems Administration, Bryan Andregg, Red Hat Software."
 tags: ['Linux', 'Red Hat']
 ---

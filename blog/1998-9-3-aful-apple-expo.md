@@ -1,7 +1,7 @@
 ---
 title: "L'AFUL à Apple-Expo"
 date: 1998-09-03
-path: blog/1998/9/aful-apple-expo
+path: /blog/1998/9/aful-apple-expo
 summary: "Apple France a invité l'AFUL à animer un stand à Apple Expo 98 (Paris, Porte de Versailles, du 16 au 20 septembre 1998)."
 tags: ['Linux', 'AFUL']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Linux Mandrake 5.1: une nouvelle distrib d'origine française"
 date: 1998-07-24
-path: blog/1998/7/linux-mandrake-5-1-nouvelle-distrib-origine-francaise
+path: /blog/1998/7/linux-mandrake-5-1-nouvelle-distrib-origine-francaise
 summary: "Linux Mandrake 5.1 vient d'être annoncée par son créateur, Gaël Duval."
 tags: ['Apache', 'Linux', 'Mandrake', 'Red Hat', 'KDE']
 ---

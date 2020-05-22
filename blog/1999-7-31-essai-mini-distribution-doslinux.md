@@ -1,7 +1,7 @@
 ---
 title: "Essai de la (mini-)distribution DosLinux"
 date: 1999-07-31
-path: blog/1999/7/essai-mini-distribution-doslinux
+path: /blog/1999/7/essai-mini-distribution-doslinux
 summary: "Distribution DosLinux_79 (La dernière version est la 86) Mini distribution dont la version minimum s'installe avec 2 disquettes ou directement à partir de MS-DOS."
 tags: ['Misc']
 ---

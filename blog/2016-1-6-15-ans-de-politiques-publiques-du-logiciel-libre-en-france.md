@@ -1,7 +1,7 @@
 ---
 title: "15 ans de politiques publiques du logiciel libre en France"
 date: 2016-01-06
-path: blog/2016/1/15-ans-de-politiques-publiques-du-logiciel-libre-en-france
+path: /blog/2016/1/15-ans-de-politiques-publiques-du-logiciel-libre-en-france
 summary: "Une présentation sur les politiques publiques du logiciel libre en France depuis la fin des années 90, que j'ai faite en décembre 2014 lors d'un séminaire dédié aux collectivités territoriales."
 tags: ['Open Source', 'Politique publique']
 ---

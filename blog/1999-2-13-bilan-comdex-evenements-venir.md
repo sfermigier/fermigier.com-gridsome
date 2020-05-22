@@ -1,7 +1,7 @@
 ---
 title: "Bilan du COMDEX + evenements a venir"
 date: 1999-02-13
-path: blog/1999/2/bilan-comdex-evenements-venir
+path: /blog/1999/2/bilan-comdex-evenements-venir
 summary: "Le COMDEX (édition parisienne) vient de se terminer."
 tags: ['Java', 'Linux', 'Mandrake', 'Red Hat', 'Unix', 'AFUL']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CPS4/Z3ECM sprint, day 1, short report"
 date: 2006-04-19
-path: blog/2006/4/cps4-z3ecm-sprint-day-1-short-report
+path: /blog/2006/4/cps4-z3ecm-sprint-day-1-short-report
 summary: "The sprint has started yesterday with notable guests Jean-Marc and Dario from Chalmers, Joachim from AixtraWare, and Michael from OpenApp, and a bunch of Nuxeo guys."
 tags: ['Nuxeo', 'Zope', 'CPS']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Revue de presse française"
 date: 1998-05-30
-path: blog/1998/5/revue-presse-francaise-3
+path: /blog/1998/5/revue-presse-francaise-3
 summary: "Vu ces jours-ci: ``Le front Linux fête l'arrivée de SUN'', 01 Informatique, 29 mai."
 tags: ['Apache', 'Linux', 'Red Hat', 'AFUL']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Journée d'information à Melun et install party à Aubervilliers"
 date: 1999-01-16
-path: blog/1999/1/journee-information-melun-install-party-aubervilliers
+path: /blog/1999/1/journee-information-melun-install-party-aubervilliers
 summary: "L'AFUL et le CRDP de l'académie de Créteil organisent le 20 janvier 99 au CDDP de Seine et Marne (à Melun) une journée de présentation sur le thème ``Linux et les logiciels libres pour l'école, le collège, le lycée.'' Elle combinera des démonstrations-manipulations sur ordinateurs et une conférence-débat avec Roberto Di Cosmo, Bernard Lang et moi-même."
 tags: ['Linux', 'GNU', 'AFUL']
 ---
