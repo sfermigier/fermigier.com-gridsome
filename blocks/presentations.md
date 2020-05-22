@@ -4,13 +4,30 @@ title: Presentations (conferences, lectures, etc.)
 
 I enjoy giving talks on subjects that matter to me.
 
-Here's a (partial) list of the talks and lectures I have given over the last ten years.
+Here's a (partial) list of the talks and lectures I have given over the last 20 years.
+
+## 2020
+
+### January
+
+* "Open Source: a dynamic market fueled by digital transformation and innovation", presented at the *Pre-FOSDEM event* in Brussels. [[Speakerdeck](https://speakerdeck.com/sfermigier/open-source-a-dynamic-market-fueled-by-digital-transformation-and-innovation)]
+
+* "20 years of FLOSS public policies in France (Pre-FOSDEM 2020 edition)". [[Speakerdeck](https://speakerdeck.com/sfermigier/20-years-of-floss-public-policies-in-france-pre-fosdem-2020-edition)]
 
 ## 2019
 
+### December
+
+* "Souveraineté numérique et logiciel libre", presented at the Blue Hat Summit during POSS 2019. [[Speakerdeck](https://speakerdeck.com/sfermigier/souverainete-numerique-et-logiciel-libre-dec-2019)]
+
+### November 
+
+* Presentation of the Lab&Co platform during the [Free Software Publisher Spotlight
+event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spotlight) at Cap Digital.
+
 ### May
 
-* "Why and how to open source your software (when you're not a software company)". Private seminar.
+* "Why and how to open source your software (when you're not a software company)". Private seminar. Public version here: [[Speakerdeck](https://speakerdeck.com/sfermigier/2019-corporate-open-source)]
 
 ## 2018
 
