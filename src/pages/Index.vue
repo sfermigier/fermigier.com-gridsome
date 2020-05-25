@@ -8,13 +8,13 @@
         <div class="text-brand-700 leading-tight">Fullstack entrepreneur</div>
       </div>
 
-<!--      <div class="mt-8 sm:mt-0">-->
-<!--        <g-image-->
-<!--          src="../../static/developer.svg"-->
-<!--          alt="hero"-->
-<!--          class="mx-auto sm:mx-0"-->
-<!--        />-->
-<!--      </div>-->
+      <!--      <div class="mt-8 sm:mt-0">-->
+      <!--        <g-image-->
+      <!--          src="../../static/developer.svg"-->
+      <!--          alt="hero"-->
+      <!--          class="mx-auto sm:mx-0"-->
+      <!--        />-->
+      <!--      </div>-->
     </div>
     <!-- end hero -->
 
@@ -32,7 +32,6 @@ query Block {
   }
 }
 </page-query>
-
 
 <script>
 export default {

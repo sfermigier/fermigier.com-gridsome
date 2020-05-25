@@ -149,8 +149,12 @@
       </svg>
     </div>
 
-    <!-- Matomo -->
-    <img src="https://stats.abilian.com/matomo.php?idsite=7&amp;rec=1" style="border:0" alt="" />
+    <img
+      src="https://stats.abilian.com/matomo.php?idsite=7&amp;rec=1"
+      style="border:0"
+      alt=""
+    />
+    <!--    <script async src="https://ackee-abilian.herokuapp.com/tracker.js" data-ackee-server="https://ackee-abilian.herokuapp.com" data-ackee-domain-id="dc7f2b09-2f76-48bf-bd6c-4311ab1eb31e"></script>-->
   </div>
 </template>
 
@@ -170,6 +174,7 @@ export default {
   components: {
     NavBar,
   },
+
   data() {
     return {
       isOpen: false,
@@ -177,11 +182,25 @@ export default {
       theme: "theme-light",
     };
   },
+
   created() {
     Bus.$on("update-theme", theme => {
       this.theme = theme;
       // localStorage.setItem("theme", theme);
     });
+  },
+
+  mounted() {
+    const ackee = document.createElement("script");
+    const attrs = [
+      ["src", "https://ackee-abilian.herokuapp.com/tracker.js"],
+      ["data-ackee-server", "https://ackee-abilian.herokuapp.com"],
+      ["data-ackee-domain-id", "dc7f2b09-2f76-48bf-bd6c-4311ab1eb31e"],
+    ];
+    for (let [k, v] of attrs) {
+      ackee.setAttribute(k, v);
+    }
+    document.head.appendChild(ackee);
   },
 
   methods: {
