@@ -1,0 +1,378 @@
+<html>
+<head>
+<title>Pr&eacute;sentation de Linux</title>
+</head>
+<body TEXT="#ffffff" bgcolor="#150090" background="neurobleu.gif" LINK="#c6ceff" VLINK="#c6ceff" ALINK="#c6ceff">
+<font face="garamond" size="3">
+<br><center>
+<h1>
+Pr&eacute;sentation de Linux
+<h2>
+St&eacute;fane Fermigier<br>
+Maître de conf&eacute;rences, Universit&eacute; Paris 7<br>
+Pr&eacute;sident, AFUL<br>
+<a href="mailto:fermigie@math.jussieu.fr">fermigie@math.jussieu.fr</a>, <a href="mailto:fermigier@fermigier.com">fermigier@fermigier.com</a></h2></h1>
+</center>
+<h2>Origine</h2>
+
+<ul>
+<li>Premi&egrave;re version (0.01) en septembre 1991: Linus Torvalds, 21 ans, Helsinki.  
+<li>Souhaite un syst&egrave;me UNIX sur le PC (386) qu'il vient de se faire offrir.
+
+<li>Offre commerciale (SCO, Solaris/Intel) beaucoup trop ch&egrave;re.
+
+<li>Cherche un projet de programmation motivant.
+
+<li>Commence le projet et lance un appel sur Internet.
+
+<li>De nombreux programmeurs le rejoignent.
+
+<li>En 1992: licence GPL.
+</ul>
+
+
+<h2>Origine (suite)</h2>
+
+Le syst&egrave;me s'appuie sur des outils ou des projets existants &agrave; l'&eacute;poque:
+
+<ul>
+<li>Minix, version simplifi&eacute;e d'UNIX &agrave; usage p&eacute;dagogique (non libre).
+
+<li>Le projet GNU (GNU is Not UNIX):
+
+<ul>
+<li>	Les outils de d&eacute;veloppement
+<li>	La librairie C
+<li>	Les utilitaires
+</ul>
+
+<li>(Plus tard) L'interface graphique X11 d&eacute;velopp&eacute;e au MIT, puis par le consortium X, puis par l'X/Open, puis l'Open Group et ind&eacute;pendamment par le groupe XFree86.
+
+<li>(Plus tard) Les outils r&eacute;seaux libres issus du monde de l'Internet.
+</ul>
+
+
+<h2>Historique</h2>
+
+1991-1995: Int&eacute;gration progressive de nouvelles fonctionnalit&eacute;s au noyau
+
+<ul>
+<li>Gestion du r&eacute;seau (TCP/IP).
+
+<li>Diff&eacute;rents syst&egrave;mes de fichiers (ext2: Remy Card).
+
+<li>Librairies dynamiques, modules.
+
+<li>Extensions temps r&eacute;el.
+
+<li>Multithreading (Xavier Leroy), Multiprocessing (SMP), clustering.
+</ul>
+
+
+
+<h2>Historique (suite)</h2>
+
+Mars 1994 : version 1.0
+<ul>
+<li>Linux n'est plus consid&eacute;r&eacute; comme une version bêta (500 000 utilisateurs).
+</ul>
+
+Mars 1995 : version 1.2 
+<ul>
+<li>1 M utilisateurs.
+</ul>
+
+Juin 1996 : version 2.0 
+<ul>
+<li>2 M utilisateurs.
+</ul>
+
+D&eacute;cembre 1998 : version 2.2 
+<ul>
+<li>(8+ M utilisateurs).
+</ul>
+
+Num&eacute;ro de version :
+<ul>
+<li>pair : version ``stable'', ex : 2.0.36.
+<li>impair : version de d&eacute;veloppement, ex : 2.1.128 (-> 2.2).
+</ul>
+
+
+<h2>Historique (fin)</h2>
+
+1998
+
+<ul>
+<li>«Explosion m&eacute;diatique» de Linux: articles, r&eacute;compenses.
+
+<li>Portage officiel des serveurs des bases de donn&eacute;es.
+
+<li>Plusieurs constructeurs de PC (Dell, Compaq) annoncent un support sous un forme ou sous une autre.
+
+<li>Progression de 212 % en 98 (source IDC) sur le march&eacute; des serveurs.
+
+<li>Le Nombre d'utilisateurs total passe de 7.5 a 12 millions (est.)
+</ul>
+
+
+
+<h2>D&eacute;veloppement du noyau</h2>
+
+Taille du noyau
+<ul>
+<li>Version 2.0.33 : 810 000 lignes de code, 6 architectures support&eacute;es (i386, Alpha, Sparc, 68k, Mips, PPC).
+<li>Version 2.1.101 : 1 500 000 lignes de code, 8 architectures support&eacute;es (les mêmes + ARM, 8086)
+</ul>
+
+Plusieurs centaines de d&eacute;veloppeurs + milliers de testeurs.
+
+<p>
+Origines vari&eacute;es:
+<ul>
+<li>Universit&eacute;, NASA, employ&eacute;s de soci&eacute;t&eacute;s hard ou soft.
+</ul>
+
+Maîtrise d'oeuvre: Linus Torvalds + Alan Cox + quelques autres.
+
+<p>
+Rôle de l'Internet dans la coordination du travail des d&eacute;veloppeurs.
+
+<p>
+Documentation sur le noyau: au moins 3 livres.
+
+
+<h2>«Syst&egrave;me Linux» (GNU/Linux)</h2>
+
+<ul>
+<li>Fournit les fonctionnalit&eacute;s de base d'un syst&egrave;me POSIX (multi-tâches, multi-utilisateurs, m&eacute;moire virtuelle).
+
+<li>Le noyau + les modules (pilotes de p&eacute;riph&eacute;riques).
+
+<li>Utilitaires syst&egrave;me, services r&eacute;seaux (``d&eacute;mons'').
+
+<li>Utilitaires utilisateurs (shell + commandes, &eacute;diteurs, langages de scripts).
+
+<li>Environnement graphique (X-Window, ``X11'').
+</ul>
+
+
+<h2>Distributions Linux</h2>
+
+<ul>
+<li>Medium: CD-ROM, Internet.
+
+<li>Outils d'installation, d'administration.
+
+<li>Gestion des paquetages.
+
+<li>Applications libres:
+
+<ul>
+<li>	D&eacute;veloppement (C, C++, F77, ADA...)
+<li>	Traitement de textes.
+<li>	Communication (e-mail, Web...).
+</ul>
+
+<li>Window et Desktop manager(s) (gestionnaire(s) de bureau).
+
+<li>Éventuellement, applications commerciales.
+</ul>
+
+
+<h2>Pourquoi Linux ?</h2>
+
+<ul>
+<li>UNIX avanc&eacute; sur du mat&eacute;riel de commodit&eacute;.
+
+<li>Noyau respectant les standards (POSIX.*, Internet).
+
+<li>Utilisation optimale des ressources (ex: m&eacute;moire).
+
+<li>Fonctionnalit&eacute;s avanc&eacute;es (ex: modules, support SMP, IPv6).
+
+<li>Disponibilit&eacute; des sources (syst&egrave;me customisable, absence de cheval de Troie).
+
+<li>Syst&egrave;me multi-plateformes.
+
+<li>L&eacute;g&egrave;ret&eacute;, stabilit&eacute; et robustesse 
+<ul>
+<li>	Serveurs avec +400 jours sans arrêts.
+<li>	R&eacute;sistance aux tests ``CrashMe''.
+</ul>
+</ul>
+
+
+<h2>Domaines d'utilisation traditionnels</h2>
+
+<ul>
+<li>R & D, enseignement.
+
+<li>Communication (FAI: 25 %).
+
+<li>Industrie: informatique embarqu&eacute;e, temps r&eacute;el.
+
+<li>Gestion (application &agrave; base de donn&eacute;es).
+
+<li>Bureautique.
+
+<li>Serveurs d'entreprises: 
+<ul>
+<li>	Internet / Intranet / Extranet.
+<li>	DNS, mail, news, web, FTP, firewall, proxy.
+<li>	Serveur de fichiers (clients Unix, Windows, Mac), de fax, d'impression, de bases de donn&eacute;es (SQL, objets).
+</ul>
+</ul>
+
+<h2>Applications «spectaculaires»</h2>
+
+Ville de Garden Grove, (CA, USA): 
+
+<ul>
+<li>Mairie, logement, pompiers, police...
+<li>Samba (partage de fichier), Pick D3, Apache, Java.
+<li>300 postes clients W3.1, W95 ou Mac, tous les serveurs (environ 10) sous Linux.
+</ul>
+
+La police du Bade-Wurttemberg (DE).
+
+<p>
+Gestion integr&eacute;e des transports publics (bus et train) dans le nord-est de l'Italie.  
+
+<p>
+Universal Computer Service (ZA): 5000 postes clients + 50 serveurs, tous sous Linux.
+<ul>
+<li>``Si Linux &eacute;tait aussi cher que NT ou SCO, on l'utiliserait quand même.''
+</ul>
+
+
+<h2>Applications «spectaculaires» (suite)</h2>
+
+Chaîne de magasins de vêtements Jay Jacobs, USA (115 sites).
+
+<p>
+US Postal: 900 syst&egrave;mes de tri du courrier (reconnaissance du ZIP), 12 lettres &agrave; la seconde.
+
+<p>
+Lectra (CFAO), Schlumberger (POS).
+
+<p>
+Supercalculateurs: Hollywood (Titanic, Godzilla), NASA (beowulf).
+
+<p>
+www.voila.fr, portail de France Tel&eacute;com (15 machines).
+
+
+<h2>Offre logicielle commerciale pour l'entreprise</h2>
+
+<ul>
+<li>Bases de donn&eacute;es SQL: Oracle, IBM DB2, Informix, Sybase.
+
+<li>Bases de donn&eacute;es objets: O2, Objectivity.
+
+<li>Midleware (CORBA, Java).
+
+<li>Outils de d&eacute;veloppement, ateliers logiciels, 4GL, CAO.
+
+<li>R&eacute;seaux (Intranet / Extranet / Internet).
+</ul>
+
+
+<h2>Offre logicielle libres</h2>
+
+<ul>
+<li>Plus de 2000 logiciels libres recens&eacute;s pour plateforme UNIX.
+
+<li>Tous ne sont pas de la même qualit&eacute;. 
+<ul>
+<li>	Il faut faire le tri (rôles des distributions).
+</ul>
+
+<li>Plusieurs projets ambitieux avanc&eacute;s:
+<ul>
+<li>	Serveurs r&eacute;seaux (Apache, Sendmail, Samba...).
+<li>	Client Web Mozilla de Netscape.
+<li>	SGBDR PostgreSQL et MySQL.
+<li>	Serveur d'application Zope.
+<li>	OpenLDAP
+</ul>
+
+<li>Des projets en cours de maturation:
+<ul>
+<li>	GNOME
+<li>	KDE
+</ul>
+</ul>
+
+
+<h2>Communaut&eacute; Linux</h2>
+
+<ul>
+<li>Une communaut&eacute; mondiale.
+
+<li>D&eacute;veloppeurs, bêta-testeurs, int&eacute;grateurs, auteurs de documentation, utilisateurs.
+
+<li>Soci&eacute;t&eacute;s commerciales:
+
+<ul>
+<li>	Distributions: Red Hat, Caldera, Infomagic, SuSE.
+<li>	Hard: Apple, DEC, SUN, VA Research, Aspen, SWT, Cobalt Micro, Corel Netwinder.
+<li>	Soft: Pick Systems, Oracle, Informix, SUN, Applix, StarDivision, Netscape, Corel.
+<li>	SSIIs, VARs, consultants.
+<li>	Formation: Learning Tree International.
+<li>	Presse: Linux Journal. Edition: O'Reilly.
+<li>	Organisateurs de salons
+</ul>
+</ul>
+
+
+<h2>Communaut&eacute; française</h2>
+
+<ul>
+<li>Communaut&eacute; virtuelle (forums Internet).
+<li>LUG: groupes d'utilisateurs locaux, une quinzaine en France.
+<li>Groupes de traducteurs de la documentation («projet documentation Linux»).
+<li>Soci&eacute;t&eacute;s &eacute;ditrices, souvent partenaires de soci&eacute;t&eacute;s &eacute;trang&egrave;res.
+<li>Soci&eacute;t&eacute;s utilisatrices, souvent li&eacute;es &agrave; l'Internet (FAI).
+<li>Deux magazines: Dream et Linux France Magazine.
+<li>Projets: Linux-Mandrake, Independence, LaetOS.
+<li>Sites Web: linux-center.org, linux-france.com, linuxfr.org...
+<li>L'AFUL (www.aful.org).
+</ul>
+
+<h2>Buts de l'AFUL</h2>
+
+<ul>
+
+<li>Promotions des logiciels libres, en particulier des UNIX libres comme Linux.
+
+<li>D&eacute;fense des standards ouverts (formats de stockage de donn&eacute;es, protocoles de communication), notamment dans les &eacute;changes entre l'État et les citoyens.
+
+<li>Rôle f&eacute;d&eacute;rateur vis-&agrave;-vis d'associations existantes (LUG) ou des entreprises.
+
+<li>Encourager la francisation des logiciels libres et des documentations. 
+
+<li>PAS de lutter contre telle ou telle soci&eacute;t&eacute;. 
+
+</ul>
+
+
+<h2>Accord cadre avec le MENRT</h2>
+
+<ul>
+<li>Accord cadre sign&eacute; le 28 octobre 98.
+
+<li>Similaire aux accords pass&eacute;s avec des grands &eacute;diteurs de logiciels.
+
+<li>Installation de machines serveurs sous Linux dans les coll&egrave;ges et lyc&eacute;es.
+
+<li>Installation de postes de travail en multi-amorçage proposant entre autre Linux.
+
+<li>Documentation, formation (universit&eacute; d'&eacute;t&eacute;, PNF).
+
+<li>Recensement puis mise &agrave; disposition de logiciels libres ou propri&eacute;taires fonctionnant sous Linux pour leur utilisation dans l'enseignement sup&eacute;rieur et la recherche.
+
+</ul>
+
+</body>
+</html>
