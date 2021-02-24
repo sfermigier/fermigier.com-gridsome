@@ -22,17 +22,17 @@ vendors in France.
 I have cofounded and led several organizations dedicated to
 developing the open source ecosystem in France and Europe:
 
-* [APELL](https://apell.info/) (2020), the European Open Source Software Business Association.
+* [APELL](https://apell.info/) (2020), the European Open Source Software Business Association (Association Professionnelle Européenne du Logiciel Libre). I'm serving as a board members since 2020.
 
-* [CNLL](https://cnll.fr/) (2010), the French National Council of Free / Open Source Companies. I'm serving as co-president since 2016.
+* [CNLL](https://cnll.fr/) (2010), the French National Council of Free / Open Source Companies. I'm serving as co-chairman since 2016.
 
-* **GTLL** (2007), the business and innovation cluster for open source in  the Paris Region (part of the Systematic Paris Region cluster). I've  been serving as its president between 2009 and 2019.
+* **GTLL** (2007), the business and innovation cluster for open source in  the Paris Region (part of the Systematic Paris Region cluster). I've served as its chairman between 2009 and 2019.
 
-* The [Open World Forum / Paris Open Source Summit](http://www.opensourcesummit.paris/) (2008), yearly conference dedicated to open source and "open everything" in  Paris (since 2008).
+* The [Open World Forum / Paris Open Source Summit](http://www.opensourcesummit.paris/) (2008), yearly conference dedicated to open source and "open everything" in Paris (since 2008).
 
 * **EuroLinux** (2000), a federation of European open source associations, that was formed to fight [software patents](/blog/tag/Brevets/) between 2000 and 2005.
 
-* [AFUL](http://www.aful.org/) (1998), the french-speaking Linux and free software users association. I served as it president from 1998 to 2003.
+* [AFUL](http://www.aful.org/) (1998), the french-speaking Linux and free software users association. I served as its chairman from 1998 to 2003.
 
 
 I'm also the founder or a cofounder of several [open source projects](/open-source/), including:
