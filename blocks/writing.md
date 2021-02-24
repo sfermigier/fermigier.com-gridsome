@@ -4,11 +4,27 @@ title: Writings
 
 ## Blogging
 
-I started "blogging" (I don't think the term had been invented yet) in December 1997, at the time when [Linux](/blog/tag/Linux/) and [free software](/blog/tag/Open Source/) were starting to take of as credible alternatives to [Unix](/blog/tag/Unix/) and [Windows NT](/blog/tag/Microsoft/) for business IT. I stopped in October 1999, for reasons I don't remember.
+I started "blogging" (I don't think the term had been invented yet) in December 1997, at the time when [Linux](/blog/tag/Linux/) and [free software](/blog/tag/Open%20Source/) were starting to take of as credible alternatives to [Unix](/blog/tag/Unix/) and [Windows NT](/blog/tag/Microsoft/) for business IT. I stopped in October 1999, for reasons I don't remember.
 
 After a few years off, I resumed blogging in 2005, with a focus on [my business](/blog/tag/Nuxeo/) as a [Python](/blog/tag/Python/) and [Zope](/blog/tag/Zope/), then later [Java](/blog/tag/Java/), company, but also covering other subjects related to free / open source software, including [software patents](/blog/tag/Brevets/).
 
-You can read these posts, most of them about companies and ideas that have either passed away, or are now considered mainstream, in the [archives](http://fermigier.com/blog/).
+You can read these posts, most of them about companies and ideas that have either passed away, or are now considered mainstream, in the [archives](/blog/).
+
+## Op-eds and interviews
+
+* [« Le logiciel libre et l’ouverture des données sont deux enjeux majeurs du numérique moderne qui méritent une stratégie publique »](https://www.lemonde.fr/idees/article/2021/01/17/le-logiciel-libre-et-l-ouverture-des-donnees-sont-deux-enjeux-majeurs-du-numerique-moderne-qui-meritent-une-strategie-publique_6066551_3232.html), Le Monde, 17 janvier 2021.
+
+* *Dernière checklist avant l’embarquement*, interview in IT For Business, janvier 2021.
+
+* [Gaia-X: A trojan horse for Big Tech in Europe](https://www.euractiv.com/section/digital/opinion/gaia-x-a-trojan-horse-for-big-tech-in-europe/), Euractiv, November 2020 (with Sven Franck).
+
+* [Stéfane Fermigier, Systematic : « le succès de Python s’est construit en 20 ans »](https://www.silicon.fr/pydata-paris-2015-fermigier-systematic-python-big-data-112942.html), Silicon, avril 2015.
+
+* [Les trois défis du logiciel libre : la qualité logicielle, le déluge des données et l’après-PC](https://www.silicon.fr/les-trois-defis-du-logiciel-libre-la-qualite-logicielle-le-deluge-des-donnees-et-lapres-pc-84394.html), Silicon, mars 2013.
+
+* [Il faut enseigner le logiciel libre en France](https://www.lemonde.fr/sciences/article/2012/10/18/il-faut-enseigner-le-logiciel-libre-en-france_1777703_1650684.html), Le Monde, 18 octobre 2012.
+
+* ["Il est erroné de penser que les pirates ont le moindre scrupule à s'attaquer à Linux"](https://www.lemonde.fr/archives/article/2001/04/04/il-est-errone-de-penser-que-les-pirates-ont-le-moindre-scrupule-a-s-attaquer-a-linux_169650_1819218.html), Le Monde, 4 avril 2001.
 
 ## Technical White Papers and Booklets
 
@@ -26,7 +42,7 @@ I have authored or co-authored several white papers, including:
 
 I also wrote the forewords of the following booklets:
 
-* *Open source pour  l'IoT* (2016) [[PDF](https://cnll.fr/media/LivretBleu_IoT_GT-LogicielLibre_Systematic_2016.pdf)]
+* *Open source pour l'IoT* (2016) [[PDF](https://cnll.fr/media/LivretBleu_IoT_GT-LogicielLibre_Systematic_2016.pdf)]
 
 * *Fondamentaux juridiques du logiciel libre - Collaboration industrielle et innovation ouverte* (2016) [[PDF](https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf)] 
 
@@ -35,25 +51,35 @@ I also wrote the forewords of the following booklets:
 
 ## Market Studies and Policy Papers
 
-I have contributed to the following studies:
+I have contributed to the following studies (wrote the whole or parts of the document, designed the study with the contractor...):
 
-* *Grande enquête 2018: quelles perspectives pour le marché du travail dans l'open source?* (2018) [[PDF](https://cnll.fr/media/enquete-cnll-2018-marche-travail-open-source.pdf)]
+* *Formations et compétences Open Source en France* (OPIIEC, 2021) [[Link](https://www.opiiec.fr/etudes/133755)].
 
-* *Impact du Logiciel Libre &amp; Open Source en France 2017-2020* (2017) [[PDF](https://cnll.fr/media/etude-2017.pdf)]
+* *Une stratégie pour le numérique ouvert dans l’après-Covid 19* (CNLL, 2020) [[PDF](https://cnll.fr/media/CNLL-post-covid_mdGUMmx.pdf)].
 
-* *Impact du Logiciel Libre / Open Source Software en France 2015-2020* (2015) [[PDF](https://cnll.fr/media/pac-logiciels-libres-2015.pdf)]
+* *Réponse du CNLL à la consultation du Pacte Productif Numérique* (CNLL, 2019) [[PDF](https://cnll.fr/media/ReponseCNLLconsultation__PacteProductifNumerique2019_Final.pdf)].
 
-* *10 propositions pour une politique industrielle du logiciel libre* (2012) [[PDF](https://cnll.fr/media/propositions_cnll_fleurpellerin.pdf)]
+* *Open Source: a dynamic market fueled by digital transformation and innovation* (PAC pour le CNLL, 2019) [[PDF](https://cnll.fr/media/2019_CNLL-Syntec-Systematic-Open-Source-Study.pdf)].
+
+* *Grande enquête 2018: quelles perspectives pour le marché du travail dans l'open source?* (Katalyse pour le CNLL, 2018) [[PDF](https://cnll.fr/media/enquete-cnll-2018-marche-travail-open-source.pdf)]
+
+* *Impact du Logiciel Libre &amp; Open Source en France 2017-2020* (PAC pour le CNLL, 2017) [[PDF](https://cnll.fr/media/etude-2017.pdf)]
+
+* *Impact du Logiciel Libre / Open Source Software en France 2015-2020* (PAC pour le CNLL, 2015) [[PDF](https://cnll.fr/media/pac-logiciels-libres-2015.pdf)]
+
+* *10 propositions pour une politique industrielle du logiciel libre* (CNLL, 2012) [[PDF](https://cnll.fr/media/propositions_cnll_fleurpellerin.pdf)]
 
 
 ## Press Releases
 
 I wrote or co-wrote most of the press releases for Nuxeo between 2000 and 2008. See [the archive on LinuxPR](https://www.google.com/search?q=%22stefane+Fermigier%22+site%3Alinuxpr.com&hl=en&num=30) for some examples (in English).
 
-As the president of [AFUL](http://www.aful.org/), the French speaking Linux and Free Software Users Association, from 1998 to 2003, I wrote or co-wrote most the press releases during this period. See [this list](http://aful.org/communiques/folder_view?b_start:int=90&-C=) on the AFUL website.
+As the president of [AFUL](http://www.aful.org/), the French-speaking Linux and Free Software Users Association, from 1998 to 2003, I wrote or co-wrote most the press releases during this period. See [this list](http://aful.org/communiques/folder_view?b_start:int=90&-C=) on the AFUL website.
 
 
 ## Scientific Papers
+
+I've published several scientific papers. [According to Google Scholar](https://scholar.google.fr/citations?hl=fr&view_op=list_works&gmla=AJsN-F6_7Lag4VdkEd49oQVBPE3rkTLVwe1Fv8iBJ4DHxcj-8xJ2GfOOtpH8BoGyjXKG4sCP9onQy9wYJ4N16Ui1Hza0VQH0tA173fkTo57rKcppqlvr6nw&user=Sf3kshQAAAAJ), my h-index is 9 (235 citations).
 
 ### Computer Science
 

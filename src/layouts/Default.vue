@@ -14,7 +14,7 @@
         class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8"
       >
         <div class="mb-8 lg:mb-0">
-          <div>Copyright 1996-2019. All rights reserved.</div>
+          <div>Copyright 1996-2021. All rights reserved.</div>
           <div>
             <a
               href="/rss.xml"
@@ -155,6 +155,9 @@
       alt=""
     />
     <!--    <script async src="https://ackee-abilian.herokuapp.com/tracker.js" data-ackee-server="https://ackee-abilian.herokuapp.com" data-ackee-domain-id="dc7f2b09-2f76-48bf-bd6c-4311ab1eb31e"></script>-->
+
+    <img src="https://ping.services.abilian.com/ingress/bedf08bd-e838-4277-804e-a2efadc8ab59/pixel.gif">
+
   </div>
 </template>
 
@@ -196,6 +199,7 @@ export default {
       ["src", "https://ackee-abilian.herokuapp.com/tracker.js"],
       ["data-ackee-server", "https://ackee-abilian.herokuapp.com"],
       ["data-ackee-domain-id", "dc7f2b09-2f76-48bf-bd6c-4311ab1eb31e"],
+      ["data-ackee-opts", '{ "ignoreLocalhost": true, "detailed": true }'],
     ];
     for (let [k, v] of attrs) {
       ackee.setAttribute(k, v);

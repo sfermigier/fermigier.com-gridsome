@@ -4,7 +4,7 @@ title: Open Source Projects
 
 ## Main projects
 
-I'm the founder or a cofounder of several open source projects:
+I'm the founder, or a cofounder, of several open source projects:
 
 ### Still active
 

@@ -4,7 +4,7 @@ title: Business
 
 ## Companies I have founded
 
-* [Abilian](https://www.abilian.com/): I've founded Abilian in 2012.
+* [Abilian](https://abilian.com/): I've founded Abilian in 2012.
   Abilian is a company dedicated to the development of enterprise
   information management applications, based on open source technologies.
 
@@ -13,6 +13,8 @@ title: Business
   I sold my shares in 2017.
 
 ## Businesses I have invested in
+
+* [Rapid.space](https://rapid.space/): I'm an early investor in Rapid.space, a *Hyper Open* cloud provider (i.e. based on open-source, open hardware, and open service) offering Virtual Private Servers (VPS), Content Delivery Network (CDN) and global IPv6 (SDN).
 
 * [/e/](https://e.foundation/): I'm an early investor in
   /e/, a company whose mission is to "make technology that respects
