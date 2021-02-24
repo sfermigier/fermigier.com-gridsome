@@ -4,7 +4,7 @@ title: Presentations (conferences, lectures, etc.)
 
 I enjoy giving talks on subjects that matter to me.
 
-Here's a (partial) list of the talks and lectures I have given over the last 20 years.
+Here's a (partial) list of the talks and lectures I have given over the last 20+ years.
 
 ## 2020
 
@@ -73,7 +73,7 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### May
 
-* "Les MOOC comme plateforme Web 2.0", présentation lors d'un colloque à l'[Académie des Technologies](https://www.academie-technologies.fr/blog/posts/formation-en-ligne-flot-s-mooc-s-seance-du-14-mai-2014).
+* "Les MOOC comme plateforme Web 2.0", présentation lors d'un colloque à l'[Académie des Technologies](https://www.academie-technologies.fr/blog/posts/formation-en-ligne-flot-s-mooc-s-seance-du-14-mai-2014).
 
 ## 2013
 
@@ -119,7 +119,7 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### November
 
-*   "Nuxeo, an open source platform for content-centric business applications", OW2Con 2011, Paris. (With Laurent Doguin.) [[PDF](/assets/pdf/nuxeo-ow2-2011.pdf), [SlideShare](https://www.slideshare.net/sfermigier/nuxeo-an-open-source-platform-for-contentcentric-business-applications)].
+* "Nuxeo, an open source platform for content-centric business applications", OW2Con 2011, Paris. (With Laurent Doguin.) [[PDF](/assets/pdf/nuxeo-ow2-2011.pdf), [SlideShare](https://www.slideshare.net/sfermigier/nuxeo-an-open-source-platform-for-contentcentric-business-applications)].
 
 ### October
 
@@ -173,15 +173,15 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### June
 
-*   "Le Marché du Logiciel Libre en France en 2010", Convention Systematic 2010, Paris. [[SlideShare](https://www.slideshare.net/sfermigier/le-marche-du-logiciel-libre-en-france-en-2010)].
+* "Le Marché du Logiciel Libre en France en 2010", Convention Systematic 2010, Paris. [[SlideShare](https://www.slideshare.net/sfermigier/le-marche-du-logiciel-libre-en-france-en-2010)].
 
 ### May
 
-*   "Open Cloud @ GT LL - Pour un cloud ouvert et interopérable", Paris. [[SlideShare](https://www.slideshare.net/sfermigier/open-cloud-computing-gtll)].
+* "Open Cloud @ GT LL - Pour un cloud ouvert et interopérable", Paris. [[SlideShare](https://www.slideshare.net/sfermigier/open-cloud-computing-gtll)].
 
 ### Mars
 
-*   "GT Logiciel Libre", Solutions Linux 2010, Paris.
+* "GT Logiciel Libre", Solutions Linux 2010, Paris.
 
 ## 2009
 
@@ -193,65 +193,65 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### April
 
-*   "What's new in Nuxeo 5.2?", Solutions Linux 2009, Paris. [[PDF](/assets/pdf/tuto-solutions-linux-2009.pdf), [SlideShare](https://www.slideshare.net/sfermigier/whats-new-in-nuxeo-52-solutions-linux-2009)].
+* "What's new in Nuxeo 5.2?", Solutions Linux 2009, Paris. [[PDF](/assets/pdf/tuto-solutions-linux-2009.pdf), [SlideShare](https://www.slideshare.net/sfermigier/whats-new-in-nuxeo-52-solutions-linux-2009)].
 
 ### February
 
-*   "GlassFish Testimonial", Sun press conference, Paris. [[PDF](/assets/pdf/gf3-nuxeo-2009.pdf)].
+* "GlassFish Testimonial", Sun press conference, Paris. [[PDF](/assets/pdf/gf3-nuxeo-2009.pdf)].
 
 ## 2008
 
 ## November
 
-*   "The Nuxeo Way", Nuxeo DevDay 2008, Paris.
+* "The Nuxeo Way", Nuxeo DevDay 2008, Paris.
 [[SlideShare](https://www.slideshare.net/nuxeo/1-keynote-devday-sf-presentation),
 [PDF](/assets/pdf/the-nuxeo-way-2008.pdf)].
 
 ### July
 
-*   "Clusters, R&D Coopérative et PME: Retour d’expérience", workshop a Tunis. [[PDF](/assets/pdf/nuxeo-gtll-tunis-2008.pdf)].
+* "Clusters, R&D Coopérative et PME: Retour d’expérience", workshop a Tunis. [[PDF](/assets/pdf/nuxeo-gtll-tunis-2008.pdf)].
 
 ## 2007
 
 ### Juin
 
-*   "Nuxeo: un business model d'éditeur open source", workshop TopCased, Toulouse, France. [[PDF](/assets/pdf/nuxeo-topcased-2007.pdf)].
+* "Nuxeo: un business model d'éditeur open source", workshop TopCased, Toulouse, France. [[PDF](/assets/pdf/nuxeo-topcased-2007.pdf)].
 
 ### March
 
-*   "Nuxeo: un projet d’ECM open source", Sun Tech Days 2007, Paris, France.
+* "Nuxeo: un projet d’ECM open source", Sun Tech Days 2007, Paris, France.
 
 ## 2006
 
 ### October
 
-*   "Apogée & Nuxeo RCP", Eclipse Now You Can 2006, Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/eclipse-apogee-and-nuxeo-rcp)].
-*   "Apogée & Nuxeo RCP", Eclipse Summit Europe 2006, Ludwigsburg, Germany.
+* "Apogée & Nuxeo RCP", Eclipse Now You Can 2006, Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/eclipse-apogee-and-nuxeo-rcp)].
+* "Apogée & Nuxeo RCP", Eclipse Summit Europe 2006, Ludwigsburg, Germany.
 
 ### July
 
-*   "TULIP: continuous testing of Linux upgrades", RMLL 2006, Bordeaux, France (with Laurent Godard). [[PDF](/assets/pdf/slides-edos-rmll.pdf)].
+* "TULIP: continuous testing of Linux upgrades", RMLL 2006, Bordeaux, France (with Laurent Godard). [[PDF](/assets/pdf/slides-edos-rmll.pdf)].
 
 ### Janvier
 
-*   "Nuxeo CPS 3.4 - ECM Open Source", Solutions Linux 2006, Paris, France.
+* "Nuxeo CPS 3.4 - ECM Open Source", Solutions Linux 2006, Paris, France.
 
 ## 2005
 
 ### July
 
-*   "CPS: Plateforme d'ECM libre basée sur Zope", RMLL 2005, Dijon, France. [[PDF](/assets/pdf/rmll-2005-cps.pdf)].
-*   "Python best practices", RMLL 2005, Dijon, France. [[PDF](/assets/pdf/python-best-practices.pdf)].
+* "CPS: Plateforme d'ECM libre basée sur Zope", RMLL 2005, Dijon, France. [[PDF](/assets/pdf/rmll-2005-cps.pdf)].
+* "Python best practices", RMLL 2005, Dijon, France. [[PDF](/assets/pdf/python-best-practices.pdf)].
 
 ## 2004
 
 ### August
 
-*   "Nice to have features for CPS 3.4", CPS / ERP5 Sprint, Paris, France.
+* "Nice to have features for CPS 3.4", CPS / ERP5 Sprint, Paris, France.
 
 ### June
 
-*   "Nuxeo Collaborative Portal Server - Past, present, future", Europython 2004, Goteborg, Sweden. [[PDF](/assets/pdf/cps-ppf-europython-2004.pdf)]
+* "Nuxeo Collaborative Portal Server - Past, present, future", Europython 2004, Goteborg, Sweden. [[PDF](/assets/pdf/cps-ppf-europython-2004.pdf)]
 
 ## 2003
 
@@ -267,8 +267,16 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### July
 
-*   "Quelle utilisation des logiciels libres aujourd'hui?", IRISA, Rennes, France. [[PDF](/assets/pdf/sem-irisa-2002.pdf)]
+* "Quelle utilisation des logiciels libres aujourd'hui?", IRISA, Rennes, France. [[PDF](/assets/pdf/sem-irisa-2002.pdf)]
 
 ### January
 
-*   "Zope et programmation Internet par composants", Séminaire QSL au Loria, Nancy, France.
+* "Zope et programmation Internet par composants", Séminaire QSL au Loria, Nancy, France.
+
+
+## 1999
+
+### January
+
+* "Présentation de Linux", présentation à la MTIC (Mission interministérielle pour le développement des technologies de l'information et de la communication dans l'administration) [[HTML](/html/prez-linux-1999.html)].
+

@@ -18,9 +18,15 @@ You can read these posts, most of them about companies and ideas that have eithe
 
 * [Gaia-X: A trojan horse for Big Tech in Europe](https://www.euractiv.com/section/digital/opinion/gaia-x-a-trojan-horse-for-big-tech-in-europe/), Euractiv, November 2020 (with Sven Franck).
 
+* ["Les logiciels propriétaires facilitent l’espionnage"](https://www.journaldunet.com/solutions/dsi/1157936-le-logiciel-libre-est-au-coeur-des-dernieres-innovations-marquantes/), Le Journal du Net, juillet 2015.
+
 * [Stéfane Fermigier, Systematic : « le succès de Python s’est construit en 20 ans »](https://www.silicon.fr/pydata-paris-2015-fermigier-systematic-python-big-data-112942.html), Silicon, avril 2015.
 
+* [LES PERSPECTIVES DE L'OPEN SOURCE POUR 2014](https://open-source-guide.com/Actualites/Les-perspectives-de-l-open-source-pour-2014), septembre 2013.  
+
 * [Les trois défis du logiciel libre : la qualité logicielle, le déluge des données et l’après-PC](https://www.silicon.fr/les-trois-defis-du-logiciel-libre-la-qualite-logicielle-le-deluge-des-donnees-et-lapres-pc-84394.html), Silicon, mars 2013.
+
+* [Entretien Stefane Fermigier, président du groupe thématique Logiciel Libre du Pôle Systematic Paris-Région](https://www.lemondeinformatique.fr/les-dossiers/lire-entretien-stefane-fermigier-president-du-groupe-thematique-logiciel-libre-du-pole-systematic-paris-region-571.html), Le Monde Informatique, mars 2013.
 
 * [Il faut enseigner le logiciel libre en France](https://www.lemonde.fr/sciences/article/2012/10/18/il-faut-enseigner-le-logiciel-libre-en-france_1777703_1650684.html), Le Monde, 18 octobre 2012.
 
@@ -121,11 +127,9 @@ My publication list on MathSciNet: [http://www.ams.org/mathscinet/search/publica
 
 I wrote the prefaces for two programming books about Python:
 
-* Tarek Ziadé - Programmation Python. Eyrolles, Paris, 2006. ISBN: 2-212-11677-2.
-[[Amazon](http://www.amazon.fr/dp/2212116772/)].
+* Tarek Ziadé - Programmation Python. Eyrolles, Paris, 2006. ISBN: 2-212-11677-2. [[Amazon](http://www.amazon.fr/dp/2212116772/)].
 
-* Gérard Swinnen - Apprendre à programmer avec Python. Second edition. O'Reilly France, Paris, 2005. ISBN: 2-841-77299-3.
-[[Amazon](http://www.amazon.fr/dp/2841772993/)]
+* Gérard Swinnen - Apprendre à programmer avec Python. Second edition. O'Reilly France, Paris, 2005. ISBN: 2-841-77299-3. [[Amazon](http://www.amazon.fr/dp/2841772993/)]
 
 Back in the 90s, I co-wrote three undergraduate level mathematics books, with my friends Antoine Chambert-Loir and Vincent Maillot:
 
@@ -137,4 +141,4 @@ Back in the 90s, I co-wrote three undergraduate level mathematics books, with my
 
 ## Presentations
 
-See [this section](http://www.fermigier.com/presentations/).
+See [this section](/presentations/).
