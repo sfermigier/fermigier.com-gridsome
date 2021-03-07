@@ -12,8 +12,8 @@ on open source software.
 
 Previously, I founded [Nuxeo](http://www.nuxeo.com/) in 2000,
 and served as its CEO from 2000 to 2008, then as its executive chairman
-from 2008 to 2011. Nuxeo is now one of the largest open source software
-vendors in France.
+from 2008 to 2011. Nuxeo went to become the second largest open source
+ECM vendor and was eventually bought by Hyland for M$ 150 in 2021.
 
 [➜ More about my business activities](/business/)
 

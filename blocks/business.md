@@ -10,11 +10,15 @@ title: Business
 
 * [Nuxeo](https://www.nuxeo.com/): I've founded Nuxeo in 2000,
   and have been its CEO from 2000 to 2008, then its executive chairman until 2012.
-  I sold my shares in 2017.
+  Nuxeo has been sold to Hyland in 2021 for around M$ 150.
+
 
 ## Businesses I have invested in
 
-* [Rapid.space](https://rapid.space/): I'm an early investor in Rapid.space, a *Hyper Open* cloud provider (i.e. based on open-source, open hardware, and open service) offering Virtual Private Servers (VPS), Content Delivery Network (CDN) and global IPv6 (SDN).
+* [Rapid.space](https://rapid.space/): I'm an early investor in Rapid.space, 
+  a *Hyper Open* cloud provider (i.e. based on open-source, open hardware,
+  and open service) offering Virtual Private Servers (VPS),
+  Content Delivery Network (CDN) and global IPv6 (SDN).
 
 * [/e/](https://e.foundation/): I'm an early investor in
   /e/, a company whose mission is to "make technology that respects

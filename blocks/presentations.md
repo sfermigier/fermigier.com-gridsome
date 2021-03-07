@@ -10,20 +10,20 @@ Here's a (partial) list of the talks and lectures I have given over the last 20+
 
 ### January
 
-* "Open Source: a dynamic market fueled by digital transformation and innovation", presented at the *Pre-FOSDEM event* in Brussels. [[Speakerdeck](https://speakerdeck.com/sfermigier/open-source-a-dynamic-market-fueled-by-digital-transformation-and-innovation)]
+* "Open Source: a dynamic market fueled by digital transformation and innovation", presented at the *Pre-FOSDEM event*. Brussels, Belgium. [[Speakerdeck](https://speakerdeck.com/sfermigier/open-source-a-dynamic-market-fueled-by-digital-transformation-and-innovation)]
 
-* "20 years of FLOSS public policies in France (Pre-FOSDEM 2020 edition)". [[Speakerdeck](https://speakerdeck.com/sfermigier/20-years-of-floss-public-policies-in-france-pre-fosdem-2020-edition)]
+* "20 years of FLOSS public policies in France (Pre-FOSDEM 2020 edition)". Brussels, Belgium. [[Speakerdeck](https://speakerdeck.com/sfermigier/20-years-of-floss-public-policies-in-france-pre-fosdem-2020-edition)]
 
 ## 2019
 
 ### December
 
-* "Souveraineté numérique et logiciel libre", presented at the Blue Hat Summit during POSS 2019. [[Speakerdeck](https://speakerdeck.com/sfermigier/souverainete-numerique-et-logiciel-libre-dec-2019)]
+* "Souveraineté numérique et logiciel libre", presented at the Blue Hat Summit during POSS 2019. Paris, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/souverainete-numerique-et-logiciel-libre-dec-2019)]
 
 ### November 
 
 * Presentation of the Lab&Co platform during the [Free Software Publisher Spotlight
-event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spotlight) at Cap Digital.
+event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spotlight) at Cap Digital. Paris, France.
 
 ### May
 
@@ -33,33 +33,33 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### December
 
-* "From values to value creation in the French F/OSS industry", presented during POSS 2018. [[PDF](/assets/pdf/cnll-community-summit-2018.pdf)]
+* "From values to value creation in the French F/OSS industry", presented during POSS 2018. Paris, France. [[PDF](/assets/pdf/cnll-community-summit-2018.pdf)]
 
 ## 2017
 
 ### December
 
-* "Python quality engineering - A tour of best practices". Presented during the Paris Open Source Summit 2017. [[Speakerdeck](https://speakerdeck.com/sfermigier/python-quality-engineering-a-tour-of-best-practices)]
+* "Python quality engineering - A tour of best practices". Presented during the Paris Open Source Summit 2017. Paris, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/python-quality-engineering-a-tour-of-best-practices)]
 
-* "Business analytics with Python-based tools". Presented during the Paris Open Source Summit 2017. [[Speakerdeck](https://speakerdeck.com/sfermigier/business-analytics-with-python-based-tools)]
+* "Business analytics with Python-based tools". Presented during the Paris Open Source Summit 2017. Paris, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/business-analytics-with-python-based-tools)]
 
-* "Some Historical Perspectives on the Open Cloud", presented at the Open Cloud Foundation Launch Meeting - 14 Dec 2017. [[Speakerdeck](https://speakerdeck.com/sfermigier/some-historical-perspectives-on-the-open-cloud)]
+* "Some Historical Perspectives on the Open Cloud", presented at the Open Cloud Foundation Launch Meeting - 14 Dec 2017. Paris, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/some-historical-perspectives-on-the-open-cloud)]
 
 ### March
 
-* "Résultats de l'enquête Big Data / IA auprès des pôles de compétitivité". [[Speakerdeck](https://speakerdeck.com/sfermigier/ia-aupres-des-poles-de-competitivite)]
+* "Résultats de l'enquête Big Data / IA auprès des pôles de compétitivité". Saclay, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/ia-aupres-des-poles-de-competitivite)]
 
 ## 2016
 
 ### February
 
-* "Le développement front-end en 2016", présenté lors d'un meetup PLOSS. [[PDF](/assets/pdf/dev-front-end-2016.pdf)]
+* "Le développement front-end en 2016", présenté lors d'un meetup PLOSS. Paris, France. [[PDF](/assets/pdf/dev-front-end-2016.pdf)]
 
 ## 2015
 
 ### November
 
-* "Présentation de la plateforme et des solutions Abilian pour la collaboration". Présenté lors du Paris Open Source Summit 2015. [[SlideShare](https://www.slideshare.net/sfermigier/pitch-abilian-paris-open-source-summit-2015)] 
+* "Présentation de la plateforme et des solutions Abilian pour la collaboration". Présenté lors du Paris Open Source Summit 2015. Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/pitch-abilian-paris-open-source-summit-2015)] 
 
 ## 2014
 
@@ -69,11 +69,11 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### June
 
-* "Benchmark: place du numérique dans la stratégie de plusieurs établissements d’enseignement supérieur". [[PDF](/assets/pdf/mooc-benchmark-2014.pdf)]
+* "Benchmark: place du numérique dans la stratégie de plusieurs établissements d’enseignement supérieur". Séminaire privé. [[PDF](/assets/pdf/mooc-benchmark-2014.pdf)]
 
 ### May
 
-* "Les MOOC comme plateforme Web 2.0", présentation lors d'un colloque à l'[Académie des Technologies](https://www.academie-technologies.fr/blog/posts/formation-en-ligne-flot-s-mooc-s-seance-du-14-mai-2014).
+* "Les MOOC comme plateforme Web 2.0", présentation lors d'un colloque à l'[Académie des Technologies](https://www.academie-technologies.fr/blog/posts/formation-en-ligne-flot-s-mooc-s-seance-du-14-mai-2014). Paris, France.
 
 ## 2013
 
@@ -83,37 +83,37 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ### July
 
-* "L’Open Source Professionnel un business model d’éditeur open source" [[SlideShare](https://www.slideshare.net/sfermigier/lopen-source-professionnel-un-business-model-open-source)]
+* "L’Open Source Professionnel un business model d’éditeur open source". Palaiseau, France. [[SlideShare](https://www.slideshare.net/sfermigier/lopen-source-professionnel-un-business-model-open-source)].
 
-* "Créer une communauté open source: pourquoi? comment?" [[SlideShare](https://www.slideshare.net/sfermigier/communaute-opensourcejdev2013)]
+* "Créer une communauté open source: pourquoi? comment?" Palaiseau, France. [[SlideShare](https://www.slideshare.net/sfermigier/communaute-opensourcejdev2013)].
 
 ### June
 
-* "Roadmap du GTLL 2013-2020" [[SlideShare](https://www.slideshare.net/sfermigier/roadmap-du-gt-logiciel-libre)]
+* "Roadmap du GTLL 2013-2020" Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/roadmap-du-gt-logiciel-libre)].
 
 ### May
 
 * "Abilian - Plateforme open source pour applications “Entreprise 2.0”" [[SlideShare](https://www.slideshare.net/sfermigier/pitch-abilian-mai-2013)]
 
-* "Le MOOC by Abilian - Et si votre MOOC était un réseau social?" [[SlideShare](https://www.slideshare.net/sfermigier/le-mooc-powered)]
+* "Le MOOC by Abilian - Et si votre MOOC était un réseau social?", présenté lors du workshop Le Mooc. Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/le-mooc-powered)]
 
 ### February
 
-* "Pourquoi le big data open source?" [[SlideShare](https://www.slideshare.net/sfermigier/pourquoi-le-big-data-open-source)]
+* "Pourquoi le big data open source?". Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/pourquoi-le-big-data-open-source)]
 
-* "Les écosystèmes du logiciel libre" [[SlideShare](https://www.slideshare.net/sfermigier/ecosystemes-logiciel-libre)]
+* "Les écosystèmes du logiciel libre". Paris France. [[SlideShare](https://www.slideshare.net/sfermigier/ecosystemes-logiciel-libre)]
 
 ## 2012
 
 ### April
 
-* "Four Python pains" [[SlideShare](https://www.slideshare.net/sfermigier/four-python-pains)]
+* "Four Python pains". Paris, France [[SlideShare](https://www.slideshare.net/sfermigier/four-python-pains)]
 
 * "Open Source en Entreprise: retour d’expérience(s)" [[PDF](/assets/pdf/open-source-rex-2012.pdf)]
 
 ### March
 
-* "Open Innovation in Action: Lessons learned about social collaboration from 30 years of open source" [[SlideShare](https://www.slideshare.net/sfermigier/open-innovation-in-action)]
+* "Open Innovation in Action: Lessons learned about social collaboration from 30 years of open source". Paris, France. [[SlideShare](https://www.slideshare.net/sfermigier/open-innovation-in-action)]
 
 ## 2011
 
@@ -276,7 +276,11 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ## 1999
 
+### June
+
+* "Programmation Internet et Web avec Python", Linux Expo, Paris, France. [[HTML](https://linux-center.org/articles/9906/python/python-1.html)]
+
 ### January
 
-* "Présentation de Linux", présentation à la MTIC (Mission interministérielle pour le développement des technologies de l'information et de la communication dans l'administration) [[HTML](/html/prez-linux-1999.html)].
+* "Présentation de Linux", présentation à la MTIC (Mission interministérielle pour le développement des technologies de l'information et de la communication dans l'administration), Paris, France. [[HTML](/html/prez-linux-1999.html)].
 
