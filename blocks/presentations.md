@@ -145,6 +145,10 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 * "Introduction to the Semantic Web", Solutions Linux 2011, Paris. With Olivier Grisel.
 
+### April
+
+* "Industrial implementations of IKS: Nuxeo", Annual IKS review, Luxembourg. [[PDF](/assets/pdf/nuxeo-iks-review-2011.pdf)].
+
 ### March
 
 * "Les écosystèmes du logiciel libre", Open the Source 2011, Belgique.
@@ -178,12 +182,17 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 ### May
 
 * "Open Cloud @ GT LL - Pour un cloud ouvert et interopérable", Paris. [[SlideShare](https://www.slideshare.net/sfermigier/open-cloud-computing-gtll)].
+* "Proposal for a Technical Board", IKS meeting, Paderborn. [[PDF](/assets/pdf/iks-tb-proposal.pdf).
 
 ### Mars
 
 * "GT Logiciel Libre", Solutions Linux 2010, Paris.
 
 ## 2009
+
+### November 
+
+* "Some remarks from an industrial partner perspective", IKS General Assembly. [[PDF](/assets/pdf/iks-nuxeo-remarks-200911.pdf).
 
 ### October
 
@@ -194,6 +203,10 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 ### April
 
 * "What's new in Nuxeo 5.2?", Solutions Linux 2009, Paris. [[PDF](/assets/pdf/tuto-solutions-linux-2009.pdf), [SlideShare](https://www.slideshare.net/sfermigier/whats-new-in-nuxeo-52-solutions-linux-2009)].
+
+### March
+
+* "IKS Workshop", Roma. [[PDF](/assets/pdf/iks-roma.pdf).
 
 ### February
 
