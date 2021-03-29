@@ -18,7 +18,13 @@ Extrait de l'intervention de Cédric Villani lors d'un séminaire en ligne organ
 <p></p>
 
 
+(NB: transcription approximative, n'hésitez pas à corriger [sur GitHub](https://github.com/sfermigier/fermigier.com-gridsome/blob/master/blog/2021-03-29-cedric-villani-ia-souverainete.md). Les titres et les passages soulignés sont moi.)
+
+
 <blockquote>
+
+## Introduction et constats
+
 Je vais faire un petit exposé de présentation. Je vais rappeler quelques éléments qui sont bien connus et insister sur quelques messages forts qu'il faut bien garder en tête. 
 
 La première chose? Intelligence artificielle. Surtout, ne pas chercher une définition précise. C'est tout un ensemble de tâches, un ensemble d'algorithmes et de recettes qui permettent d'accomplir des tâches, savoir ce qui relève de l'IA et ce qui n'en relèvent pas, c'est assez subjectif, ça varie en fonction du temps. On dit bien souvent que au fur et à mesure, quand quelque chose est bien connu et maîtrisé, on cesse de l'appeler l'intelligence artificielle. Dire quelque chose de connu et ce qu'on appelle genre statufié, c'est toujours ce qui est un peu à la frontière. Ce qui vient de façon surprenante s'inviter dans la palette de ce qui fait automatiquement. Alors qu'on pensait que ça demandait du demander une intelligence humaine. Et il ne faut pas chercher surtout à trouver une définition, une définition précise.
@@ -53,6 +59,9 @@ Donc, il y a une attaque au sens de peut s'avérer comme un remplacement ou quel
 
 Dans bien des cas, c'est de la compétition pour les très grands jeux de données.
 
+
+## Un enjeu géopolitique
+
 Et c'est la compétition pour les très grandes, pour les grosses et très grosses d'infrastructures de calcul. On est là sur des investissements qui, là encore, se chiffrent en milliards et dans lesquels les deux gros joueurs que sont Etats-Unis et Chine. Et en ce moment, la Chine, avec un développement encore plus rapide que les Etats-Unis, joue de façon extrêmement forte, voire agressive, en débauchant les chercheurs, en récoltant autant que possible les, en constituant les gigantesques bases de données, en cherchant à attirer, agglomérer les réseaux et avec une publicité extraordinaire.
 
 Quels atouts de la France en la matière? Premièrement, la France est une grande nation de mathématiques, une grande nation de recherche, ce qui ne s'est jamais démenti depuis trois siècles. Et quand je dis grande nation, c'est-à-dire sur le podium mondial, tout ce qui est abstrait, tout ce qui est universel, ce sont des choses qui plaisent à la France. L'idée d'une recherche qui ' quête de recherche dans l'intérêt commun, c'est quelque chose qui est très important pour la France, pour la France aussi.
@@ -63,13 +72,16 @@ C'est assez réparti. On peut y ajouter un ou deux noms en Chine, en Allemagne, 
 
 Dans ce contexte, il faut à la fois se renforcer sur le point faible et conserver le point fort. Le point fort? Très clairement, le plus grand point fort, c'est la recherche.
 
+
+## Les axes d'actions
+
 Comment cette atout français peut-il se transformer en souveraineté et nous éviter de nous faire déclasser ou cyber-coloniser ?
 
 Premièrement, **en faisant confiance à sa recherche et à ses chercheurs**, en donnant des moyens, en leur simplifiant la vie, en les aidant à être fiers de ce qu'ils font, en les valorisant.
 
-Deuxièmement, en jouant de façon très résolue et sans hésiter la carte européenne pour des questions de taille, de pools de personnes qui collaborent et qui font de la recherche ; pour des questions de taille de marché dans un secteur où la recherche a besoin d'être tiré par les applications et donc d'être sans cesse en relation avec les acteurs économiques ; enfin, par rapport au nombre d'usagers, de personnes qui participent. 
+Deuxièmement, **en jouant de façon très résolue et sans hésiter la carte européenne** pour des questions de taille, de pools de personnes qui collaborent et qui font de la recherche ; pour des questions de taille de marché dans un secteur où la recherche a besoin d'être tiré par les applications et donc d'être sans cesse en relation avec les acteurs économiques ; enfin, par rapport au nombre d'usagers, de personnes qui participent. 
 
-Très très clairement, **cette souveraineté est à développer dans un cadre européen**. 
+Très très clairement, cette souveraineté est à développer dans un cadre européen. 
 
 Ensuite, **en faisant appel à la formation**. La France est un pays qui forme de très bons chercheurs, mais peu dans un domaine où il y a besoin d'élargir très largement la base. 
 
