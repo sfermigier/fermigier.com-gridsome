@@ -1,7 +1,7 @@
 ---
 title: "Video: Cédric Villani - IA et souveraineté numérique"
 date: 2021-03-29
-path: /blog/2021-03-29-cedric-villani-ia-souverainete.md
+path: /blog/2021/03/2021-03-29-cedric-villani-ia-souverainete
 summary: "Quelques réflexions et pistes d'actions de Cédric Villani sur la place de la France et de l'Europe dans l'Intelligence Artificielle"
 tags: ['IA', 'Politique']
 ---

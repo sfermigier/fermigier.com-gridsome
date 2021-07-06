@@ -6,7 +6,23 @@ I enjoy giving talks on subjects that matter to me.
 
 Here's a (partial) list of the talks and lectures I have given over the last 20+ years.
 
-## 2020
+
+## 2021  [🦠+💉]
+
+### June
+
+* "How public policies can contribute to the sustainability of the European open source ecosystem (and why they should)", OW2Con, online. [[Speakerdeck](https://speakerdeck.com/sfermigier/ow2con-2021-how-public-policies-can-contribute-to-the-sustainability-of-the-european-open-source-ecosystem-and-why-they-should)]
+
+### May
+
+* "European Digital Sovereignty: Perspectives from the French Open Source sector", Online. [[Speakerdeck](https://speakerdeck.com/sfermigier/european-digital-sovereignty-perspectives-from-the-french-open-source-sector)]
+
+### March
+
+* "Some comments about the Bothorel mission in France", Online. [[Speakerdeck](https://speakerdeck.com/sfermigier/some-comments-about-the-bothorel-mission-in-france)].
+
+
+## 2020 [🦠]
 
 ### January
 
@@ -14,20 +30,24 @@ Here's a (partial) list of the talks and lectures I have given over the last 20+
 
 * "20 years of FLOSS public policies in France (Pre-FOSDEM 2020 edition)". Brussels, Belgium. [[Speakerdeck](https://speakerdeck.com/sfermigier/20-years-of-floss-public-policies-in-france-pre-fosdem-2020-edition)]
 
+
 ## 2019
 
 ### December
 
 * "Souveraineté numérique et logiciel libre", presented at the Blue Hat Summit during POSS 2019. Paris, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/souverainete-numerique-et-logiciel-libre-dec-2019)]
 
+* "Business analytics with OlaPy", POSS 2019, Paris, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/business-analytics-with-olapy)]
+
 ### November 
 
 * Presentation of the Lab&Co platform during the [Free Software Publisher Spotlight
-event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spotlight) at Cap Digital. Paris, France.
+event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spotlight) at Cap Digital. Paris, France. [[Speakerdeck](https://speakerdeck.com/sfermigier/retour-d-experience-sur-lab-and-co-un-progiciel-pour-si-recherche)]
 
 ### May
 
 * "Why and how to open source your software (when you're not a software company)". Private seminar. Public version here: [[Speakerdeck](https://speakerdeck.com/sfermigier/2019-corporate-open-source)]
+
 
 ## 2018
 
@@ -103,7 +123,7 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 * "Les écosystèmes du logiciel libre". Paris France. [[SlideShare](https://www.slideshare.net/sfermigier/ecosystemes-logiciel-libre)]
 
-## 2012
+## 2012 [☕️→🐍]
 
 ### April
 
@@ -214,7 +234,7 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ## 2008
 
-## November
+### November
 
 * "The Nuxeo Way", Nuxeo DevDay 2008, Paris.
 [[SlideShare](https://www.slideshare.net/nuxeo/1-keynote-devday-sf-presentation),
@@ -234,7 +254,7 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 * "Nuxeo: un projet d’ECM open source", Sun Tech Days 2007, Paris, France.
 
-## 2006
+## 2006 [🐍→☕️]
 
 ### October
 
@@ -251,10 +271,15 @@ event](https://www.fdl-lef.org/fr/FDL-Document.Blog.Free.Software.Publisher.Spot
 
 ## 2005
 
+### November
+
+* "Introducing Funkload" [[PDF](/assets/pdf/introducing-funkload.pdf)].
+
 ### July
 
 * "CPS: Plateforme d'ECM libre basée sur Zope", RMLL 2005, Dijon, France. [[PDF](/assets/pdf/rmll-2005-cps.pdf)].
 * "Python best practices", RMLL 2005, Dijon, France. [[PDF](/assets/pdf/python-best-practices.pdf)].
+
 
 ## 2004
 
