@@ -85,7 +85,7 @@ As the president of [AFUL](http://www.aful.org/), the French-speaking Linux and 
 
 ## Scientific Papers
 
-I've published several scientific papers. [According to Google Scholar](https://scholar.google.fr/citations?hl=fr&view_op=list_works&gmla=AJsN-F6_7Lag4VdkEd49oQVBPE3rkTLVwe1Fv8iBJ4DHxcj-8xJ2GfOOtpH8BoGyjXKG4sCP9onQy9wYJ4N16Ui1Hza0VQH0tA173fkTo57rKcppqlvr6nw&user=Sf3kshQAAAAJ), my h-index is 9 (235 citations).
+I've published several scientific papers. [According to Google Scholar](https://scholar.google.fr/citations?hl=fr&view_op=list_works&gmla=AJsN-F6_7Lag4VdkEd49oQVBPE3rkTLVwe1Fv8iBJ4DHxcj-8xJ2GfOOtpH8BoGyjXKG4sCP9onQy9wYJ4N16Ui1Hza0VQH0tA173fkTo57rKcppqlvr6nw&user=Sf3kshQAAAAJ), my h-index is 9 (247 citations).
 
 ### Computer Science
 
@@ -97,7 +97,7 @@ I have written (or contributed to) a small number of scientific papers on comput
 
 * *EDOS: Environment for the Development and Distribution of Open Source Software*, 2005. [[PDF](/assets/pdf/edos-oss05.pdf)]
 
-* *Le moteur de recherche FermiVista!*, in L'information scientifique et l'outil Internet, Le Micro Bulletin Thématique, CNRS, 1999.
+* *Le moteur de recherche FermiVista!*, in L'information scientifique et l'outil Internet, Le Micro Bulletin Thématique, CNRS, 1999. [[PDF](/assets/pdf/fermivista.pdf)]
 
 ### Mathematics
 
