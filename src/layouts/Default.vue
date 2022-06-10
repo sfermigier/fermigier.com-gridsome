@@ -14,7 +14,7 @@
         class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8"
       >
         <div class="mb-8 lg:mb-0">
-          <div>Copyright 1996-2021. All rights reserved.</div>
+          <div>Copyright 1996-2022. All rights reserved.</div>
           <div>
             <a
               href="/rss.xml"

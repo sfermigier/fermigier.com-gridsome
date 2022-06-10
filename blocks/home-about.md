@@ -19,10 +19,12 @@ ECM vendor and was eventually bought by Hyland for M$ 150 in 2021.
 
 ## My involvement in the open source ecosystem
 
+### Open source organisations (France, Europe)
+
 I have cofounded and led several organizations dedicated to
 developing the open source ecosystem in France and Europe:
 
-* [APELL](https://apell.info/) (2020), the European Open Source Software Business Association (Association Professionnelle Européenne du Logiciel Libre). I'm serving as a board members since 2020.
+* [APELL](https://apell.info/) (2020), the European Open Source Software Business Association (Association Professionnelle Européenne du Logiciel Libre). I'm serving as a board members since 2020, and as the chairman in 2022.
 
 * [CNLL](https://cnll.fr/) (2010), the French National Council of Free / Open Source Companies. I'm serving as co-chairman since 2016.
 
@@ -34,16 +36,23 @@ developing the open source ecosystem in France and Europe:
 
 * [AFUL](http://www.aful.org/) (1998), the french-speaking Linux and free software users association. I served as its chairman from 1998 to 2003.
 
+### Open source projects
 
 I'm also the founder or a cofounder of several [open source projects](/open-source/), including:
 
-* [Olapy](https://github.com/abilian/olapy)
+* [Nua](https://nua.rocks/) - a self-hosted PaaS and application marketplace.
 
-* [Abilian SBE](https://github.com/abilian/abilian-sbe)
+* [Olapy](https://github.com/abilian/olapy) - an experimental OLAP engine based on Pandas.
 
-* [Apache Stanbol](http://stanbol.apache.org/)
+* [Abilian SBE](https://github.com/abilian/abilian-sbe) - Abilian Social Business Engine - an enterprise social networking / collaboration platform.
 
-* [Apache Chemistry](http://chemistry.apache.org/)
+* [Apache Stanbol](http://stanbol.apache.org/) - a set of reusable components for semantic content management.
+
+* [Apache Chemistry](http://chemistry.apache.org/) - a set of implementations of the Content Management Interoperability Services (CMIS) specification.
+
+* [Nuxeo EP](https://github.com/nuxeo/nuxeo) - content management platform to build modern business applications 
+
+* [Nuxeo CPS](https://github.com/nuxeo-cps) - the Nuxeo Collaborative Portal Server.
 
 [➜ More about my open source activities](/open-source/)
 
