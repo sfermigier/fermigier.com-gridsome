@@ -89,7 +89,7 @@ As the president of [AFUL](http://www.aful.org/), the French-speaking Linux and 
 
 ## Scientific Papers
 
-I've published several scientific papers. [According to Google Scholar](https://scholar.google.fr/citations?hl=fr&view_op=list_works&gmla=AJsN-F6_7Lag4VdkEd49oQVBPE3rkTLVwe1Fv8iBJ4DHxcj-8xJ2GfOOtpH8BoGyjXKG4sCP9onQy9wYJ4N16Ui1Hza0VQH0tA173fkTo57rKcppqlvr6nw&user=Sf3kshQAAAAJ), my h-index is 9 (247 citations).
+I've published several scientific papers. [According to Google Scholar](https://scholar.google.fr/citations?hl=fr&view_op=list_works&gmla=AJsN-F6_7Lag4VdkEd49oQVBPE3rkTLVwe1Fv8iBJ4DHxcj-8xJ2GfOOtpH8BoGyjXKG4sCP9onQy9wYJ4N16Ui1Hza0VQH0tA173fkTo57rKcppqlvr6nw&user=Sf3kshQAAAAJ), **my h-index is 10** (256 citations).
 
 ### Computer Science
 
