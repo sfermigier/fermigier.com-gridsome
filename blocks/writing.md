@@ -59,6 +59,8 @@ I also wrote the forewords of the following booklets:
 
 I have contributed to the following studies (wrote the whole or parts of the document, designed the study with the contractor...):
 
+* *Report on the APELL Conference : The Future of Open Source Business in Europe* (APELL, 2022) [[PDF](/assets/pdf/apell-workshop-report-2022.pdf)].
+
 * *Formations et compétences Open Source en France* (OPIIEC, 2021) [[Link](https://www.opiiec.fr/etudes/133755)].
 
 * *Une stratégie pour le numérique ouvert dans l’après-Covid 19* (CNLL, 2020) [[PDF](https://cnll.fr/media/CNLL-post-covid_mdGUMmx.pdf)].
@@ -72,6 +74,8 @@ I have contributed to the following studies (wrote the whole or parts of the doc
 * *Impact du Logiciel Libre &amp; Open Source en France 2017-2020* (PAC pour le CNLL, 2017) [[PDF](https://cnll.fr/media/etude-2017.pdf)]
 
 * *Impact du Logiciel Libre / Open Source Software en France 2015-2020* (PAC pour le CNLL, 2015) [[PDF](https://cnll.fr/media/pac-logiciels-libres-2015.pdf)]
+
+* *Contribution du groupe Logiciel Libre du pôle Systematic à l’appel pour le plan industriel Cloud* (GTLL, 2013) [[PDF](/assets/pdf/propositions-plan-cloud-2013.pdf)]
 
 * *10 propositions pour une politique industrielle du logiciel libre* (CNLL, 2012) [[PDF](https://cnll.fr/media/propositions_cnll_fleurpellerin.pdf)]
 
